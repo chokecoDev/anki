@@ -348,7 +348,15 @@
         async function loadDeckFromRepo() {
             try {
                 // Se agrega un parámetro para evitar caché agresivo del navegador/CDN
-                const response = await fetch(`${DECK_FILENAME}?v=${Date.now()}`, { cache: 'no-store' });
+                const controller = new AbortController();
+                const timeoutId = setTimeout(() => controller.abort(), 5000); // 5 segundos de timeout
+                
+                const response = await fetch(`${DECK_FILENAME}?v=${Date.now()}`, { 
+                    cache: 'no-store',
+                    signal: controller.signal
+                });
+                clearTimeout(timeoutId);
+                
                 if (!response.ok) {
                     throw new Error(`HTTP ${response.status}`);
                 }
@@ -669,7 +677,7 @@
             // Unimos los fragmentos chinos con una coma para que haya una breve pausa si hay varias líneas
             const textToSpeak = chineseCharacters.join(', ');
 
-            con utterance = new SpeechSynthesisUtterance(textToSpeak);
+            const utterance = new SpeechSynthesisUtterance(textToSpeak);
             utterance.lang = 'zh-CN';
             utterance.rate = 0.85;
 
