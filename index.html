@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🇨🇳 Práctica de Chino - Leitner Flashcards</title>
+    <style>
+        :root {
+            --primary-color: #E74C3C;
+            --primary-hover: #C0392B;
+            --secondary-color: #3498DB;
+            --secondary-hover: #2980B9;
+            --accent-color: #F39C12;
+            --bg-color: #ECF0F1;
+            --card-bg: #FFFFFF;
+            --text-color: #2C3E50;
+            --shadow-color: rgba(0,0,0,0.1);
+            --font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            --border-radius: 12px;
+            --card-transition: 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+
+            /* Colores de estado (Leitner) */
+            --color-new: #3498DB;      /* Azul */
+            --color-learning: #E67E22; /* Naranja */
+            --color-mastered: #2ECC71; /* Verde */
+            --color-fail: #E74C3C;     /* Rojo */
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: var(--font-family);
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        header { margin-bottom: 20px; text-align: center; }
+        h1 { color: var(--primary-color); font-size: 2.2rem; margin-bottom: 5px; }
+        .subtitle { color: #7F8C8D; font-size: 0.9rem; }
+
+        .main-container { width: 100%; max-width: 800px; display: flex; flex-direction: column; align-items: center; }
+
+        /* ESTADO DE CARGA (fetch automático de anki.txt) */
+        .loading-zone {
+            width: 100%; background: var(--card-bg); border-radius: var(--border-radius);
+            padding: 40px 20px; text-align: center; margin-bottom: 20px;
+            box-shadow: 0 4px 10px var(--shadow-color);
+        }
+        .loading-zone p { color: #7F8C8D; font-size: 1.05rem; }
+
+        /* ZONA DE CARGA MANUAL (respaldo si falla el fetch) */
+        .file-upload-zone {
+            width: 100%; background: var(--card-bg); border: 3px dashed #BDC3C7;
+            border-radius: var(--border-radius); padding: 40px 20px; text-align: center;
+            cursor: pointer; transition: all 0.3s; margin-bottom: 20px;
+        }
+        .file-upload-zone:hover, .file-upload-zone.dragover { border-color: var(--primary-color); background-color: rgba(231, 76, 60, 0.05); }
+        .file-upload-zone svg { width: 50px; height: 50px; fill: #7F8C8D; margin-bottom: 15px; }
+        .file-upload-zone.dragover svg { fill: var(--primary-color); }
+        .file-upload-zone p { font-size: 1.1rem; color: #7F8C8D; margin-bottom: 5px; }
+        .file-upload-zone input { display: none; }
+
+        .load-error {
+            margin-bottom: 15px; padding: 12px 16px; border-radius: 8px;
+            background: #FDEDEC; border: 1px solid #F5B7B1; color: #C0392B;
+            font-size: 0.9rem; text-align: left; line-height: 1.4; display: none;
+        }
+
+        /* AYUDA DE FORMATO */
+        .format-help {
+            margin-top: 25px;
+            font-size: 0.9rem;
+            color: #7F8C8D;
+            background: #F8F9FA;
+            padding: 15px 20px;
+            border-radius: 8px;
+            border: 1px solid #E0E4E8;
+            display: inline-block;
+            text-align: left;
+            line-height: 1.6;
+        }
+        .format-help strong { color: var(--text-color); }
+        .format-help code {
+            background: #EAECEE;
+            padding: 3px 6px;
+            border-radius: 4px;
+            font-family: monospace;
+            color: var(--primary-color);
+            font-weight: bold;
+        }
+        .format-help .example {
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px dashed #BDC3C7;
+            font-size: 0.85rem;
+            color: #95A5A6;
+        }
+
+        /* CONTROLES DE PESTAÑAS */
+        .controls-panel { width: 100%; display: none; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px; }
+        button {
+            font-family: var(--font-family); border: none; padding: 10px 18px;
+            border-radius: var(--border-radius); cursor: pointer; font-size: 14px; font-weight: 600;
+            transition: all 0.2s; display: flex; align-items: center; justify-content: center; gap: 6px;
+            color: white; box-shadow: 0 4px 6px var(--shadow-color);
+        }
+        button:active { transform: translateY(2px); box-shadow: 0 1px 3px var(--shadow-color); }
+        .btn-primary { background-color: var(--primary-color); }
+        .btn-primary:hover { background-color: var(--primary-hover); }
+        .btn-secondary { background-color: var(--secondary-color); }
+        .btn-secondary:hover { background-color: var(--secondary-hover); }
+        .btn-accent { background-color: var(--accent-color); }
+        .btn-accent:hover { background-color: #E67E22; }
+        .btn-success { background-color: var(--color-mastered); }
+        .btn-success:hover { background-color: #27AE60; }
+        .btn-info { background-color: var(--color-new); }
+        .btn-info:hover { background-color: #2980B9; }
+        button:disabled { background-color: #BDC3C7; cursor: not-allowed; box-shadow: none; transform: none; }
+        button svg { width: 18px; height: 18px; fill: white; }
+
+        /* ESTADÍSTICAS Y PROGRESO */
+        .stats-container { width: 100%; display: none; flex-direction: column; gap: 10px; margin-bottom: 20px; }
+        .stats-bar { display: flex; justify-content: space-between; font-size: 0.95rem; font-weight: bold; background: white; padding: 12px 20px; border-radius: 8px; box-shadow: 0 2px 5px var(--shadow-color); }
+        .stat-new { color: var(--color-new); }
+        .stat-learning { color: var(--color-learning); }
+        .stat-mastered { color: var(--color-mastered); }
+
+        .progress-bg { width: 100%; height: 8px; background-color: #DFE6E9; border-radius: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; background-color: var(--color-mastered); width: 0%; transition: width 0.5s ease; }
+
+        /* MODO PRÁCTICA */
+        #practice-mode { display: none; width: 100%; text-align: center; }
+
+        .card-perspective-container { width: 100%; perspective: 1000px; margin-bottom: 20px; }
+        .flashcard {
+            width: 100%; min-height: 280px; position: relative; transform-style: preserve-3d;
+            transition: transform var(--card-transition); cursor: pointer; border-radius: var(--border-radius);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+        }
+        .flashcard.flipped { transform: rotateY(180deg); }
+        .card-face {
+            width: 100%; height: 100%; position: absolute; top: 0; left: 0; backface-visibility: hidden;
+            display: flex; flex-direction: column; justify-content: center; align-items: center;
+            padding: 40px; border-radius: var(--border-radius); font-size: 22px; overflow: auto; text-align: center;
+        }
+        .front-face { background: var(--card-bg); color: var(--text-color); }
+        .back-face { background: #2C3E50; color: #ECF0F1; transform: rotateY(180deg); }
+        .back-face strong { color: var(--accent-color); font-size: 1.2em; }
+
+        .btn-audio { background-color: rgba(255, 255, 255, 0.1); border-radius: 50%; padding: 12px; margin-top: 20px; box-shadow: none; }
+        .btn-audio:hover { background-color: rgba(255, 255, 255, 0.3); }
+        .btn-audio svg { width: 26px; height: 26px; margin: 0; }
+
+        .hint-flip { font-size: 14px; color: #95A5A6; margin-top: 25px; display: flex; align-items: center; gap: 5px; justify-content: center;}
+        .hint-flip-dark { color: #BDC3C7; }
+
+        /* BOTONES DE CALIFICACIÓN (LEITNER) */
+        .rate-controls {
+            display: flex; justify-content: center; gap: 10px; width: 100%;
+            opacity: 0; pointer-events: none; transition: opacity 0.3s ease;
+        }
+        .rate-controls.visible { opacity: 1; pointer-events: auto; }
+        .btn-rate-1 { background-color: var(--color-fail); flex: 1; padding: 15px 10px; }
+        .btn-rate-1:hover { background-color: #C0392B; }
+        .btn-rate-2 { background-color: var(--color-learning); flex: 1; padding: 15px 10px; }
+        .btn-rate-2:hover { background-color: #D35400; }
+        .btn-rate-3 { background-color: var(--color-mastered); flex: 1; padding: 15px 10px; }
+        .btn-rate-3:hover { background-color: #27AE60; }
+
+        .shortcut-hint { font-size: 0.75rem; opacity: 0.7; margin-left: 5px; }
+
+        /* PANTALLA DE RESUMEN */
+        #summary-screen {
+            display: none; width: 100%; background: white; padding: 40px 20px;
+            border-radius: var(--border-radius); box-shadow: 0 10px 20px rgba(0,0,0,0.1); text-align: center;
+        }
+        #summary-screen h2 { color: var(--primary-color); margin-bottom: 20px; font-size: 2rem; }
+        #summary-screen p { font-size: 1.2rem; margin-bottom: 15px; color: #34495E; }
+        .summary-actions { display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 30px; }
+
+        /* MODO EDICIÓN */
+        #edit-mode { display: none; width: 100%; }
+        .editor-container { width: 100%; background: var(--card-bg); padding: 20px; border-radius: var(--border-radius); box-shadow: 0 6px 12px var(--shadow-color); margin-bottom: 20px; }
+        .editor-help { font-size: 14px; color: #7F8C8D; margin-bottom: 15px; line-height: 1.4; }
+        textarea { width: 100%; height: 400px; padding: 15px; font-family: 'Courier New', Courier, monospace; font-size: 14px; border: 2px solid #BDC3C7; border-radius: 8px; resize: vertical; box-sizing: border-box; background: #F9F9F9; }
+        textarea:focus { outline: none; border-color: var(--secondary-color); }
+        .editor-actions { display: flex; justify-content: flex-end; gap: 10px; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>🇨🇳 Flashcards Chino</h1>
+        <p class="subtitle">Aprendizaje Inteligente con Repetición Espaciada</p>
+    </header>
+
+    <div class="main-container">
+
+        <!-- ESTADO DE CARGA AUTOMÁTICA -->
+        <div class="loading-zone" id="loading-zone">
+            <p>⏳ Cargando <code>anki.txt</code> del repositorio...</p>
+        </div>
+
+        <!-- ZONA DE CARGA MANUAL (solo se muestra si falla el fetch automático) -->
+        <div class="file-upload-zone" id="drop-zone" style="display:none;" onclick="document.getElementById('fileInput').click()">
+            <div class="load-error" id="load-error"></div>
+            <svg viewBox="0 0 24 24"><path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"></path></svg>
+            <p>Arrastra tu archivo (.txt) de Anki aquí</p>
+            <p>o haz clic para buscarlo</p>
+
+            <div class="format-help">
+                <strong>💡 Formato requerido del archivo:</strong><br><br>
+                1. El archivo debe ser de texto plano (<code>.txt</code>).<br>
+                2. Cada tarjeta debe tener dos columnas separadas por una <strong>tabulación</strong>:<br>
+                &nbsp;&nbsp;&nbsp;Cara frontal <code>[Tab]</code> Cara posterior<br>
+                3. Deja una <strong>línea en blanco</strong> entre cada tarjeta.<br>
+
+                <div class="example">
+                    <em>Ejemplo:</em><br>
+                    Hola <code>[Tabulador]</code> 你好 (nǐ hǎo)<br>
+                    <br>
+                    Adiós <code>[Tabulador]</code> 再见 (zàijiàn)
+                </div>
+            </div>
+
+            <input type="file" id="fileInput" accept=".txt">
+        </div>
+
+        <!-- PANELES DE MODO -->
+        <div class="controls-panel" id="controls-panel">
+            <button class="btn-secondary" onclick="showMode('practice')">📚 Práctica</button>
+            <button class="btn-secondary" onclick="showMode('edit')">✏️ Edición</button>
+            <button class="btn-success" onclick="reviewMastered()">🌟 Repasar Dominadas</button>
+            <button class="btn-info" onclick="reviewNotMastered()">📉 Repasar No Dominadas</button>
+            <button class="btn-accent" onclick="promptRestart()">🔄 Reiniciar Todo</button>
+        </div>
+
+        <!-- BARRA DE ESTADÍSTICAS -->
+        <div class="stats-container" id="stats-container">
+            <div class="stats-bar">
+                <span class="stat-new">🔵 Nuevas: <span id="count-new">0</span></span>
+                <span class="stat-learning">🟠 Aprendiendo: <span id="count-learning">0</span></span>
+                <span class="stat-mastered">🟢 Dominadas: <span id="count-mastered">0</span></span>
+            </div>
+            <div class="progress-bg">
+                <div class="progress-fill" id="progress-bar"></div>
+            </div>
+        </div>
+
+        <!-- MODO PRÁCTICA -->
+        <div id="practice-mode">
+
+            <div class="card-perspective-container" id="card-area">
+                <div class="flashcard" id="flashcard" onclick="flipCard()">
+
+                    <!-- Frente (Español) -->
+                    <div class="card-face front-face">
+                        <div id="card-content-front">Cargando...</div>
+                        <span class="hint-flip" id="hint-front">
+                            <svg viewBox="0 0 24 24" style="width: 16px; height: 16px; fill: currentColor;"><path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"></path></svg>
+                            Clic o [Espacio] para voltear
+                        </span>
+                    </div>
+
+                    <!-- Reverso (Chino) -->
+                    <div class="card-face back-face">
+                        <div id="card-content-back">Cargando...</div>
+
+                        <button class="btn-audio" onclick="playAudio(event)" title="Escuchar pronunciación">
+                            <svg viewBox="0 0 24 24" fill="white"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"></path></svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Botones de Calificación (Ocultos hasta voltear) -->
+            <div class="rate-controls" id="rate-controls">
+                <button class="btn-rate-1" onclick="rateCard(1, event)">😕 No lo sabía <span class="shortcut-hint">[1]</span></button>
+                <button class="btn-rate-2" onclick="rateCard(2, event)">🤔 Dudé <span class="shortcut-hint">[2]</span></button>
+                <button class="btn-rate-3" onclick="rateCard(3, event)">😄 Lo sabía <span class="shortcut-hint">[3]</span></button>
+            </div>
+        </div>
+
+        <!-- PANTALLA DE RESUMEN -->
+        <div id="summary-screen">
+            <h2>¡Cola de estudio vacía! 🎉</h2>
+            <p>Has dominado <strong><span id="final-mastered">0</span></strong> de <span id="final-total">0</span> tarjetas hoy.</p>
+
+            <p id="summary-learning-msg">Quedan <strong style="color: var(--color-learning);"><span id="final-learning">0</span></strong> tarjetas por reforzar.</p>
+
+            <div class="summary-actions">
+                <button class="btn-primary" id="btn-review-diff" onclick="reviewDifficult()">🤔 Repasar solo difíciles</button>
+                <button class="btn-success" id="btn-review-mastered-summary" onclick="reviewMastered()">🌟 Repasar dominadas</button>
+                <button class="btn-info" id="btn-review-not-mastered-summary" onclick="reviewNotMastered()">📉 Repasar no dominadas</button>
+                <button class="btn-secondary" onclick="restartAll()">🔄 Rebarajar todo el mazo</button>
+            </div>
+        </div>
+
+        <!-- MODO EDICIÓN -->
+        <div id="edit-mode">
+            <div class="editor-container">
+                <p class="editor-help">Edita tu mazo directamente. Usa <b>[Tabulador]</b> para separar frente y reverso. Deja líneas vacías entre tarjetas.<br>
+                Nota: esto solo cambia el mazo en tu navegador; para que el cambio quede en la web publicada, descarga el archivo y actualiza <code>anki.txt</code> en tu repo de GitHub.</p>
+                <textarea id="editor"></textarea>
+            </div>
+            <div class="editor-actions">
+                <button class="btn-primary" onclick="saveChanges()">💾 Aplicar y Reiniciar</button>
+                <button class="btn-secondary" onclick="downloadFile()">⬇️ Descargar Archivo</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        // --- ESTADO DE LA APLICACIÓN ---
+        let cards = [];
+        let activeQueue = [];
+        let isCardFlipped = false;
+        let rawFileContent = "";
+
+        // DOM Elements
+        const fileInput = document.getElementById('fileInput');
+        const dropZone = document.getElementById('drop-zone');
+        const loadingZone = document.getElementById('loading-zone');
+        const loadError = document.getElementById('load-error');
+        const controlsPanel = document.getElementById('controls-panel');
+        const statsContainer = document.getElementById('stats-container');
+        const practiceMode = document.getElementById('practice-mode');
+        const editMode = document.getElementById('edit-mode');
+        const summaryScreen = document.getElementById('summary-screen');
+        const cardArea = document.getElementById('card-area');
+
+        const flashcardElement = document.getElementById('flashcard');
+        const cardContentFront = document.getElementById('card-content-front');
+        const cardContentBack = document.getElementById('card-content-back');
+        const rateControls = document.getElementById('rate-controls');
+        const hintFront = document.getElementById('hint-front');
+        const editor = document.getElementById('editor');
+
+        // --- CARGA AUTOMÁTICA DESDE EL REPO (anki.txt) ---
+        const DECK_FILENAME = 'anki.txt';
+
+        async function loadDeckFromRepo() {
+            try {
+                // Se agrega un parámetro para evitar caché agresivo del navegador/CDN
+                const response = await fetch(`${DECK_FILENAME}?v=${Date.now()}`, { cache: 'no-store' });
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+                const text = await response.text();
+                if (!text.trim()) {
+                    throw new Error('El archivo anki.txt está vacío');
+                }
+                rawFileContent = text;
+                editor.value = rawFileContent;
+                loadingZone.style.display = 'none';
+                dropZone.style.display = 'none';
+                controlsPanel.style.display = 'flex';
+                statsContainer.style.display = 'flex';
+                parseAndStart(rawFileContent);
+                showMode('practice');
+            } catch (err) {
+                console.warn('No se pudo cargar anki.txt automáticamente:', err);
+                showManualUpload(
+                    `No se pudo cargar "${DECK_FILENAME}" automáticamente (${err.message}). ` +
+                    `Verifica que el archivo exista en la raíz del repositorio junto a este index.html, ` +
+                    `o sube tu mazo manualmente abajo.`
+                );
+            }
+        }
+
+        function showManualUpload(message) {
+            loadingZone.style.display = 'none';
+            dropZone.style.display = 'block';
+            if (message) {
+                loadError.textContent = message;
+                loadError.style.display = 'block';
+            }
+        }
+
+        window.addEventListener('DOMContentLoaded', loadDeckFromRepo);
+
+        // --- CARGA MANUAL (respaldo: drag & drop / selector de archivo) ---
+
+        ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eName => {
+            dropZone.addEventListener(eName, preventDefaults, false);
+            document.body.addEventListener(eName, preventDefaults, false);
+        });
+        ['dragenter', 'dragover'].forEach(eName => dropZone.addEventListener(eName, () => dropZone.classList.add('dragover'), false));
+        ['dragleave', 'drop'].forEach(eName => dropZone.addEventListener(eName, () => dropZone.classList.remove('dragover'), false));
+        dropZone.addEventListener('drop', handleDrop, false);
+
+        function preventDefaults(e) { e.preventDefault(); e.stopPropagation(); }
+        function handleDrop(e) { const file = e.dataTransfer.files[0]; if (file) handleFile(file); }
+        fileInput.addEventListener('change', e => { const file = e.target.files[0]; if (file) handleFile(file); });
+
+        function handleFile(file) {
+            if (file.type !== "text/plain") { alert("Sube un archivo .txt"); return; }
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                rawFileContent = e.target.result;
+                editor.value = rawFileContent;
+                dropZone.style.display = 'none';
+                controlsPanel.style.display = 'flex';
+                statsContainer.style.display = 'flex';
+                parseAndStart(rawFileContent);
+                showMode('practice');
+            };
+            reader.readAsText(file);
+        }
+
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+        }
+
+        // --- LÓGICA LEITNER ---
+
+        function parseAndStart(text) {
+            cards = [];
+            activeQueue = [];
+            const blocks = text.split(/\n\s*\n/);
+
+            let idCounter = 0;
+            blocks.forEach(block => {
+                if (!block.trim()) return;
+                const parts = block.split('\t');
+                if (parts.length >= 2) {
+                    cards.push({
+                        id: idCounter++,
+                        front: parts[0].trim(),
+                        back: parts[1].trim(),
+                        status: 'new',
+                        streak: 0
+                    });
+                }
+            });
+
+            cards.forEach((c, i) => activeQueue.push(i));
+            shuffleArray(activeQueue);
+
+            updateDisplayState();
+        }
+
+        function getStats() {
+            return cards.reduce((acc, card) => {
+                acc[card.status]++;
+                return acc;
+            }, { new: 0, learning: 0, mastered: 0 });
+        }
+
+        function updateDisplayState() {
+            const stats = getStats();
+            document.getElementById('count-new').innerText = stats.new;
+            document.getElementById('count-learning').innerText = stats.learning;
+            document.getElementById('count-mastered').innerText = stats.mastered;
+
+            const total = cards.length;
+            const percentage = total === 0 ? 0 : (stats.mastered / total) * 100;
+            document.getElementById('progress-bar').style.width = `${percentage}%`;
+
+            if (activeQueue.length === 0) {
+                showSummaryScreen(stats, total);
+            } else {
+                summaryScreen.style.display = 'none';
+                cardArea.style.display = 'block';
+
+                const currentCard = cards[activeQueue[0]];
+                cardContentFront.innerHTML = formatHTML(currentCard.front);
+                cardContentBack.innerHTML = formatHTML(currentCard.back, true);
+
+                isCardFlipped = false;
+                flashcardElement.classList.remove('flipped');
+                rateControls.classList.remove('visible');
+                hintFront.style.opacity = '1';
+            }
+        }
+
+        function rateCard(rating, event) {
+            if (event) event.stopPropagation();
+            if (!isCardFlipped || activeQueue.length === 0) return;
+
+            const cardIndex = activeQueue.shift();
+            const card = cards[cardIndex];
+
+            // Botón 1: Fallo completo. Se degrada a aprendiendo.
+            if (rating === 1) {
+                card.status = 'learning';
+                card.streak = 0;
+                activeQueue.splice(Math.min(3, activeQueue.length), 0, cardIndex);
+            }
+            // Botón 2: Duda. Se degrada a aprendiendo pero reaparece un poco más tarde.
+            else if (rating === 2) {
+                card.status = 'learning';
+                card.streak = 0;
+                activeQueue.splice(Math.min(8, activeQueue.length), 0, cardIndex);
+            }
+            // Botón 3: Éxito.
+            else if (rating === 3) {
+                // Si es nueva o YA estaba dominada (por ejemplo en modo repaso)
+                if (card.status === 'new' || card.status === 'mastered') {
+                    card.status = 'mastered';
+                    // Sale de la cola y no se reinserta.
+                } else {
+                    card.streak++;
+                    if (card.streak >= 2) {
+                        card.status = 'mastered'; // Sale de la cola
+                    } else {
+                        card.status = 'learning';
+                        activeQueue.splice(Math.min(15, activeQueue.length), 0, cardIndex); // Vuelve a aparecer lejos
+                    }
+                }
+            }
+
+            flashcardElement.classList.remove('flipped');
+            isCardFlipped = false;
+            rateControls.classList.remove('visible');
+
+            setTimeout(() => {
+                updateDisplayState();
+            }, 250);
+        }
+
+        // --- PANTALLA DE RESUMEN Y FLUJOS ---
+
+        function showSummaryScreen(stats, total) {
+            cardArea.style.display = 'none';
+            rateControls.classList.remove('visible');
+            summaryScreen.style.display = 'block';
+
+            document.getElementById('final-mastered').innerText = stats.mastered;
+            document.getElementById('final-total').innerText = total;
+            document.getElementById('final-learning').innerText = stats.learning;
+
+            const btnReviewDiff = document.getElementById('btn-review-diff');
+            if (stats.learning > 0) {
+                btnReviewDiff.style.display = 'inline-flex';
+                document.getElementById('summary-learning-msg').style.display = 'block';
+            } else {
+                btnReviewDiff.style.display = 'none';
+                document.getElementById('summary-learning-msg').style.display = 'none';
+            }
+
+            const btnReviewMastered = document.getElementById('btn-review-mastered-summary');
+            if (stats.mastered > 0) {
+                btnReviewMastered.style.display = 'inline-flex';
+            } else {
+                btnReviewMastered.style.display = 'none';
+            }
+
+            const btnReviewNotMastered = document.getElementById('btn-review-not-mastered-summary');
+            if (stats.new > 0 || stats.learning > 0) {
+                btnReviewNotMastered.style.display = 'inline-flex';
+            } else {
+                btnReviewNotMastered.style.display = 'none';
+            }
+        }
+
+        // Repasar las naranjas
+        function reviewDifficult() {
+            activeQueue = [];
+            cards.forEach((card, i) => {
+                if (card.status === 'learning') activeQueue.push(i);
+            });
+            shuffleArray(activeQueue);
+            updateDisplayState();
+            showMode('practice');
+        }
+
+        // Repasar las verdes
+        function reviewMastered() {
+            const masteredCount = cards.filter(c => c.status === 'mastered').length;
+            if (masteredCount === 0) {
+                alert("Aún no tienes palabras dominadas (en verde) para repasar.");
+                return;
+            }
+
+            activeQueue = [];
+            cards.forEach((card, i) => {
+                if (card.status === 'mastered') activeQueue.push(i);
+            });
+            shuffleArray(activeQueue);
+            updateDisplayState();
+            showMode('practice');
+        }
+
+        // Repasar azules y naranjas (Todo lo que no sea verde)
+        function reviewNotMastered() {
+            const notMasteredCount = cards.filter(c => c.status !== 'mastered').length;
+            if (notMasteredCount === 0) {
+                alert("¡Felicidades! Ya dominas todas las palabras de este mazo. No hay tarjetas 'no dominadas' pendientes.");
+                return;
+            }
+
+            activeQueue = [];
+            cards.forEach((card, i) => {
+                if (card.status !== 'mastered') activeQueue.push(i);
+            });
+            shuffleArray(activeQueue);
+            updateDisplayState();
+            showMode('practice');
+        }
+
+        // Resetea todas a azules (nuevas)
+        function restartAll() {
+            activeQueue = [];
+            cards.forEach((card, i) => {
+                card.status = 'new';
+                card.streak = 0;
+                activeQueue.push(i);
+            });
+            shuffleArray(activeQueue);
+            updateDisplayState();
+        }
+
+        function promptRestart() {
+            if (cards.length === 0) return;
+            const confirmed = confirm("¿Estás seguro de que quieres reiniciar todo tu progreso actual y volver a barajar el mazo entero?");
+            if (confirmed) {
+                restartAll();
+                showMode('practice');
+            }
+        }
+
+        // --- INTERFAZ Y EVENTOS ---
+
+        function flipCard() {
+            if (activeQueue.length === 0) return;
+            isCardFlipped = !isCardFlipped;
+
+            if (isCardFlipped) {
+                flashcardElement.classList.add('flipped');
+                rateControls.classList.add('visible');
+                hintFront.style.opacity = '0';
+            } else {
+                flashcardElement.classList.remove('flipped');
+                rateControls.classList.remove('visible');
+                hintFront.style.opacity = '1';
+            }
+        }
+
+        function formatHTML(text, isBack = false) {
+            let t = text.replace(/\\n/g, '<br><br>').replace(/\n/g, '<br>');
+            if (isBack) t = '<strong>' + t.replace(' (', '</strong> (');
+            return t;
+        }
+
+        function playAudio(event) {
+            event.stopPropagation();
+            if (activeQueue.length === 0) return;
+
+            const text = cards[activeQueue[0]].back;
+
+            // Expresión regular que extrae EXCLUSIVAMENTE caracteres chinos (Ideogramas unificados CJK)
+            const chineseCharacters = text.match(/[\u4E00-\u9FFF]+/g);
+
+            if (!chineseCharacters) {
+                console.warn("No se encontraron caracteres chinos para leer.");
+                return;
+            }
+
+            // Unimos los fragmentos chinos con una coma para que haya una breve pausa si hay varias líneas
+            const textToSpeak = chineseCharacters.join(', ');
+
+            con utterance = new SpeechSynthesisUtterance(textToSpeak);
+            utterance.lang = 'zh-CN';
+            utterance.rate = 0.85;
+
+            window.speechSynthesis.cancel();
+            window.speechSynthesis.speak(utterance);
+        }
+
+        document.addEventListener('keydown', (e) => {
+            if (practiceMode.style.display !== 'block' || summaryScreen.style.display === 'block') return;
+
+            if (e.code === 'Space' || e.code === 'Enter') {
+                e.preventDefault();
+                flipCard();
+            } else if (isCardFlipped) {
+                if (e.key === '1') rateCard(1);
+                if (e.key === '2') rateCard(2);
+                if (e.key === '3') rateCard(3);
+            }
+        });
+
+        // --- EDITOR ---
+        function showMode(mode) {
+            if (mode === 'practice') { practiceMode.style.display = 'block'; editMode.style.display = 'none'; statsContainer.style.display = 'flex'; }
+            else { practiceMode.style.display = 'none'; editMode.style.display = 'block'; statsContainer.style.display = 'none'; }
+        }
+
+        function saveChanges() {
+            rawFileContent = editor.value;
+            parseAndStart(rawFileContent);
+            showMode('practice');
+            alert("Mazo actualizado y reiniciado en tu navegador. Recuerda descargar el archivo y subirlo como anki.txt a tu repo para que el cambio quede publicado.");
+        }
+
+        function downloadFile() {
+            const blob = new Blob([editor.value], { type: 'text/plain;charset=utf-8' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'anki.txt';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+    </script>
+</body>
+</html>
+
