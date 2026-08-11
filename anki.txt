@@ -42,7 +42,7 @@ Grado escolar. \n Matiz: El nivel que cursa un estudiante (primero, segundo...).
 
 #151. Literalmente "tía" (hermana de la madre), pero se usa para cualquier mujer de la generación de tus padres. \n Es respetuoso. En China, también se llama así a las empleadas del hogar o niñeras.	阿姨 (ā yí)
 
-#153. (2) ah. \n Ambas son partículas de exclamación al final de la frase.	啊 /	呀 (a / ya) \n Diferencia: Es fonética. Si la palabra anterior termina en sonido "u" o "ao", se usa 啊. Si termina en "i", "e" o "a", suele transformarse naturalmente en 呀 para que fluya mejor al hablar.
+(2) ah. \n Ambas son partículas de exclamación al final de la frase.	啊 / 呀 (a / ya) \n Diferencia: Es fonética. Si la palabra anterior termina en sonido "u" o "ao", se usa 啊. Si termina en "i", "e" o "a", suele transformarse naturalmente en 呀 para que fluya mejor al hablar.
 
 #181. Es el adjetivo estándar para "bajo de estatura" (personas, sillas, mesas).	矮 (ǎi)
 
@@ -1432,7 +1432,7 @@ Reunión / Conferencia. \n Matiz: Encuentro formal para discutir asuntos o tomar
 
 Miembro / Socio. \n Matiz: Persona que pertenece a un club, gimnasio o plataforma.	会员 (huì yuán)
 
-Vivir / Vivo / Trabajo. \n Matiz: Estado de existencia o actividades laborales (coloquial).	活 (huó)
+v./s. Vivir / sobrevivir / vivo. \n Matiz: Matiz: El estado de estar con vida, opuesto a muerto.	活 (huó)
 
 Actividad, evento. \n Matiz: Evento organizado o movimiento físico.	活动 (huó dòng)
 
@@ -2112,7 +2112,7 @@ Pasajero / Turista. \n Matiz: Persona que está de viaje o se aloja fuera.	旅�
 
 Viajar / Viaje. \n Matiz: Acción general de desplazarse por cualquier motivo.	旅行 (lǚ xíng)
 
-Hacer turismo / Viajar por placer. \n Matiz: Viaje enfocado en el ocio y visitas guiadas.	旅游 (lǚ yóu)
+Hacer turismo / Viajar por placer. \n Matiz: Viaje enfocado en el ocio y visitas guiadas.	旅游 (lǚ yóu) \n 每年夏天我们都去海边 旅游 。 - Todos los veranos vamos a la playa de turismo (de vacaciones).
 
 Abogado.	律师 (lǜ shī)
 
