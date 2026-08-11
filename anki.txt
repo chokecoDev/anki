@@ -332,7 +332,7 @@ La cancha deportiva / El patio de la escuela. \n Matiz: Se refiere a un lugar am
 
 Césped / Pradera. \n Matiz: Terreno cubierto de hierba.	草地 (cǎo dì)
 
-Medición. \n Matiz: Acción técnica de determinar dimensiones físicas.	测量 (cè liáng)
+Medición. \n Matiz: Implica precisión, uso de instrumentos profesionales, métodos científicos o contexto formal (ingeniería, geografía, laboratorios, medicina formal).	测量 (cè liáng) \n 测量土地 - Medir un terreno.
 
 s. heladera, refrigerador	冰箱 (bīng xiāng)
 
@@ -956,9 +956,9 @@ Muy / Extraordinario. \n Matiz: Grado de intensidad superior a	很 (hěn).	非�
 
 Gordo / Fértil. \n Matiz: Se aplica a animales, tierra o ropa ancha; para personas se prefiere	胖.	肥 (féi)
 
-Gasto / Tasa. \n Matiz: Dinero que se debe pagar por un servicio o derecho.	费 (fèi)
+Gasto / Tasa (sufijo). \n Matiz: Dinero que se debe pagar por un servicio o derecho. \n Como sustantivo, en el chino moderno casi nunca se usa solo. Funciona como un sufijo (una terminación) que se pega obligatoriamente a otra palabra.	费 (fèi) \n 电费 - recibo de la luz.
 
-Costes / Gastos. \n Matiz: El desembolso total de dinero necesario para un fin.	费用 (fèi yòng)
+Costes / Gastos. \n Matiz: El desembolso total de dinero necesario para un fin. \n Es un sustantivo independiente. Lo puedes usar solo en una oración.	费用 (fèi yòng) \n 去中国的费用很高。- Los gastos (costos) para ir a China son muy altos.
 
 Minuto / Céntimo / Dividir. \n Matiz: Unidad pequeña de tiempo, dinero o división física.	分 (fēn)
 
@@ -1621,8 +1621,6 @@ Aterrizar. \n Matiz: Acción de descender un avión o paracaídas hasta tocar ti
 Bajada de temperatura. \n Matiz: Enfriamiento del clima o suavización de una situación tensa.	降温 (jiēn wēn)
 
 Hacer (amigos). \n Matiz: Establecer vínculos sociales.	交 (jiāo)
-
-Pagar cuotas / tasas.	交费 (jiāo fèi)
 
 Entregar a. \n Matiz: Poner un objeto o responsabilidad en manos de otra persona.	交给 (jiāo gěi)
 
@@ -2716,7 +2714,7 @@ Centro comercial / Mall. \n Matiz: Edificio grande con múltiples tiendas.	商�
 
 Tienda / Almacén.	商店 (shāng diàn)
 
-Consultar / Discutir. \n Matiz: Hablar con otros para llegar a un acuerdo o decisión.	商量 (shāng liáng)
+Consultar con alguien / Hablarlo para ponerse de acuerdo. \n Matiz: Verbo. Implica buscar una decisión o acuerdo conjunto con respeto.	商量 (shāng liang)
 
 Mercancía / Producto. \n Matiz: Bienes destinados al comercio y la venta.	商品 (shāng pǐn)
 
@@ -2908,7 +2906,7 @@ Recibir / Recoger / Aceptar.	收 (shōu)
 
 Haber recibido. \n Matiz: Confirmación de recepción física o digital (ej. un paquete).	收到 (shōu dào)
 
-Cobrar una tarifa / De pago. \n Matiz: Acción de exigir un pago por un servicio.	收费 (shōu fèi)
+v. cobrar \n Matiz: Acción de exigir un pago por un servicio.	收费 (shōu fèi)
 
 Recuperar / Retirar. \n Matiz: Volver a tomar algo que se había dado o enviado.	收回 (shōu huí)
 
@@ -4409,3 +4407,387 @@ Lo siento / Disculparse / Sentir pena o arrepentimiento. \n Matiz: Más formal y
 v. Cargar a la espalda / Llevar en la espalda	背 (bēi) \n 他背着一个很大书包。- Él lleva (cargada en la espalda) una mochila muy grande.
 
 Mochila \n Es el término general para cualquier tipo de mochila. Se usa para mochilas de senderismo, mochilas de viaje, o mochilas casuales para salir a pasear. No está relacionada con el estudio.	背包 (bēi bāo)
+
+Expresar / indicar. \n Matiz: Expresar una idea, sentimiento o significado.	表示 (biǎo shì)
+
+Inconveniente / poco conveniente. \n Matiz: Situación que causa dificultad o incomodidad.	不便 (bù biàn)
+
+Limpiar / frotar. \n Matiz: Frotar una superficie para limpiarla, secarla o borrar algo.	擦 (cā)
+
+Adivinar / suponer. \n Matiz: Intentar saber algo sin tener certeza.	猜 (cāi)
+
+Participar en una competición. \n Matiz: Se usa específicamente para concursos o competiciones.	参赛 (cān sài)
+
+Restaurante / comedor. \n Matiz: Generalmente se refiere a un restaurante.	餐厅 (cān tīng)
+
+Baño / aseo. \n Matiz: Lugar donde se va al baño; 卫生间 es una alternativa más cortés.	厕所 (cè suǒ)
+
+Revisar / comprobar / consultar. \n Matiz: Mirar algo para obtener información o verificarlo.	查看 (chá kàn)
+
+Buscar / localizar. \n Matiz: Buscar información, objetos o datos hasta localizarlos.	查找 (chá zhǎo)
+
+Casi / por poco. \n Matiz: Algo estuvo a punto de ocurrir pero finalmente no ocurrió.	差点儿 (chà diǎnr)
+
+Velocidad del vehículo. \n Matiz: Velocidad a la que circula un vehículo.	车速 (chē sù)
+
+Plaza / espacio de estacionamiento. \n Matiz: Espacio destinado a aparcar un vehículo.	车位 (chē wèi)
+
+Montar / tomar un transporte. \n Matiz: Forma relativamente formal de decir "tomar" un medio de transporte.	乘 (chéng)
+
+Pasajero. \n Matiz: Persona que viaja en un vehículo y no lo conduce.	乘客 (chéng kè)
+
+Viajar en / tomar un medio de transporte. \n Matiz: Forma más formal que 坐 para indicar que se utiliza un transporte.	乘坐 (chéng zuò)
+
+Viajar por trabajo. \n Matiz: Desplazarse temporalmente por motivos laborales.	出差 (chū chāi)
+
+Desplazarse / viajar. \n Matiz: Término general y relativamente formal para hablar de desplazamientos.	出行 (chū xíng)
+
+Cocina. \n Matiz: Lugar donde se prepara la comida.	厨房 (chú fáng)
+
+Cocinero / chef. \n Matiz: Persona cuyo trabajo es preparar comida.	厨师 (chú shī)
+
+Esta vez / en esta ocasión. \n Matiz: Forma relativamente formal para referirse a la ocasión actual.	此次 (cǐ cì)
+
+De ello / de entre eso. \n Matiz: Indica que algo se obtiene, descubre o realiza a partir de una situación o conjunto.	从中 (cóng zhōng)
+
+Perder / dejar pasar. \n Matiz: No aprovechar o no llegar a tiempo para algo.	错过 (cuò guò)
+
+Saludar. \n Matiz: Hacer saber a alguien que lo has visto o saludarlo; también puede significar avisar previamente.	打招呼 (dǎ zhāo hu)
+
+Molestar / interrumpir. \n Matiz: Se usa frecuentemente de forma educada al interrumpir o molestar a alguien.	打扰 (dǎ rǎo)
+
+Impresora. \n Matiz: Dispositivo utilizado para imprimir documentos.	打印机 (dǎ yìn jī)
+
+Gran competición / gran concurso. \n Matiz: Competición importante o de gran escala; 比赛 es más general.	大赛 (dà sài)
+
+Vestíbulo / gran sala. \n Matiz: Espacio amplio dentro de un edificio, como un hotel o aeropuerto.	大厅 (dà tīng)
+
+Permanecer / quedarse; tratar. \n Matiz: Tiene varios significados según el contexto, como 待在家 = quedarse en casa.	待 (dāi / dài)
+
+Bolsa / saco. \n Matiz: Recipiente utilizado para guardar o transportar cosas.	袋子 (dài zi)
+
+Llegar / llegada. \n Matiz: Forma más formal de 到, frecuente al hablar de la llegada de personas o acontecimientos.	到来 (dào lái)
+
+Disculparse / pedir perdón. \n Matiz: Acción de ofrecer una disculpa; más específico que 对不起.	道歉 (dào qiàn)
+
+Abordar un avión. \n Matiz: Subir al avión, especialmente en el contexto de un aeropuerto.	登机 (dēng jī)
+
+Precio bajo. \n Matiz: Precio inferior al habitual o esperado.	低价 (dī jià)
+
+Baja temperatura. \n Matiz: Temperatura baja, usada en contextos cotidianos, meteorológicos o técnicos.	低温 (dī wēn)
+
+Ser inferior a / estar por debajo de. \n Matiz: Se usa para comparar cantidades, niveles, precios o temperaturas.	低于 (dī yú)
+
+Irse de vacaciones. \n Matiz: Viajar o permanecer en un lugar con el propósito de descansar.	度假 (dù jià)
+
+Preocupación / molestia. \n Matiz: Estado de preocupación o problema que causa inquietud.	烦恼 (fán nǎo)
+
+Clasificador para pinturas / imágenes. \n Matiz: Se usa principalmente con obras visuales, como 一幅画 = un cuadro.	幅 (fú)
+
+Padre e hija. \n Matiz: Relación familiar entre un padre y su hija.	父女 (fù nǚ)
+
+Persona responsable / encargado. \n Matiz: Persona que está a cargo de una organización, actividad o asunto.	负责人 (fù zé rén)
+
+Padre e hijo. \n Matiz: Relación familiar entre un padre y su hijo varón.	父子 (fù zǐ)
+
+Conmovedor / emotivo. \n Matiz: Algo que provoca una fuerte emoción o empatía.	感人 (gǎn rén)
+
+Alcanzar / llegar a tiempo. \n Matiz: Puede significar alcanzar a alguien, llegar a tiempo o coincidir con un acontecimiento.	赶上 (gǎn shàng)
+
+Piano. \n Matiz: Instrumento musical de teclado.	钢琴 (gāng qín)
+
+Examen nacional de acceso a la universidad. \n Matiz: Examen chino de admisión universitaria, conocido como 高考.	高考 (gāo kǎo)
+
+Alta temperatura. \n Matiz: Temperatura elevada, especialmente en contextos meteorológicos o técnicos.	高温 (gāo wēn)
+
+Ser superior a / estar por encima de. \n Matiz: Se usa para comparar cantidades, niveles, precios o temperaturas.	高于 (gāo yú)
+
+Brazo. \n Matiz: Término cotidiano para referirse al brazo.	胳膊 (gē bo)
+
+Animar / alentar / fomentar. \n Matiz: Dar apoyo o confianza para que alguien haga algo.	鼓励 (gǔ lì)
+
+Clave / crucial. \n Matiz: Algo fundamental para conseguir un resultado o comprender una situación.	关键 (guān jiàn)
+
+Nacionalidad. \n Matiz: País al que pertenece una persona.	国籍 (guó jí)
+
+Océano. \n Matiz: Gran extensión de agua salada que cubre gran parte de la Tierra.	海洋 (hǎi yáng)
+
+Tímido / vergonzoso. \n Matiz: Sentirse incómodo o cohibido al relacionarse con otras personas.	害羞 (hài xiū)
+
+Sudor. \n Matiz: Líquido que produce el cuerpo, especialmente por calor o ejercicio.	汗 (hàn)
+
+Gracioso / divertido. \n Matiz: Algo que provoca risa o resulta divertido.	好笑 (hǎo xiào)
+
+Caja / recipiente. \n Matiz: Objeto utilizado para guardar o transportar cosas.	盒子 (hé zi)
+
+Hacer transbordo. \n Matiz: Cambiar de un medio de transporte a otro durante un trayecto.	换乘 (huàn chéng)
+
+Responder una carta / mensaje. \n Matiz: Responder a una carta, correo o mensaje recibido.	回信 (huí xìn)
+
+Recuerdo / recordar. \n Matiz: Puede referirse al acto de recordar o a recuerdos del pasado.	回忆 (huí yì)
+
+Animado / vivaz. \n Matiz: Persona con mucha energía, alegre y activa.	活泼 (huó pō)
+
+Incluso si / aunque. \n Matiz: Introduce una condición que no cambia el resultado.	即使 (jí shǐ)
+
+Añadir / sumar. \n Matiz: Incorporar algo a una cantidad o conjunto.	加上 (jiā shàng)
+
+Día festivo / vacaciones. \n Matiz: Día en que normalmente no se trabaja o estudia.	假日 (jià rì)
+
+Aliviar / reducir. \n Matiz: Hacer que algo negativo, como dolor, presión o carga, sea menor.	减轻 (jiǎn qīng)
+
+Gimnasio. \n Matiz: Lugar equipado para hacer ejercicio físico.	健身房 (jiàn shēn fáng)
+
+Estar a punto de / estar por. \n Matiz: Indica que algo sucederá próximamente.	将要 (jiāng yào)
+
+Orgulloso. \n Matiz: Sentir satisfacción por uno mismo, otra persona o un logro.	骄傲 (jiāo ào)
+
+Afueras / suburbios. \n Matiz: Zona situada fuera del centro de una ciudad.	郊区 (jiāo qū)
+
+Resultado. \n Matiz: Consecuencia o resultado producido por una acción o situación.	结果 (jié guǒ)
+
+Días festivos y vacaciones. \n Matiz: Término que engloba días festivos y períodos oficiales de descanso.	节假日 (jié jià rì)
+
+Pagar la cuenta. \n Matiz: Realizar el pago de una comida, compra o servicio.	结账 (jié zhàng)
+
+Aunque / a pesar de que. \n Matiz: Introduce una situación que no impide que ocurra otra cosa.	尽管 (jǐn guǎn)
+
+Lugar turístico / atracción turística. \n Matiz: Lugar específico que las personas visitan por interés turístico.	景点 (jǐng diǎn)
+
+Zona turística. \n Matiz: Área turística que puede incluir varios lugares de interés.	景区 (jǐng qū)
+
+Dar un ejemplo. \n Matiz: Presentar un caso concreto para explicar una idea.	举例 (jǔ lì)
+
+Comida en grupo / reunión para comer. \n Matiz: Reunirse con otras personas para comer juntos, normalmente de manera social.	聚餐 (jù cān)
+
+Teatro. \n Matiz: Lugar donde se representan obras teatrales y otros espectáculos.	剧院 (jù yuàn)
+
+Asar / hornear. \n Matiz: Cocinar alimentos mediante calor, especialmente al horno o sobre una superficie caliente.	烤 (kǎo)
+
+Toser. \n Matiz: Expulsar aire bruscamente de los pulmones; verbo.	咳 (ké)
+
+Tos / toser. \n Matiz: Puede referirse al acto de toser; 咳嗽 es la forma habitual para "toser".	咳嗽 (ké sòu)
+
+Sala de estar. \n Matiz: Habitación de una vivienda destinada a estar, conversar o recibir visitas.	客厅 (kè tīng)
+
+Definitivamente / ciertamente. \n Matiz: Expresa seguridad o certeza sobre algo.	肯定 (kěn dìng)
+
+Perezoso. \n Matiz: Persona que evita trabajar, estudiar o hacer esfuerzos.	懒 (lǎn)
+
+Romántico. \n Matiz: Relacionado con el amor, los sentimientos o una atmósfera romántica.	浪漫 (làng màn)
+
+Tigre. \n Matiz: Gran felino salvaje.	老虎 (lǎo hǔ)
+
+Educado / cortés. \n Matiz: Tener buenos modales y consideración hacia los demás.	礼貌 (lǐ mào)
+
+Impresionante / capaz / formidable. \n Matiz: Expresa que alguien o algo es muy bueno, fuerte, hábil o impresionante según el contexto.	厉害 (lì hai)
+
+Dinero de bolsillo. \n Matiz: Pequeña cantidad de dinero que se da a un niño o se destina a gastos personales.	零花钱 (líng huā qián)
+
+Dinero suelto / cambio. \n Matiz: Dinero de poco valor o monedas; también puede significar cambio en ciertos contextos.	零钱 (líng qián)
+
+Pasar por / pasar de camino. \n Matiz: Pasar cerca o por un lugar sin detenerse necesariamente.	路过 (lù guò)
+
+Panecillo al vapor. \n Matiz: Pan chino hecho principalmente de harina y cocido al vapor.	馒头 (mán tou)
+
+Paisaje hermoso. \n Matiz: Vista natural o paisaje que resulta especialmente bello.	美景 (měi jǐng)
+
+Segundo. \n Matiz: Unidad de tiempo equivalente a un sexagésimo de minuto.	秒 (miǎo)
+
+Madre e hija. \n Matiz: Relación familiar entre una madre y su hija.	母女 (mǔ nǚ)
+
+Madre e hijo. \n Matiz: Relación familiar entre una madre y su hijo varón.	母子 (mǔ zǐ)
+
+Paciencia. \n Matiz: Capacidad de esperar o actuar con calma sin perder la paciencia.	耐心 (nài xīn)
+
+Inolvidable. \n Matiz: Algo que causa una impresión tan fuerte que es difícil olvidarlo.	难忘 (nán wàng)
+
+Masculino / hombre. \n Matiz: Relacionado con el sexo masculino.	男性 (nán xìng)
+
+Poder o no / ser posible o no. \n Matiz: Forma de preguntar si algo es posible o permitido.	能否 (néng fǒu)
+
+Sí. \n Matiz: Interjección que expresa aceptación, comprensión o respuesta afirmativa, según el tono.	嗯 (èn / ń)
+
+Edad. \n Matiz: Número de años que ha vivido una persona.	年龄 (nián líng)
+
+Femenino / mujer. \n Matiz: Se refiere al sexo femenino; 女性 es más formal que 女人.	女性 (nǚ xìng)
+
+Ocasionalmente / de vez en cuando. \n Matiz: Algo que ocurre algunas veces, pero no con frecuencia.	偶尔 (ǒu ěr)
+
+Acompañar. \n Matiz: Estar con alguien para hacerle compañía o acompañarlo a algún lugar.	陪 (péi)
+
+Piel. \n Matiz: Tejido que cubre el cuerpo; también se usa para hablar del estado de la piel.	皮肤 (pí fū)
+
+Carácter / temperamento. \n Matiz: Forma habitual de reaccionar emocionalmente; 脾气不好 = tener mal carácter.	脾气 (pí qì)
+
+Zapatos de cuero. \n Matiz: Calzado fabricado principalmente de cuero.	皮鞋 (pí xié)
+
+Tenis de mesa / ping-pong. \n Matiz: Deporte practicado con una pelota pequeña y paletas sobre una mesa.	乒乓球 (pīng pāng qiú)
+
+Uva. \n Matiz: Fruta; 葡萄 también puede aparecer en nombres de productos derivados de la uva.	葡萄 (pú táo)
+
+Vino de uva. \n Matiz: Bebida alcohólica elaborada a partir de uvas.	葡萄酒 (pú táo jiǔ)
+
+Desempeñar un papel / tener un efecto. \n Matiz: Indica que algo cumple una función o produce un determinado efecto.	起到 (qǐ dào)
+
+Frente / parte delantera. \n Matiz: Lugar o dirección situada delante de alguien o algo.	前方 (qián fāng)
+
+Golpear / llamar golpeando. \n Matiz: Golpear una superficie, especialmente para producir un sonido, como llamar a una puerta.	敲 (qiāo)
+
+Pariente / familiar. \n Matiz: Persona que pertenece a la familia, especialmente familiares no inmediatos.	亲戚 (qīn qi)
+
+Instrumento musical / cítara. \n Matiz: Puede referirse a instrumentos de cuerda; en expresiones como 琴声 se refiere al sonido de un instrumento.	琴 (qín)
+
+Todos / todo. \n Matiz: Indica que la totalidad de personas o cosas mencionadas cumple una condición.	全都 (quán dōu)
+
+Ingresar a la escuela. \n Matiz: Comenzar oficialmente los estudios en una institución educativa.	入学 (rù xué)
+
+Registrarse / alojarse. \n Matiz: Registrar la entrada y comenzar a ocupar una habitación, especialmente en un hotel.	入住 (rù zhù)
+
+Escanear un código QR. \n Matiz: 扫码 significa literalmente "escanear el código", normalmente un código QR.	扫码 (sǎo mǎ)
+
+Bosque. \n Matiz: Área extensa cubierta principalmente por árboles.	森林 (sēn lín)
+
+Un poco / ligeramente. \n Matiz: Indica una pequeña cantidad o grado; suele modificar verbos o adjetivos.	稍 (shāo)
+
+Un poco / ligeramente. \n Matiz: Expresa un grado pequeño; 稍微 es más común en el habla cotidiana.	稍微 (shāo wēi)
+
+Poco común / raro. \n Matiz: Algo que ocurre o se encuentra con poca frecuencia.	少见 (shǎo jiàn)
+
+Pequeña cantidad. \n Matiz: Cantidad reducida de algo, normalmente en contextos más formales.	少量 (shǎo liàng)
+
+Grado Celsius. \n Matiz: Unidad utilizada para medir la temperatura.	摄氏度 (shè shì dù)
+
+Sobrar / quedar. \n Matiz: Indica que algo permanece después de haber utilizado o consumido una parte.	剩 (shèng)
+
+Maestro / trabajador experto. \n Matiz: Forma respetuosa de dirigirse a un trabajador especializado, conductor, técnico, etc.	师傅 (shī fu)
+
+Profesor y estudiante. \n Matiz: Se refiere conjuntamente a docentes y alumnos.	师生 (shī shēng)
+
+Horario / tabla de horarios. \n Matiz: Lista organizada que muestra las horas de actividades, clases, transporte, etc.	时间表 (shí jiān biǎo)
+
+Intersección / cruce de calles. \n Matiz: Lugar donde se cruzan dos o más calles o caminos.	十字路口 (shí zì lù kǒu)
+
+Video. \n Matiz: Grabación audiovisual; también puede referirse a contenido de video en Internet.	视频 (shì pín)
+
+Ordenar / recoger / arreglar. \n Matiz: Poner las cosas en orden, limpiar o recoger un espacio.	收拾 (shōu shi)
+
+Taquillero / vendedor de entradas. \n Matiz: Persona que vende o comprueba billetes y entradas.	售票员 (shòu piào yuán)
+
+Estar familiarizado con. \n Matiz: Conocer bien a una persona, lugar, situación o tema por experiencia.	熟悉 (shú xī)
+
+De paso / aprovechando la ocasión. \n Matiz: Hacer algo adicional mientras se realiza otra actividad.	顺便 (shùn biàn)
+
+Forma de decir / manera de expresarlo. \n Matiz: Se refiere a una manera particular de expresar una idea o interpretar algo.	说法 (shuō fǎ)
+
+Manual de instrucciones. \n Matiz: Documento que explica cómo utilizar un producto o realizar algo.	说明书 (shuō míng shū)
+
+A medida que / siguiendo. \n Matiz: Indica que algo cambia o sucede conforme cambia otra situación.	随着 (suí zhe)
+
+Levantar. \n Matiz: Levantar físicamente algo, especialmente algo que está abajo.	抬 (tái)
+
+Levantar la cabeza. \n Matiz: Mover la cabeza hacia arriba para mirar algo.	抬头 (tái tóu)
+
+Tocar un instrumento / lanzar. \n Matiz: Con instrumentos de cuerda significa "tocar"; también puede tener otros significados según el contexto.	弹 (tán)
+
+Vez / viaje. \n Matiz: Clasificador utilizado principalmente para viajes o desplazamientos: 一趟 = un viaje.	趟 (tàng)
+
+Odiar / disgustar. \n Matiz: Sentir una fuerte aversión o desagrado hacia alguien o algo.	讨厌 (tǎo yàn)
+
+Temperatura corporal. \n Matiz: Temperatura del cuerpo, especialmente cuando se mide para comprobar si hay fiebre.	体温 (tǐ wēn)
+
+Peso corporal. \n Matiz: Peso de una persona o animal.	体重 (tǐ zhòng)
+
+Rellenar / completar. \n Matiz: Escribir la información solicitada en un formulario o documento.	填写 (tián xiě)
+
+Cubo / barril / recipiente. \n Matiz: Recipiente, generalmente cilíndrico, utilizado para contener líquidos u otros materiales.	桶 (tǒng)
+
+Dolor de cabeza. \n Matiz: Dolor localizado en la cabeza.	头痛 (tóu tòng)
+
+Lanzar / introducir / sacar al mercado. \n Matiz: Según el contexto puede significar proponer algo, lanzar un producto o introducir una nueva medida.	推出 (tuī chū)
+
+Salir / salir de casa. \n Matiz: Abandonar el lugar donde uno se encuentra, especialmente para realizar una actividad fuera.	外出 (wài chū)
+
+Comprar por Internet. \n Matiz: Realizar compras mediante Internet o plataformas digitales.	网购 (wǎng gòu)
+
+Página web. \n Matiz: Página individual o sitio consultado mediante Internet.	网页 (wǎng yè)
+
+Contaminación / contaminar. \n Matiz: Puede referirse a la contaminación como sustantivo o a contaminar como verbo según el contexto.	污染 (wū rǎn)
+
+Tomate. \n Matiz: Fruto rojo utilizado frecuentemente como alimento y ingrediente.	西红柿 (xī hóng shì)
+
+Envidiar / admirar. \n Matiz: Desear tener las cualidades, experiencias o ventajas que otra persona posee.	羡慕 (xiàn mù)
+
+En línea / online. \n Matiz: Actividad realizada mediante Internet.	线上 (xiàn shàng)
+
+Fuera de línea / presencial. \n Matiz: Actividad realizada sin Internet, frecuentemente de manera presencial.	线下 (xiàn xià)
+
+Existente actualmente / disponible actualmente. \n Matiz: Se refiere a algo que existe o está disponible en el momento presente.	现有 (xiàn yǒu)
+
+Detallado. \n Matiz: Contiene muchos detalles o información precisa.	详细 (xiáng xì)
+
+Estar cansado / haber trabajado duro. \n Matiz: Puede expresar cansancio por el esfuerzo o reconocer el esfuerzo de otra persona: 辛苦了 = gracias por tu esfuerzo.	辛苦 (xīn kǔ)
+
+Oso. \n Matiz: Animal mamífero de gran tamaño; también aparece en nombres de especies.	熊 (xióng)
+
+Pasta dental / dentífrico. \n Matiz: Producto utilizado para limpiar los dientes.	牙膏 (yá gāo)
+
+Asia. \n Matiz: Continente situado principalmente en el hemisferio norte y oriental.	亚洲 (yà zhōu)
+
+Invitar. \n Matiz: Pedir a alguien que participe en una actividad, evento o visita.	邀请 (yāo qǐng)
+
+Llave. \n Matiz: Objeto utilizado para abrir o cerrar una cerradura.	钥匙 (yào shi)
+
+Noche. \n Matiz: Período de oscuridad, especialmente desde el anochecer hasta antes del amanecer.	夜晚 (yè wǎn)
+
+Usar para. \n Matiz: Indica el propósito para el que se utiliza algo.	用来 (yòng lái)
+
+Utilizarse para / ser usado para. \n Matiz: Indica la función o propósito de algo, con un tono algo más formal que 用来.	用于 (yòng yú)
+
+Divertirse / visitar / pasear. \n Matiz: Pasar tiempo agradable visitando lugares o realizando actividades recreativas.	游玩 (yóu wán)
+
+Amistad. \n Matiz: Relación afectiva y de confianza entre amigos.	友情 (yǒu qíng)
+
+Tener / poseer. \n Matiz: Expresa que alguien o algo posee o presenta determinada característica; suele tener un tono más formal.	有着 (yǒu zhe)
+
+Agradable / feliz. \n Matiz: Describe una experiencia o estado emocional placentero.	愉快 (yú kuài)
+
+Y / con. \n Matiz: Puede unir elementos, expresar compañía o introducir una relación entre elementos según el contexto.	与 (yǔ)
+
+Perdonar. \n Matiz: Dejar de culpar o castigar a alguien por una falta.	原谅 (yuán liàng)
+
+Alejarse de. \n Matiz: Mantenerse a distancia de una persona, lugar o cosa.	远离 (yuǎn lí)
+
+Pastel de luna. \n Matiz: Dulce tradicional chino especialmente asociado con el Festival del Medio Otoño.	月饼 (yuè bǐng)
+
+Permitir / autorizar. \n Matiz: Dar permiso para hacer algo; también puede significar permitir que algo ocurra.	允许 (yǔn xǔ)
+
+Nuevamente / otra vez. \n Matiz: Indica que una acción ocurre una vez más.	再次 (zài cì)
+
+Hablando de eso / además / dejarlo para después. \n Matiz: Puede introducir otro asunto o indicar que algo se tratará más adelante.	再说 (zài shuō)
+
+Temporalmente / por ahora. \n Matiz: Algo válido durante un período limitado y no necesariamente permanente.	暂时 (zàn shí)
+
+Pausar / suspender. \n Matiz: Detener temporalmente una actividad que puede continuar después.	暂停 (zàn tíng)
+
+Contratar / reclutar. \n Matiz: Buscar y contratar personas para cubrir puestos de trabajo.	招聘 (zhāo pìn)
+
+Entre / dentro de. \n Matiz: Indica que algo se encuentra dentro de un grupo, espacio o conjunto.	之中 (zhī zhōng)
+
+Pañuelo de papel / tissue. \n Matiz: Papel suave utilizado para limpiarse o secarse.	纸巾 (zhǐ jīn)
+
+Felicitar. \n Matiz: Expresar buenos deseos por un logro, acontecimiento o celebración.	祝贺 (zhù hè)
+
+Compartir / reenviar. \n Matiz: Enviar nuevamente un contenido a otras personas, especialmente en redes sociales.	转发 (zhuǎn fā)
+
+Hacer transbordo. \n Matiz: Cambiar de un avión, tren u otro transporte a otro durante un viaje.	转机 (zhuǎn jī)
+
+Cuidadosamente / con atención. \n Matiz: Realizar algo prestando mucha atención para evitar errores.	仔细 (zǐ xì)
+
+Estudio autónomo. \n Matiz: Estudiar por cuenta propia, especialmente en un período reservado para estudiar.	自习 (zì xí)
+
+Estudiar por cuenta propia. \n Matiz: Aprender de manera independiente sin depender directamente de un profesor.	自学 (zì xué)
+
+Finalmente / en última instancia. \n Matiz: Indica el resultado final después de un proceso o una serie de acontecimientos.	最终 (zuì zhōng)
+
+Respetar. \n Matiz: Mostrar consideración y reconocimiento hacia una persona, opinión, regla o cultura.	尊重 (zūn zhòng)
