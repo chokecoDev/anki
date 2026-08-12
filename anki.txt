@@ -714,7 +714,7 @@ Alpinismo. \n Matiz: Escalar montañas como deporte o actividad.	登山 (dēng s
 
 Esperar / Etc. \n Matiz: Acción de aguardar o partícula para cerrar una enumeración.	等 (děng)
 
-Hasta que. \n Matiz: Indica el momento en que ocurre algo tras una espera.	等到 (děng dào)
+Esperar hasta... / Esperar a que... \n Matiz: Aguardar hasta que ocurra una condición o tiempo.	等到 (děng dào)
 
 Bajo. \n Matiz: Referente a altura, nivel, precio o volumen de voz.	低 (dī)
 
@@ -1302,10 +1302,6 @@ Vuelo. \n Matiz: Se refiere a un trayecto aéreo específico con su número y ho
 
 Aviación. \n Matiz: Todo lo relacionado con el transporte y la industria aérea.	航空 (háng kōng)
 
-Milímetro. \n Matiz: Unidad de longitud muy pequeña.	毫米 (háo mǐ)
-
-Mililitro. \n Matiz: Unidad de volumen para líquidos.	毫升 (háo shēng)
-
 Rico / Sabroso. \n Matiz: Se usa exclusivamente para describir el buen sabor de la comida.	好吃 (hǎo chī)
 
 Beneficio / Ventaja. \n Matiz: Aspecto positivo, utilidad o ganancia que se obtiene de algo.	好处 (hǎo chù)
@@ -1346,7 +1342,7 @@ Oscuridad / Tinieblas. \n Matiz: Falta total de luz; a menudo usado en sentido f
 
 v. pasear, vagar. \n implica que no tienes una meta específica o prisa. Es una actividad puramente recreativa. Si vas al supermercado a comprar leche y sales rápido, usas	去 (qù). Si vas al supermercado a ver qué hay de nuevo, a probar muestras gratis y a perder el tiempo, estás ___ en el supermercado.	逛 (guàng)
 
-Como conjunción: "O" (pero solo en preguntas). \n Como adverbio: "Todavía", "aún" (continuidad). \n Como sugerencia: "Mejor sería..." o "después de todo, lo mejor es...".	还是 (hái shì)
+Como conjunción: "O" (pero solo en preguntas). \n Como adverbio: "Todavía", "aún" (continuidad).	还是 (hái shì)
 
 #207 significado (abstracto y profundo). \n Más formal que	意思。	含义 (hán yì)
 
@@ -1440,7 +1436,7 @@ Fuego. \n Matiz: Elemento del fuego; coloquialmente significa que algo está "de
 
 Tren. \n Matiz: Vehículo ferroviario de transporte (lit. "carruaje de fuego").	火车 (huǒ chē)
 
-O / O bien. \n Matiz: Conjunción para afirmaciones; para preguntas se usa	还是.	或者 (huò zhě)
+O / O bien. \n Matiz: Conjunción para afirmaciones; para preguntas se usa 还是.	或者 (huò zhě)
 
 Mercancía / Productos. \n Matiz: Bienes destinados al comercio o venta.	货 (huò)
 
@@ -1500,7 +1496,7 @@ Organizar, poner en orden, fila/hilera, ensayar, expulsar. \n Se centra en la co
 
 #212. entusiasmado. \n Indica que el ánimo está elevado y hay gran vitalidad. Se refiere a un estado de energía y espíritu animado, pero no necesariamente a una pérdida de control emocional o agitación profunda	兴奋 (xīng fèn)
 
-#213. De buen corazón. \n Se refiere a mostrar una actitud amistosa, cálida, activa y proactiva al interactuar con otros o al formar parte de una actividad. Suele utilizarse para describir la personalidad de alguien, su forma de recibir invitados (hospitalidad) o el fervor y amor que se tiene hacia el trabajo o una causa.	热情 (rè qíng)
+cálido/afectuoso en el trato \n Describe la calidez emocional en la interacción social: cómo tratas a la gente, tu actitud al recibir o atender a alguien.	热情 (rè qíng)
 
 #150. Como adverbio de grado: Significa "extremadamente", "sumamente" o "al máximo". Se usa para enfatizar un adjetivo. \n Como sustantivo: Se refiere a los polos geográficos o magnéticos (como el Polo Norte).	极 (jí) \n \n Adjetivo +	极了 (jí le) \n 这里漂亮极了！
 
@@ -3540,9 +3536,7 @@ Diente / Muela.	牙 (yá)
 
 Cepillo de dientes.	牙刷 (yá shuā)
 
-Juegos Asiáticos.	亚运会 (yà yùn huì)
-
-Humo / Cigarrillo.	烟 (yān)
+Humo / Cigarrillo / Tabaco \n Matiz: Sustantivo. Puede referirse al humo de un fuego, pero coloquialmente es "cigarrillo"	烟 (yān)
 
 Posponer / Aplazar / Prorrogar. \n Matiz: Pasar una fecha a un momento posterior.	延期 (yán qī)
 
@@ -4234,7 +4228,7 @@ Líder de grupo. \n Matiz: Responsable.	组长 (zǔ zhǎng)
 
 Más. \n Matiz: Superlativo.	最 (zuì)
 
-adv./adj. más vale que. \n Expresa “lo mejor” o una recomendación fuerte pero no obligatoria (“sería mejor que…”).	最好 (zuì hǎo)
+(2) Será mejor que... \n 1. Se usa para dar un consejo directo, una recomendación fuerte o una advertencia. No hay debate; simplemente te estoy diciendo cuál es la acción ideal que debes tomar para evitar problemas o tener un buen resultado. \n 2. Se usa para dar sugerencias, implica que has evaluado diferentes opciones, comparado la situación, o incluso cambiado de opinión. Significa que, dadas las circunstancias, esta es la mejor elección.	最好 (zuì hǎo) - 外面下雨了，你最好带一把伞。\n 还是 - 太晚了，我们还是打车吧。
 
 adv./s. finalmente, final. \n Matiz: Último.	最后 (zuì hòu)
 
