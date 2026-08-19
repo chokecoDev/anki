@@ -108,7 +108,7 @@ Delegado de clase, monitor o jefe de grupo. \n En el sistema educativo chino, no
 
 Mudarse de casa.	搬家 (bān jiā)
 
-Hacer, gestionar, manejar, tramitar.	办 (bàn)
+Hacer, gestionar, manejar, tramitar. \n Caracter simple.	办 (bàn)
 
 Método, solución, forma de resolver algo.	办法 (bàn fǎ)
 
@@ -538,7 +538,7 @@ Llamar por teléfono.	打电话 (dǎ diàn huà)
 
 Trabajar (temporal). \n Matiz: Suele referirse a empleos de tiempo parcial o manuales.	打工 (dǎ gōng)
 
-Abrir / Encender. \n Matiz: Abrir un libro/puerta o encender un aparato electrónico.	打开 (dǎ kāi)
+Abrir / Encender. \n Matiz: Abrir un libro/puerta o encender un aparato electrónico.	打开 (dǎ kāi) \n 请打开书。- Por favor, abre el libro. (Súper común en el salón de clases).
 
 Tronar. \n Matiz: El sonido del trueno durante una tormenta.	打雷 (dǎ léi)
 
@@ -1100,8 +1100,6 @@ Canto / Sonido de la voz. \n Matiz: El sonido producido al cantar.	歌声 (gē s
 
 Cantante. \n Matiz: Persona que se dedica profesionalmente al canto.	歌手 (gē shǒu)
 
-Mantener separado / Dividir. \n Matiz: Acción física de poner una barrera entre dos objetos.	隔开 (gé kāi)
-
 Clasificador general. \n Matiz: El más versátil para personas y objetos comunes.	个 (gè)
 
 Individuo / Unidad. \n Matiz: Un ser único considerado como parte de un sistema.	个体 (gè tǐ)
@@ -1145,8 +1143,6 @@ Autobús. \n Matiz: Vehículo de transporte colectivo de pasajeros.	公共汽车
 Bus / Autobús. \n Matiz: Forma abreviada y común de公共汽车.	公交车 (gōng jiāo chē)
 
 Kilogramo. \n Matiz: Unidad de masa del sistema métrico.	公斤 (gōng jīn)
-
-Público / Abierto. \n Matiz: Algo que se hace a la vista de todos, sin secretos.	公开 (gōng kāi)
 
 Kilómetro. \n Matiz: Unidad de medida de longitud (distancia).	公里 (gōng lǐ)
 
@@ -1393,8 +1389,6 @@ Anillo / Aro / Eslabón. \n Matiz: Objeto circular o una de las partes de una ca
 Protección ambiental. \n Matiz: Abreviatura de	环境保护 (protección del medio ambiente).	环保 (huán bǎo)
 
 Cambiar / Canjear. \n Matiz: Sustituir una cosa por otra (dinero, ropa, lugar).	换 (huàn)
-
-Alegre / Feliz. \n Matiz: Sentimiento de gozo colectivo o formal (ej: ambiente alegre).	欢乐 (huān lè)
 
 Dar la bienvenida. \n Matiz: Recibir a alguien con agrado.	欢迎 (huān yíng)
 
@@ -1694,8 +1688,6 @@ Terminar / Finalizar. \n Matiz: El cierre de una actividad, evento o periodo.	�
 
 Resolver. \n Matiz: Encontrar la solución a un problema o conflicto.	解决 (jiě jué)
 
-Desatar / Desabrochar. \n Matiz: Soltar algo que estaba atado o abrir un cierre.	解开 (jiě kāi)
-
 Explicar. \n Matiz: Aclarar el significado de algo para que se entienda.	解释 (jiě shì)
 
 Presentar / Introducir. \n Matiz: Dar a conocer a una persona o explicar un producto.	介绍 (jiè shào)
@@ -1794,7 +1786,7 @@ Café.	咖啡 (kā fēi)
 
 Tarjeta / Card. \n Matiz: Tarjeta bancaria, de identificación o de memoria.	卡 (kǎ)
 
-Abrir / Encender / Conducir. \n Matiz: Verbo de acción para abrir puertas, encender aparatos o manejar.	开 (kāi)
+Abrir / Encender / Conducir. \n Matiz: Verbo de acción para abrir puertas, encender aparatos o manejar. \n Caracter simple	开 (kāi)
 
 Conducir. \n Matiz: Manejar un vehículo motorizado.	开车 (kāi chē)
 
@@ -1808,9 +1800,9 @@ Empezar / Comenzar. \n Matiz: El inicio de una acción o proceso.	开始 (kāi s
 
 Bromear. \n Matiz: Decir algo por diversión sin ser en serio.	开玩笑 (kāi wán xiào)
 
-Feliz / Alegre. \n Matiz: Sentirse contento y de buen humor.	开心 (kāi xīn)
+Feliz / Alegre. \n Alegría del momento (casual) \n Uso: Hablar del día a día, estado de ánimo actual.	开心 (kāi xīn) \n 今天我玩得很开心。- Hoy me divertí mucho / la pasé muy bien.
 
-Iniciar el semestre. \n Matiz: Comienzo de las clases tras las vacaciones escolares.	开学 (kāi xué)
+Empezar las clases, iniciar el ciclo/año escolar o la "vuelta al cole". \n Matiz: Comienzo de las clases tras las vacaciones escolares.	开学 (kāi xué) \n 我们下个星期开学。- Nosotros empezamos las clases la próxima semana.
 
 Ir al médico / Examinar paciente. \n Matiz: Acción del paciente (visita) o del doctor (chequeo).	看病 (kàn bìng)
 
@@ -1832,7 +1824,7 @@ Examinar / Poner a prueba. \n Matiz: Raíz para evaluar conocimientos o resisten
 
 Inspeccionar / Investigar. \n Matiz: Estudiar un lugar o situación sobre el terreno.	考察 (kǎo chá)
 
-Considerar / Pensar. \n Matiz: Reflexionar detenidamente antes de decidir algo.	考虑 (kǎo lǜ)
+Considerar / Pensar en. \n Uso: Cuando estás evaluando opciones antes de tomar una decisión.	考虑 (kǎo lǜ) \n 我需要考虑一下。- Necesito considerarlo / pensarlo un poco.
 
 Candidato / Examinando. \n Matiz: Persona que realiza un examen.	考生 (kǎo shēng)
 
@@ -1914,13 +1906,11 @@ Pantalones.	裤子 (kù zi)
 
 Trozo / Yuan / Clasificador. \n Matiz: Unidad para objetos sólidos o para la moneda china.	块 (kuài)
 
-Rápido / Pronto / Feliz. \n Matiz: Velocidad física, tiempo cercano o estado de alegría.	快 (kuài)
-
 Mensajería / Express. \n Matiz: Envío rápido de paquetes o documentos.	快递 (kuài dì)
 
 Rápido / ¡Date prisa! Matiz: Exhortación para que alguien actúe con celeridad.	快点儿 (kuài diǎn ér)
 
-Feliz / Alegre. \n Matiz: Sentimiento de satisfacción o gozo (común en felicitaciones).	快乐 (kuài lè)
+Feliz / Alegre. \n Alegría general o felicitaciones. \n Uso: Desear felicidades (cumpleaños, año nuevo).	快乐 (kuài lè) \n 祝你生日快乐！- ¡Feliz cumpleaños!
 
 rápido / veloz (más formal, descriptivo). \n Matiz: Es más formal y escrito. \n Se usa principalmente antes de sustantivos o como adverbio	快速 (kuài sù) \n	快速发展
 
@@ -1939,8 +1929,6 @@ Extender / Expandir. \n Matiz: Ampliar el alcance, las funciones o el desarrollo
 Basura. \n Matiz: Desechos o desperdicios de cualquier tipo.	垃圾 (lā jī)
 
 Tirar / Jalar. \n Matiz: Acción de atraer algo hacia uno mismo.	拉 (lā)
-
-Abrir / Distanciarse. \n Matiz: Separar dos partes o aumentar la brecha entre dos niveles.	拉开 (lā kāi)
 
 Picante. \n Matiz: Sabor que produce ardor en el paladar.	辣 (là)
 
@@ -1982,9 +1970,9 @@ Entender / Conocer bien. \n Matiz: Familiaridad profunda con hechos, situaciones
 
 Cansado. \n Matiz: Agotamiento físico o mental tras un esfuerzo.	累 (lèi)
 
-Inseparable / No poder prescindir de. \n Matiz: Dependencia total de algo o alguien.	离不开 (lí bù kāi)
+Inseparable / No poder prescindir de. \n Matiz: Dependencia total de algo o alguien.	离不开 (lí bù kāi) \n Estructura: Sujeto + 离不开 + Objeto/Persona/Concepto \n 现代人离不开手机。- La gente moderna no puede vivir sin el teléfono móvil.
 
-Partir / Dejar un lugar. \n Matiz: Abandonar físicamente un sitio o a una persona.	离开 (lí kāi)
+Partir / Dejar un lugar. \n Matiz: Abandonar físicamente un sitio o a una persona.	离开 (lí kāi) \n 我明天要离开北京。- Mañana me voy de (dejo) Pekín. \n 请不要离开我。- Por favor, no me dejes (no te vayas de mi lado).
 
 Regalo / Obsequio. \n Matiz: Objeto que se entrega para mostrar afecto o cortesía.	礼物 (lǐ wù)
 
@@ -2630,7 +2618,7 @@ Todo el..., el entero, la totalidad de. \n Se usa casi siempre antes de un susta
 
 #140. Otras personas / Los demás. \n Es el término neutro y gramaticalmente más puro para referirse a cualquier persona que no seas tú o la persona con la que hablas.	别人 (bié rén)
 
-Considerar, opinar, creer formalmente. \n Se usa para dar una opinión basada en el juicio o la lógica. Es una conclusión a la que has llegado tras analizar algo. Es más formal que "想".	认为 (rèn wéi)
+Considerar, opinar, creer formalmente. \n Se usa para dar una opinión basada en el juicio o la lógica. \n Es una conclusión a la que has llegado tras analizar algo. Es más formal que "想". \n Uso: Cuando ya tienes una postura, conclusión o juicio formado.	认为 (rèn wéi) \n 我认为这个计划很好。- Opino / Creo que este plan es muy bueno.
 
 Pensar, querer, extrañar. \n Es la palabra "comodín". Se usa para procesos mentales generales, deseos inmediatos o el sentimiento de echar de menos a alguien. Es menos formal que las demás.	想 (xiǎng)
 
@@ -2874,7 +2862,7 @@ s. clima	天气 (tiān qì)
 
 #96. escuchar, oir (el verbo base)	听 (tīng)
 
-#97. Lograr oir (2)	听到 /	听见 (tīng dào / tīng jiàn)
+#97. Lograr oir (2)	听到 / 听见 (tīng dào / tīng jiàn)
 
 #98. Atender a una explicación, escuchar una conferencia.	听讲 (tīng jiǎng)
 
@@ -2886,7 +2874,7 @@ s. clima	天气 (tiān qì)
 
 Pregunta de examen / Problema. \n Matiz: Los ítems o consignas específicas de una evaluación.	试题 (shì tí)
 
-Sala / Habitación. \n Matiz: Se usa frecuentemente como sufijo (ej.	办公室, 实验室).	室 (shì)
+Sala / Habitación. \n Matiz: Se usa frecuentemente como sufijo.	室 (shì)
 
 (JAP) Ser / Sí / Cierto. Verbo copulativo básico.	是 (shì) \n です (desu)
 
@@ -3012,7 +3000,7 @@ Agrio / Ácido / Dolorido. \n Matiz: Sabor o dolor muscular por cansancio.	酸 (
 
 Yogur.	酸奶 (suān nǎi)
 
-Calcular / Considerar. \n Matiz: Operación matemática o dar algo por hecho.	算 (suàn)
+fr. error de cálculo, equivocarse al calcular	算错 (suàn cuò)
 
 Aunque / Si bien. Conector concesivo.	虽然 (suī rán)
 
@@ -3157,8 +3145,6 @@ Unir, unido, solidaridad. \n (Matiz: Trabajar juntos como un grupo, sin division
 Organización / Grupo / Colectivo. \n Matiz: Entidad formal o equipo.	团体 (tuán tǐ)
 
 Retrasar / Posponer. \n Matiz: Pasar una fecha programada a un momento posterior.	推迟 (tuī chí)
-
-Empujar para abrir.	推开 (tuī kāi)
 
 Promocionar / Comercializar. \n Matiz: Intentar vender un producto al público.	推销 (tuī xiāo)
 
@@ -3380,7 +3366,7 @@ Foto / Fotografía (física).	相片 (xiàng piān)
 
 Idéntico / Mismo. \n Matiz: Igual en todos los aspectos.	相同 (xiāng tóng)
 
-Creer / Confiar. \n Matiz: Tener fe en algo o en la palabra de alguien.	相信 (xiāng xìn)
+Creer / Confiar. \n Matiz: Tener fe en algo o en la palabra de alguien. \n Funciona como un verbo	相信 (xiāng xìn)
 
 Caja / Maleta / Baúl.	箱子 (xiāng zi)
 
@@ -3452,13 +3438,13 @@ Noticias / Prensa. \n Matiz: Información de actualidad en medios de comunicaci�
 
 Fresco / Novedoso. \n Matiz: Alimentos recién hechos o ideas nuevas.	新鲜 (xīn xiān)
 
-Carta / Creer / Confianza. (Raíz de correspondencia y fe).	信 (xìn)
+Carta / Creer / Confianza. \n Caracter simple.	信 (xìn)
 
 Señal (de radio, TV, móvil).	信号 (xìn hào)
 
-Información / Mensaje / Datos. \n Matiz: Contenido informativo recibido.	信息 (xìn xī)
+Información. \n Matiz: No es un chisme ni un mensajito rápido; son datos objetivos. Es la palabra que ves en formularios, tecnología, bases de datos o investigaciones.	信息 (xìn xī)
 
-Confianza (en uno mismo) / Seguridad.	信心 (xìn xīn)
+Confianza (en uno mismo) / Seguridad. \n Es un sustantivo.	信心 (xìn xīn) \n 我对你有信心。- Tengo confianza en ti.
 
 Tarjeta de crédito.	信用卡 (xìn yòng kǎ)
 
@@ -3482,7 +3468,7 @@ Apellido / Apellidarse.	姓 (xìng)
 
 Nombre y apellidos / Nombre completo.	姓名 (xìng míng)
 
-Felicidad / Feliz. \n Matiz: Bienestar profundo y duradero.	幸福 (xìng fú)
+Felicidad / Feliz. \n Felicidad profunda y de vida. \n Uso: Hablar de familia, amor, realización personal.	幸福 (xìng fú) \n 他们有一个幸福的家庭。- Ellos tienen una familia feliz / bendecida.
 
 Naturaleza / Género / Sexo / (Sufijo para cualidades).	性 (xìng)
 
@@ -3746,7 +3732,7 @@ Tener / Haber. \n Matiz: Verbo de posesión o existencia. 	有 (yǒu)
 
 Algunos. \n Matiz: Se usa para referirse a una parte de un grupo. 	有的 (yǒu de)
 
-Tener de sobra / Haber en abundancia / "De eso hay un montón" \n Matiz: Esta expresión se usa a menudo para consolar a alguien, darle tranquilidad o simplemente exagerar que "no hay de qué preocuparse por la cantidad". \n Se coloca luego del sustantivo. 	有的是 (yǒu de shì) \n Estructura: [Sustantivo] + 有的是. => Literalmente suena como "De [sustantivo]... hay lo que es/hay de sobra". \n 别着急，时间有的是。- No te preocupes, hay tiempo de sobra.
+Tener de sobra / Haber en abundancia / "De eso hay un montón" \n Matiz: Esta expresión se usa a menudo para consolar a alguien, darle tranquilidad o simplemente exagerar que "no hay de qué preocuparse por la cantidad". \n Se coloca luego del sustantivo. 	有的是 (yǒu de shì) \n Estructura más común: [Sustantivo] + 有的是. => Literalmente suena como "De [sustantivo]... hay lo que es/hay de sobra". \n 别着急，时间有的是。- No te preocupes, hay tiempo de sobra.
 
 Un poco. \n Matiz: Indica una cantidad pequeña, a menudo con matiz negativo. 	有点儿 (yǒu diǎn ér)
 
@@ -4016,8 +4002,6 @@ v. Saber	知道 (zhī dào)
 
 #119. entrar caminando.	走进 (zǒu jìn)
 
-#118. "Quitarse de en medio", "hacerse a un lado" o, de forma más ruda, "vete" / "lárgate". \n Forma imperativa.	走开 (zǒu kāi)
-
 #117. Es la forma completa para decir "caminar" como medio de transporte o ejercicio.	走路 (zǒu lù)
 
 #84. La combinación como "Paquete" o "Combo". \n Esta palabra es puramente comercial y de servicios.	套餐 (tào cān)
@@ -4138,7 +4122,7 @@ Pesado / importante. \n Matiz: Gran peso o relevancia.	重 (zhòng)
 
 Valorar. \n Matiz: Dar importancia.	重视 (zhòng shì)
 
-Hacer algo otra vez desde cero / empezar de nuevo. \n Matiz: Implica reinicio o cambio. \n Muchas veces: corregir, rehacer, comenzar otra vez.	重新 (chóng xīn) \n 重新开始 (Empezar de nuevo) \n 对不起，是我粗心。我重新打印一份给您吧。
+adv. Hacer algo otra vez desde cero / empezar de nuevo. \n Matiz: Implica reinicio o cambio. \n Muchas veces: corregir, rehacer, comenzar otra vez.	重新 (chóng xīn) \n 重新开始 (Empezar de nuevo) \n 对不起，是我粗心。我重新打印一份给您吧。
 
 Importante. \n Matiz: Significativo.	重要 (zhòng yào)
 
@@ -4684,7 +4668,7 @@ Levantar la cabeza. \n Matiz: Mover la cabeza hacia arriba para mirar algo.	抬�
 
 Tocar un instrumento / lanzar. \n Matiz: Con instrumentos de cuerda significa "tocar"; también puede tener otros significados según el contexto.	弹 (tán)
 
-Vez / viaje. \n Matiz: Clasificador utilizado principalmente para viajes o desplazamientos: 一趟 = un viaje.	趟 (tàng)
+Clasificador. \n Se usa exclusivamente para contar la cantidad de viajes, vueltas o trayectos que haces (ir a un lugar y volver). \n Como implica movimiento físico, casi siempre va acompañando a estos verbos: 去 (qù): Ir, 来 (lái): Venir, 跑 (pǎo): Correr (En este contexto significa "darse una vuelta rápida" o "hacer el esfuerzo físico de ir"), 走 (zǒu): Caminar / Ir.	趟 (tàng) \n Estructura básica: Verbo de movimiento + Número + 趟 + (Lugar). \n 我要去 一趟 超市。- Voy a dar una vuelta por el supermercado.
 
 Odiar / disgustar. \n Matiz: Sentir una fuerte aversión o desagrado hacia alguien o algo.	讨厌 (tǎo yàn)
 
@@ -4744,7 +4728,7 @@ Amistad. \n Matiz: Relación afectiva y de confianza entre amigos.	友情 (yǒu 
 
 Tener / poseer. \n Matiz: Expresa que alguien o algo posee o presenta determinada característica; suele tener un tono más formal.	有着 (yǒu zhe)
 
-Agradable / feliz. \n Matiz: Describe una experiencia o estado emocional placentero.	愉快 (yú kuài)
+Feliz. \n Enfoque: Placentero, agradable (formal). \n Uso: Despedidas formales, ambiente de trabajo.	愉快 (yú kuài) \n 祝你周末愉快。- Que tengas un fin de semana placentero / agradable.
 
 Y / con. \n Matiz: Puede unir elementos, expresar compañía o introducir una relación entre elementos según el contexto.	与 (yǔ)
 
