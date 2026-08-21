@@ -66,8 +66,6 @@ Grado escolar. \n Matiz: El nivel que cursa un estudiante (primero, segundo...).
 
 Seguridad, seguro, a salvo. \n Puede ser tanto un adjetivo ("este lugar es seguro") como un sustantivo ("la seguridad es lo primero")	安全 (ān quán)
 
-Instalar a alguien o algo en un lugar fijo (reubicar personal o equipo).	安置 (ān zhì)
-
 #62. a tiempo, según lo previsto. \n Se refiere a completar una tarea o proceso dentro del plazo previsto. Es "según el plan".	按时 (àn shí)
 
 "Siguiendo las instrucciones de...". \n Se usa para manuales o leyes (ej. seguir el protocolo de seguridad).	按照 (àn zhào)
@@ -696,17 +694,13 @@ De / Partícula atributiva. \n Matiz: Indica posesión o une un adjetivo con un 
 
 Si... / En caso de. \n Matiz: Se coloca al final de una suposición.	的话 (de huà) \n Estructura: (A	的话, B)
 
-Partícula para introducir el complemento del verbo (cómo se realiza la acción).	得 (dé)
-
-v. obtener (resultados), llegar a (conclusión). \n No se usa para obtener objetos físicos (como un regalo). Se usa para algo que es el resultado de un proceso mental, científico o analítico.	得出 (dé chū) \n	我们得出了一个结论
+Partícula para introducir el complemento del verbo (cómo se realiza la acción).	得 (de)
 
 Conseguir / Recibir. \n Matiz: Obtener algo concreto o abstracto (como un premio o apoyo).	得到 (dé dào)
 
 Anotar / Puntuación. \n Matiz: Obtener puntos en un juego, examen o deporte.	得分 (dé fēn)
 
 Lámpara / Luz. \n Matiz: Dispositivo que emite iluminación artificial.	灯 (dēng)
-
-Alpinismo. \n Matiz: Escalar montañas como deporte o actividad.	登山 (dēng shān)
 
 Esperar / Etc. \n Matiz: Acción de aguardar o partícula para cerrar una enumeración.	等 (děng)
 
@@ -4179,8 +4173,6 @@ Natural. \n Matiz: Propio de la naturaleza.	自然 (zì rán)
 Confiado. \n Matiz: Tener confianza.	自信 (zì xìn)
 
 Bicicleta. \n Matiz: Medio de transporte.	自行车 (zì xíng chē)
-
-Independiente. \n Matiz: Autonomía.	自主 (zì zhǔ)
 
 fr. "en general", "en términos generales", "considerándolo todo"	总的来说 (zǒng de lái shuō)
 
