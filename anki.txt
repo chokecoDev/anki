@@ -88,8 +88,6 @@ El día, las horas de luz (opuesto a la noche).	白天 (bái tiān)
 
 Cien (100).	百 (bǎi)
 
-Mercancía general / Almacenes.	百货 (bǎi huò)
-
 Poner, colocar (con cuidado o para exhibir), balancear.	摆 (bǎi)
 
 Oscilar, balancearse, menear.	摆动 (bǎi dòng)
@@ -1422,7 +1420,7 @@ Tren. \n Matiz: Vehículo ferroviario de transporte (lit. "carruaje de fuego").	
 
 O / O bien. \n Matiz: Conjunción para afirmaciones; para preguntas se usa 还是.	或者 (huò zhě)
 
-Mercancía / Productos. \n Matiz: Bienes destinados al comercio o venta.	货 (huò)
+Mercancía / Productos. \n 1. Se enfoca en los bienes como objetos físicos, la carga o el inventario. Es un término más terrenal, coloquial y fundamental en el mundo de la logística, los almacenes y los envíos (La mercancía física o el inventario). \n 2. Es un término formal, económico y de marketing. Se refiere a la mercancía que ya tiene un valor de mercado, que está lista, empaquetada y exhibida para su venta al consumidor final. (El producto comercial formal)	货 (huò) / 商品 (shāng pǐn) \n 1. 发货 - Enviar la mercancía / Despachar. \n 2. 超市里有很多种 商品。- En el supermercado hay muchos tipos de productos.
 
 Obtener / Capturar. \n Matiz: Raíz formal para conseguir o ganar algo.	获 (huò)
 
@@ -2688,8 +2686,6 @@ Tienda / Almacén.	商店 (shāng diàn)
 
 Consultar con alguien / Hablarlo para ponerse de acuerdo. \n Matiz: Verbo. Implica buscar una decisión o acuerdo conjunto con respeto.	商量 (shāng liang)
 
-Mercancía / Producto. \n Matiz: Bienes destinados al comercio y la venta.	商品 (shāng pǐn)
-
 Arriba / Subir / Siguiente. \n Matiz: Posición, movimiento ascendente o tiempo previo.	上 (shàng)
 
 Ir a trabajar. \n Matiz: Empezar la jornada laboral o dirigirse al puesto.	上班 (shàng bān)
@@ -3390,7 +3386,7 @@ Alumno de primaria.	小学生 (xiǎo xué shēng)
 
 Grupo / Equipo pequeño. \n Muy común en escuela, trabajo o actividades. \n No implica jerarquía fuerte. \n Es más neutral y cotidiano.	小组 (xiǎo zǔ)
 
-Efecto / Resultado producido. \n Matiz: La eficacia de una acción (ej. el efecto de una medicina).	效果 (xiào guǒ)
+Efecto. \n Matiz: La eficacia de una acción (ej. el efecto de una medicina).	效果 (xiào guǒ) \n 这个药的效果很好。 - El efecto de esta medicina es muy bueno (funciona muy bien).
 
 Campus escolar / Recinto universitario.	校园 (xiào yuán)
 
@@ -3882,9 +3878,7 @@ Este / Esto. \n Matiz: Pronombre demostrativo de cercanía. 	这 (zhè)
 
 Este lado / Por aquí. \n Matiz: Indica una dirección o zona cercana al hablante. 	这边 (zhè biān)
 
-Aquí / Acá. \n Matiz: Lugar exacto cercano al hablante. 	这儿 (zhè ér)
-
-Aquí. \n Matiz: Variante común para referirse al lugar actual. 	这里 (zhè lǐ)
+(2) Aquí / Acá. \n Matiz: Lugar exacto cercano al hablante. 	这儿 (zhèr) / 这里 (zhè lǐ)
 
 En este momento / Ahora. \n Matiz: Punto temporal actual o del relato. 	这时 (zhè shí)
 
@@ -4502,7 +4496,7 @@ Orgulloso. \n Matiz: Sentir satisfacción por uno mismo, otra persona o un logro
 
 Afueras / suburbios. \n Matiz: Zona situada fuera del centro de una ciudad.	郊区 (jiāo qū)
 
-Resultado. \n Matiz: Consecuencia o resultado producido por una acción o situación.	结果 (jié guǒ)
+Resultado. \n Matiz: Consecuencia o resultado producido por una acción o situación.	结果 (jié guǒ) \n 比赛的结果是什么？- ¿Cuál fue el resultado (marcador/desenlace) del partido?
 
 Días festivos y vacaciones. \n Matiz: Término que engloba días festivos y períodos oficiales de descanso.	节假日 (jié jià rì)
 
