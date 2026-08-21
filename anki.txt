@@ -218,7 +218,7 @@ Actuación / Manifestarse. \n Matiz: Cómo se comporta alguien o cómo se hace v
 
 Elogio. \n Matiz: Reconocimiento público por una buena conducta o logro.	表扬 (biǎo yáng)
 
-Otros. \n Matiz: Se refiere a algo distinto de lo que se está tratando.	别的 (bié de) \n	我想要别的。 (Quiero otra cosa.)
+Otros. \n Matiz: Se refiere a algo distinto de lo que se está tratando.	别的 (bié de) \n 我想要别的。 (Quiero otra cosa.)
 
 Hielo. \n Matiz: Agua en estado sólido por el frío.	冰 (bīng)
 
@@ -428,7 +428,7 @@ Cama. \n Matiz: El mueble básico para dormir.	床 (chuáng)
 
 Soplar / Alardear. \n Matiz: Acción física del viento o, coloquialmente, "presumir" o "romper" una relación.	吹 (chuī)
 
-Estación de la Primavera (2).	春季 /	春天 (chūn jì / chūn tiān)
+Estación de la Primavera (2).	春季 / 春天 (chūn jì / chūn tiān)
 
 Año Nuevo Chino. \n Matiz: El festival más importante del calendario lunar.	春节 (chūn jié)
 
@@ -584,7 +584,7 @@ El este. \n Una región con su propia cultura, comida o clima.	东方 (dōng fā
 
 s. sudeste. \n Punto cardinal	东南 (dōng nán)
 
-La estación de invierno (2).	冬季 /	冬天(dōng jì / dōng tiān)
+La estación de invierno (2).	冬季 / 冬天(dōng jì / dōng tiān)
 
 Huevo. \n Matiz: Nombre genérico para huevos de aves.	蛋 (dàn)
 
@@ -940,10 +940,6 @@ Trabajar / Faenar. \n Matiz: Realizar tareas físicas o manuales (muy coloquial)
 
 Limpio. \n Matiz: Libre de suciedad, manchas o desorden.	干净 (gān jìng)
 
-¿Qué haces? / ¿Para qué? Matiz: Pregunta coloquial que puede denotar impaciencia.	干吗 (gàn má)
-
-¿Qué haces? Matiz: Pregunta estándar sobre la actividad que alguien realiza.	干什么 (gàn shén me)
-
 Alto. \n Matiz: Referente a la estatura física, nivel, precio o volumen.	高 (gāo)
 
 Clímax / Apogeo. \n Matiz: El punto de máxima intensidad en un evento o historia.	高潮 (gāo cháo)
@@ -1118,7 +1114,7 @@ Venir / Recuperarse. \n Matiz: Movimiento hacia el hablante; también despertar 
 
 Celebrar Año Nuevo. \n Matiz: Generalmente referido al Año Nuevo Lunar (Chino).	过年 (guò nián)
 
-Pasado / Ir allí. \n Matiz: El tiempo que ya transcurrió o moverse alejándose del hablante.	过去 (guò qù)
+1. Como sustantivo de Tiempo ("El pasasdo"). \n Este es su uso más frecuente cuando hablamos de la línea del tiempo. Se refiere a cosas que ya sucedieron, a tu historia personal o a épocas anteriores. \n 2. Como Dirección ("Pasar / Ir hacia allá") \n En este caso, la palabra funciona como un complemento de dirección. Indica que una acción o un objeto se desplaza alejándose de ti (el hablante) hacia otro punto.	过去 (guò qù) \n 1. 过去，人们没有智能手机。- En el pasado, la gente no tenía teléfonos inteligentes. \n 2. 我现在过去。- Voy para allá ahora. (Me desplazo hacia donde estás tú).
 
 Jajaja. \n Matiz: Onomatopeya estándar para representar la risa.	哈哈 (hā hā)
 
@@ -1410,7 +1406,7 @@ Río grande. \n Matiz: Generalmente se refiere a ríos de gran caudal e importan
 
 Futuro. \n Matiz: El tiempo o los sucesos que vendrán después del presente.	将来 (jiāng lái)
 
-Hablar / Explicar. \n Matiz: Exponer un tema, contar una historia o dar una lección; más formal que "说".	讲 (jiǎng)
+Hablar, contar o explicar (Coloquial) \n Es el verbo comodín y más cotidiano de los tres. Se utiliza para el acto general de hablar, contar una historia, dictar una clase o dar una explicación sencilla en el día a día.	讲 (jiǎng) \n 我给你讲一个故事。- Te voy a contar una historia.
 
 Premio / Galardón. \n Matiz: Recompensa recibida por méritos, competencia o suerte.	奖 (jiǎng)
 
@@ -1480,7 +1476,7 @@ A continuación. \n Matiz: Conector para indicar lo que sigue en una secuencia o
 
 Seguidamente / Después. \n Matiz: Indica que una acción ocurre inmediatamente después de otra.	接着 (jiē zhe)
 
-Calle. \n Matiz: Vía pública en una ciudad.	街 (jiē)
+Calle. \n Matiz: Vía pública en una ciudad. \n Caracter simple.	街 (jiē)
 
 Calle / Avenida. \n Matiz: Término algo más formal para referirse a la vía y su entorno.	街道 (jiē dào)
 
@@ -1498,7 +1494,7 @@ Terminar / Finalizar. \n Matiz: El cierre de una actividad, evento o periodo.	�
 
 Resolver. \n Matiz: Encontrar la solución a un problema o conflicto.	解决 (jiě jué)
 
-Explicar. \n Matiz: Aclarar el significado de algo para que se entienda.	解释 (jiě shì)
+Aclarar o justificar (Para resolver dudas). \n Esta palabra entra en juego cuando hay confusión, un malentendido o un concepto complejo que requiere ser desglosado. Si en tus sesiones de intercambio de idiomas tu amigo chino necesita entender una regla gramatical difícil del español, esta es la acción que realizarás para ayudarlo.	解释 (jiě shì) \n 你能给我解释一下这个语法吗？- ¿Puedes explicarme esta gramática?
 
 Presentar / Introducir. \n Matiz: Dar a conocer a una persona o explicar un producto.	介绍 (jiè shào)
 
@@ -1566,7 +1562,7 @@ Viejo / Usado. \n Matiz: Referido a objetos (ropa, libros); para personas se usa
 
 Precisamente / Solo. \n Matiz: Adverbio de énfasis para confirmar o limitar algo.	就是 (jiù shì)
 
-Organizar / Realizar. \n Matiz: Llevar a cabo un evento, exposición o concurso.	举办 (jǔ bàn) \n	这次演出活动举办得非常成功，吸引了不少当地的观众。
+Organizar / Realizar. \n Matiz: Llevar a cabo un evento, exposición o concurso.	举办 (jǔ bàn) \n 这次演出活动举办得非常成功，吸引了不少当地的观众。
 
 Levantar la mano.	举手 (jǔ shǒu)
 
@@ -1612,7 +1608,7 @@ Ver / Lograr ver. \n Matiz: Enfatiza el resultado de la percepción visual.	看�
 
 Opinión, manera de ver algo. \n Se usa mucho en conversaciones cotidianas y suele sonar más personal o informal. \n Se enfoca en la perspectiva personal.	看法 (kàn fǎ) \n	你对这个电影有什么看法？
 
-Ver / Divisar. \n Matiz: Similar a	看到, percibir algo con los ojos.	看见 (kàn jiàn)
+Ver / Divisar.	看见 (kàn jiàn)
 
 Por lo visto / Al parecer. \n Matiz: Conclusión lógica basada en lo que se observa.	看来 (kàn lái)
 
@@ -2318,7 +2314,7 @@ Animado / Bullicioso. \n Matiz: Ambiente con mucha gente y actividad alegre.	热
 
 #146. Adolescente / Juventud. \n Esta palabra cubre un rango de edad que va aproximadamente desde los 12 hasta los 24 años. Es decir, incluye la pubertad, la adolescencia y los primeros años de la edad adulta.	青少年 (qīng shào nián)
 
-#11. s. otoño (2)	秋天 /	秋季 (qiū tiān / qiū jì)
+#11. s. otoño (2)	秋天 / 秋季 (qiū tiān / qiū jì)
 
 Todo, completo, entero, total. \n Se usa principalmente como adjetivo para expresar totalidad. En algunos contextos puede funcionar como adverbio con el sentido de “completamente”, pero es más común que forme parte de palabras o expresiones. También puede actuar como prefijo indicando que algo abarca a todo un grupo o lugar.	全 (quán)
 
@@ -2656,23 +2652,25 @@ Nivel / Estándar. \n Matiz: Grado de habilidad o altura de un fluido.	水平 (s
 
 Dormir.	睡觉 (shuì jiào)
 
-Quedarse dormido. \n Matiz: El resultado de la acción de dormir.	睡着 (shuì zháo)
+Quedarse dormido. \n Matiz: El resultado de la acción de dormir.	睡着 (shuì zháo) \n Forma negativa: 睡不着 (shuì bu zháo) \n 我昨天晚上没睡着。- Anoche no me pude quedar dormido (no concilié el sueño).
 
 Sin problemas, sin contratiempos, con éxito, de manera fluida.	顺利 (shùn lì)
 
 s. Orden / Secuencia. \n Matiz: La disposición lógica de los elementos.	顺序 (shùn xù)
 
-Hablar / Decir.	说 (shuō)
+De paso / aprovechando la ocasión. \n Matiz: Hacer algo adicional mientras se realiza otra actividad.	顺便 (shùn biàn) \n 你去超市的时候，顺便买点面包吧。- Cuando vayas al supermercado, compra un poco de pan de paso.
 
-Explicar / Instrucciones.	说明 (shuō míng)
+Hablar / Decir. \n Caracter simple	说 (shuō)
+
+Demostrar, ilustrar o instruir (Formal) \n Es el término más formal y objetivo. Se utiliza para demostrar un punto con evidencia (como en un debate), ilustrar cómo funciona algo técnico o dar instrucciones precisas por escrito.	说明 (shuō míng)
+
+Manual de instrucciones. \n Matiz: Documento que explica cómo utilizar un producto o realizar algo.	说明书 (shuō míng shū)
 
 Conductor / Chofer.	司机 (sī jī)
 
 Morir / Muerto.	死 (sǐ)
 
 Cuatro.	四 (sì)
-
-Pino (árbol).	松树 (sōng shù)
 
 Significa "ir a dejar", "entregar", "despedir" o "regalar". Es el movimiento opuesto a	接, ya que implica acompañar a una persona o llevar un objeto a su destino final para dejarlo allí (tú te regresas sin él), o entregarle algo a alguien de forma definitiva como un obsequio.	送 (sòng) \n 送孩子去学校 (sòng háizi qù xuéxiào - ir a dejar a los niños a la escuela)
 
@@ -2980,7 +2978,7 @@ Nevar.	下雪 (xià xuě)
 
 La semana que viene.	下周 (xià zhōu)
 
-Estación de verano. (2).	夏季 /	夏天 (xià jì / xià tiān)
+Estación de verano. (2).	夏季 / 夏天 (xià jì / xià tiān)
 
 Primero / Antes / (Prefijo de respeto o antigüedad).	先 (xiān)
 
@@ -4116,7 +4114,7 @@ Masculino / hombre. \n Matiz: Relacionado con el sexo masculino.	男性 (nán x�
 
 Poder o no / ser posible o no. \n Matiz: Forma de preguntar si algo es posible o permitido.	能否 (néng fǒu)
 
-Sí. \n Matiz: Interjección que expresa aceptación, comprensión o respuesta afirmativa, según el tono.	嗯 (èn / ń)
+Interjección. uh-huh, hmm.	嗯 (ǹg)
 
 Edad. \n Matiz: Número de años que ha vivido una persona.	年龄 (nián líng)
 
@@ -4186,11 +4184,7 @@ Taquillero / vendedor de entradas. \n Matiz: Persona que vende o comprueba bille
 
 Estar familiarizado con. \n Matiz: Conocer bien a una persona, lugar, situación o tema por experiencia.	熟悉 (shú xī)
 
-De paso / aprovechando la ocasión. \n Matiz: Hacer algo adicional mientras se realiza otra actividad.	顺便 (shùn biàn)
-
 Forma de decir / manera de expresarlo. \n Matiz: Se refiere a una manera particular de expresar una idea o interpretar algo.	说法 (shuō fǎ)
-
-Manual de instrucciones. \n Matiz: Documento que explica cómo utilizar un producto o realizar algo.	说明书 (shuō míng shū)
 
 A medida que / siguiendo. \n Matiz: Indica que algo cambia o sucede conforme cambia otra situación.	随着 (suí zhe)
 
