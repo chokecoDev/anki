@@ -516,8 +516,6 @@ A gran escala. \n Matiz: Algo masivo o muy extendido.	大规模 (dà guī mó)
 
 El mar. \n Matiz: Enfatiza la inmensidad del océano.	大海 (dà hǎi)
 
-Hermana mayor. \n Matiz: También forma respetuosa de llamar a una mujer algo mayor que uno.	大姐 (dà jiě)
-
 Gran cantidad. \n Matiz: Volumen masivo de algo.	大量 (dà liàng)
 
 Edificio. \n Matiz: Construcción de varios pisos.	大楼 (dà lóu)
@@ -1500,9 +1498,7 @@ Presentar / Introducir. \n Matiz: Dar a conocer a una persona o explicar un prod
 
 Prestar / Pedir prestado. \n Matiz: El verbo funciona en ambas direcciones según el contexto.	借 (jiè)
 
-Hermana mayor. \n Matiz: Raíz para la hermana de más edad.	姐 (jiě)
-
-Hermana mayor.	姐姐 (jiě jiě)
+Hermana mayor.	姐姐 (jiě jie)
 
 Hermanas. \n Matiz: Término colectivo para referirse a las hermanas de una familia.	姐妹 (jiě mèi)
 
