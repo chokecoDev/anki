@@ -366,15 +366,13 @@ Té. \n Matiz: La bebida en general.	茶 (chá)
 
 Hojas de té. \n Matiz: Se refiere específicamente a la materia seca antes de infusionar.	茶叶 (chá yè)
 
-Malo / Faltar. \n Matiz: Puede significar que algo es de mala calidad o que falta tiempo/cantidad para completar algo.	差 (chà)
-
 Malo / Faltar. \n Matiz: Puede significar que algo es de mala calidad o que falta tiempo/cantidad para completar algo.	差不多 (chà bu duō)
 
 Producir / Surgir. \n Matiz: Suele referirse a la aparición de cosas abstractas como una idea, un efecto o un sentimiento.	产生 (chǎn shēng)
 
-adv. Frecuentemente. \n Matiz: Indica una alta frecuencia de una acción en la vida cotidiana.	常常 (cháng cháng)
+Frecuentemente / A menudo. \n 1. Indica de manera sencilla que una acción ocurre repetidamente en el tiempo. Es muy común y natural en el lenguaje hablado cotidiano. \n 2. Igual que el punto 1, pero también puede usarse como adjetivo (rutinario/regular) \n 3. Significa que, basado en tu experiencia, bajo cierta condición suele ocurrir un patrón específico. Equivale a decir "por lo general suele suceder que...".	常常 (cháng cháng), 经常 (jīng cháng), 往往 (wǎng wǎng) \n 1. 我常常去图书馆。- A menudo voy a la biblioteca. \n 2. 他经常迟到。- Él llega tarde frecuentemente / por rutina. \n 3. 只要下雨，我往往会在家看书。- Siempre que llueve (condición), suelo leer en casa (patrón comprobado).
 
-Común / Ordinario. \n Matiz: Algo que se ve con frecuencia en el día a día.	常见 (cháng jiàn)
+Común / Ordinario. \n Matiz: Algo que se ve con frecuencia en el día a día.	常见 (cháng jiàn) \n 这是一个 常见的 错误。 - Este es un error común.
 
 De uso frecuente. \n Matiz: Se aplica a herramientas, palabras o métodos que se usan habitualmente.	常用 (cháng yòng)
 
@@ -421,8 +419,6 @@ Sorprenderse, estar asombrado. \n Matiz: Reacción de asombro repentino (lit. "c
 Llegar tarde. \n Matiz: No cumplir con el horario establecido.	迟到 (chí dào)
 
 Regla / Pie (medida). \n Matiz: Herramienta de medición o unidad de longitud tradicional china.	尺 (chǐ)
-
-Tamaño / Medidas. \n Matiz: Las dimensiones exactas de un objeto (largo, ancho, alto).	尺寸 (chǐ cùn)
 
 Sorteo / Lotería. \n Matiz: Acción de sacar un premio al azar.	抽奖 (chōu jiǎng)
 
@@ -572,7 +568,7 @@ Voz alta. \n Matiz: Hablar con mucho volumen.	大声 (dà shēng)
 
 s. Embajada	大使馆 (dà shǐ guǎn)
 
-Tamaño. \n Matiz: Concepto abstracto de dimensión (lit. "grande-pequeño").	大小 (dà xiǎo)
+Tamaño. \n Matiz: Concepto abstracto de dimensión (lit. "grande-pequeño").	大小 (dà xiǎo) \n 这件衣服的大小正合适。- El tamaño/talla de esta ropa es justo el adecuado.
 
 A gran escala. \n Matiz: Algo masivo o muy extendido.	大规模 (dà guī mó)
 
@@ -1725,8 +1721,6 @@ Progreso / Avance. \n Matiz: El desarrollo o estado actual de un proyecto o asun
 Prohibir. \n Matiz: Vetar por ley o norma una acción o el acceso a un sitio.	禁止 (jìn zhǐ)
 
 Ópera de Pekín.	京剧 (jīng jù)
-
-Frecuentemente / A menudo. \n Matiz: Acción que se repite con regularidad.	经常 (jīng cháng)
 
 Pasar por / A través de. \n Matiz: Trayecto físico o el transcurso de un suceso.	经过 (jīng guò)
 
@@ -3210,8 +3204,6 @@ Dirección web / URL.	网址 (wǎng zhǐ)
 
 Hacia / Ir a. \n Matiz: Se centra en el movimiento físico y el destino. Siempre va de la mano de un verbo de movimiento (como ir, caminar, volar, conducir) y te indica que te estás desplazando rumbo a un lugar específico.	往 (wǎng)
 
-A menudo / Frecuentemente. \n Matiz: Basado en patrones o hábitos del pasado.	往往 (wǎng wǎng)
-
 Olvidar. (Raíz).	忘 (wàng)
 
 Olvidar / Olvidarse de. \n Matiz: Verbo estándar para la pérdida de memoria de algo.	忘记 (wàng jì)
@@ -3500,8 +3492,6 @@ Semestre / Trimestre.	学期 (xué qī)
 
 s. Horas lectivas.	学时 (xué shí) \n 这个课程有三十个学时。
 
-Conocimiento / Saber. \n Matiz: Sabiduría adquirida a través del estudio profundo.	学问 (xué wèn)
-
 Estudiar / Aprender.	学习 (xué xí)
 
 Escuela.	学校 (xué xiào)
@@ -3514,9 +3504,7 @@ Sangre. (Formal: xuè; Coloquial: xiě).	血 (xuè)
 
 Rápido / Veloz / Prontamente. (Más formal que	快).	迅速 (xùn sù)
 
-Presionar / Comprimir / Sujetar.	压 (yā)
-
-Presión / Estrés. \n Matiz: Carga física o tensión psicológica.	压力 (yā lì)
+Presión / Estrés. \n Matiz: Carga física o tensión psicológica.	压力 (yā lì) \n 我最近压力很大。- Últimamente estoy muy estresado. (Literalmente: Últimamente mi estrés es muy grande).
 
 Diente / Muela.	牙 (yá)
 
