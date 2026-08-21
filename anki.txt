@@ -291,7 +291,6 @@ No importar. \n Matiz: Indiferencia total o despreocupación hacia algo.	不在�
 
 Paso. \n Matiz: Unidad de movimiento al caminar o etapa de un plan.	步 (bù)
 
-Caminar. \n Matiz: Ir a pie (uso más formal que	走路).	步行 (bù xíng)
 
 Departamento / Parte. \n Matiz: Clasificador para películas o sección de una entidad.	部 (bù)
 
@@ -603,7 +602,6 @@ Sobre, acerca de, respecto a. \n Esta palabra NO es para números. Se usa para i
 
 Más o menos, alrededor de, aproximadamente. \n Se coloca después de la cantidad. Es la forma más natural y usada en el lenguaje hablado.	左右 (zuǒ yòu)
 
-#2. unidad (en libros o cursos). \n Estructura:	第 + número +  **. \n \n Bloque de viviendas, entrada numerada.	单元 (dān yuán)
 
 Este. \n Punto cardinal.	东 (dōng)
 
@@ -634,7 +632,6 @@ Llegar / Hasta. \n Matiz: Indica el término de un movimiento o un límite tempo
 
 Por todas partes. \n Matiz: En cualquier lugar, sin excepción.	到处 (dào chù)
 
-Arribar. \n Matiz: Llegar a un destino físico (más formal que	到).	到达 (dào dá)
 
 “exactamente”, “al final”, “de verdad” \n Matiz: Se usa cuando quieres insistir o mostrar impaciencia/curiosidad. \n Para expresar un resultado final (similar a “al final / después de todo”)	到底 (dào dǐ) \n	你到底要什么？
 
@@ -772,7 +769,6 @@ Muchas veces, en repetidas ocasiones. \n Es la forma más objetiva y neutral. Se
 
 
 
-Defecto / Punto débil. \n Matiz: Se refiere a las carencias o debilidades, opuesto a	长处.	短处 (duǎn chù)
 
 Pantalones cortos. \n Matiz: Prenda de vestir que llega por encima de la rodilla.	短裤 (duǎn kù)
 
@@ -1050,7 +1046,6 @@ Es una expresión muy común en el habla cotidiana que significa "todo tipo de" 
 
 Dar / Para / A. \n Matiz: Verbo de entrega o preposición que indica beneficio.	给 (gěi)
 
-Fundamental / En absoluto. \n Matiz: La base de algo o negación total (con	不/没).	根本 (gēn běn)
 
 Con / Seguir. \n Matiz: Preposición de compañía o acción de ir tras alguien.	跟 (gēn)
 
@@ -1387,7 +1382,6 @@ Varios / Cuántos. \n Matiz: Para preguntar cantidades pequeñas (menos de 10) o
 
 Casi. \n Matiz: Por muy poco no sucede algo.	几乎 (jī hū)
 
-Computadora. \n Matiz: Término formal para ordenador (más técnico que	电脑).	计算机 (jì suàn jī)
 
 Recordar. \n Matiz: Tener algo presente en la memoria.	记得 (jì de)
 
@@ -1540,7 +1534,6 @@ Llamar / Gritar. \n Matiz: Nombrar a alguien, producir un sonido o pedir/ordenar
 
 Ser llamado. \n Matiz: Se utiliza para dar el nombre oficial o la definición de algo.	叫作 (jiào zuò)
 
-Más / Bastante. \n Matiz: Adverbio de grado que implica una comparación implícita (corto de	比较).	较 (jiào)
 
 Enseñar. \n Matiz: Acción de transmitir conocimientos, doctrinas o habilidades.	教 (jiào)
 
@@ -1762,7 +1755,6 @@ Gramo. \n Matiz: Unidad de peso.	克 (kè)
 
 Cuarto de hora / Tallar. \n Matiz: Periodo de 15 minutos o la acción de grabar en una superficie.	刻 (kè)
 
-Objetivo. \n Matiz: Basado en hechos y no en sentimientos (opuesto a	主观).	客观 (kè guān)
 
 Invitado / Huésped. \n Matiz: Persona que visita una casa o un establecimiento.	客人 (kè rén)
 
@@ -3318,7 +3310,6 @@ Nieve.	雪 (xuě)
 
 Sangre. (Formal: xuè; Coloquial: xiě).	血 (xuè)
 
-Rápido / Veloz / Prontamente. (Más formal que	快).	迅速 (xùn sù)
 
 Presión / Estrés. \n Matiz: Carga física o tensión psicológica.	压力 (yā lì) \n 我最近压力很大。- Últimamente estoy muy estresado. (Literalmente: Últimamente mi estrés es muy grande).
 
@@ -3567,7 +3558,6 @@ Lenguaje / Idioma. \n Matiz: Sistema de comunicación verbal de una comunidad. 	
 
 Jade. \n Matiz: Piedra preciosa muy valorada en la cultura china. 	玉 (yù)
 
-Es un término más formal que significa "reservar con antelación" (el carácter	预 aporta el matiz de "previo" o "por adelantado"). Se utiliza exclusivamente para asegurar espacios, cupos o servicios con tiempo de sobra antes de que los vayas a usar, por lo que es muy común verlo por escrito en contratos, aplicaciones o sitios web de turismo y negocios. (No se usa para pedir cosas de consumo rápido). 	预订 (yù dìng) \n 预订酒店 (yùdìng jiǔdiàn - reservar un hotel)
 
 Preparar la lección. \n Matiz: Estudiar el contenido antes de que el profesor lo explique. 	预习 (yù xí)
 
@@ -4143,7 +4133,6 @@ Inscribirse para un examen / Postular (a una universidad o puesto mediante exame
 
 Lo siento / Disculparse / Sentir pena o arrepentimiento. \n Matiz: Más formal y expresivo que 对不起; demuestra mucha cortesía.	抱歉 (bào qiàn) \n 非常 抱歉，我来晚了。- Lo siento muchísimo, he llegado tarde.
 
-v. Cargar a la espalda / Llevar en la espalda	背 (bēi) \n 他背着一个很大书包。- Él lleva (cargada en la espalda) una mochila muy grande.
 
 Mochila \n Es el término general para cualquier tipo de mochila. Se usa para mochilas de senderismo, mochilas de viaje, o mochilas casuales para salir a pasear. No está relacionada con el estudio.	背包 (bēi bāo)
 
