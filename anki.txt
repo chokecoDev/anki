@@ -834,7 +834,7 @@ Dejar / Soltar. \n Matiz: Poner algo en el suelo o abandonar una preocupación.	
 
 Tranquilizarse. \n Matiz: Dejar de estar preocupado (lit. "soltar el corazón").	放心 (fàng xīn)
 
-Salir de clase. \n Matiz: Fin de la jornada escolar o de una lección.	放学 (fàng xué)
+Salir de clase. \n Matiz: Fin de la jornada escolar o de una lección.	放学 (fàng xué) \n 我们下午五点放学。- Nosotros salimos de clases a las cinco de la tarde.
 
 Volar. \n Matiz: Desplazarse por el aire (aves o máquinas).	飞 (fēi)
 
@@ -1072,7 +1072,7 @@ Cerrar (físicamente). \n Matiz: Acción común de cerrar una puerta, ventana o 
 
 Relación / Conexiones. \n Matiz: Vínculo entre personas o cosas; en China implica "influencia".	关系 (guān xì)
 
-Seguir /关注. \n Matiz: Prestar atención activa a un tema o persona (como en redes sociales).	关注 (guān zhù)
+Estar atento a, seguir (redes sociales), prestar constante atención/interés. \n Matiz: Se centra en el interés constante, la preocupación o el seguimiento de una noticia, un tema, una persona o una causa a lo largo del tiempo.	关注 (guān zhù)
 
 Ver / Mirar. \n Matiz: Presenciar un espectáculo, película, partido o evento visual.	观看 (guān kàn)
 
@@ -1346,7 +1346,7 @@ Acelerar. \n Matiz: Aumentar la velocidad de un proceso, movimiento o ejecución
 
 Reforzar / Fortalecer. \n Matiz: Hacer que algo sea más sólido, intenso o potente.	加强 (jiā qiáng)
 
-Unirse / Ingresar. \n Matiz: Entrar a formar parte de un grupo, organización o añadir un ingrediente.	加入 (jiā rù)
+Unirse a / Ingresar en. \n Matiz: Entrar a formar parte de un grupo, organización o añadir un ingrediente.	加入 (jiā rù) \n 做这个菜需要加入一点儿盐。- Para hacer este plato hay que añadir (agregar) un poco de sal.
 
 ¡Ánimo! / Repostar. \n Matiz: Dar aliento a alguien o poner combustible al vehículo.	加油 (jiā yóu)
 
@@ -1567,8 +1567,6 @@ Celebrar / Tener lugar. \n Matiz: Acción formal de realizar una ceremonia o reu
 Oración / Frase. \n Matiz: Unidad gramatical con sentido completo.	句子 (jù zi)
 
 Distancia. \n Matiz: Espacio o intervalo de tiempo entre dos puntos.	距离 (jù lí)
-
-Reunirse / Juntarse. \n Matiz: Acción de encontrarse varias personas en un punto.	聚 (jù)
 
 Reunión / Fiesta social. \n Matiz: Encuentro informal de amigos o familiares para divertirse.	聚会 (jù huì)
 
@@ -2003,8 +2001,6 @@ Niño / Chico.	男孩儿 (nán hái er)
 Hombres y mujeres. \n Matiz: Término colectivo para referirse a ambos sexos.	男女 (nán nǚ)
 
 Novio (relación).	男朋友 (nán péng yǒu)
-
-Hombre (adulto).	男人 (nán rén)
 
 Chico / Joven / Estudiante masculino. \n Matiz: Joven en edad escolar, de preparatoria o universitaria.	男生 (nán shēng) \n 我们班有很多男生。 - En nuestra clase hay muchos chicos (alumnos).
 
@@ -2592,7 +2588,7 @@ En la mano / A mano. \n Matiz: Tener algo físicamente en posesión en ese momen
 
 Capital (de un país).	首都 (shǒu dū)
 
-En primer lugar / Primero que nada.	首先 (shǒu xiān)
+En primer lugar / Primero que nada.	首先 (shǒu xiān) \n 首先 se coloca al principio de una oración o cláusula para presentar el primer punto de una serie de argumentos o pasos. \n 首先，我要感谢大家。- En primer lugar, quiero agradecer a todos.
 
 Al principio.	首先的时候 (shǒu xiān)
 
@@ -3492,7 +3488,7 @@ De esta manera / Así. \n Matiz: Indica el modo en que se hace o es algo. 	这�
 
 Marcador de aspecto. \n Matiz: Indica que una acción o estado continúa. 	着 (zhe)
 
-#36. Jugar, divertirse, pasar el rato, entretenerse o salir con amigos. \n \n Si eres un niño: Significa jugar con juguetes o con amigos. \n Si eres adulto: Significa salir a pasear, viajar por placer o simplemente relajarte.	玩儿 (wánr)
+#36. Jugar, divertirse, pasar el rato, entretenerse o salir con amigos. \n Si eres un niño: Significa jugar con juguetes o con amigos. \n Si eres adulto: Significa salir a pasear, viajar por placer o simplemente relajarte.	玩儿 (wánr)
 
 s. tenis	网球 (wǎng qiú)
 
@@ -3700,7 +3696,7 @@ Vivir. \n Matiz: Residir.	住 (zhù)
 
 Hospitalizarse. \n Matiz: Ingresar al hospital.	住院 (zhù yuàn)
 
-Prestar atención. \n Matiz: Fijarse en algo.	注意 (zhù yì)
+Tener cuidado, prestar atención a, fijarse en, nota/advertencia. \n Matiz: Se centra en la prudencia, la seguridad o el detalle puntual. Se usa para advertir sobre un peligro, prevenir un error o cuidar la salud.	注意 (zhù yì) \n 请注意！ - ¡Por favor, presten atención / atención!
 
 Desear. \n Matiz: Expresar buenos deseos.	祝 (zhù)
 
