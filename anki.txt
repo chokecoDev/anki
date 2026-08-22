@@ -1668,7 +1668,7 @@ Aire / Atmósfera. \n Matiz: El gas que respiramos o el "clima" social de un lug
 
 Temer que / Me temo que. \n Matiz: Expresa preocupación o una suposición negativa con cortesía.	恐怕 (kǒng pà)
 
-Lengua hablada / Oral. \n Matiz: Se refiere a la comunicación verbal, no escrita.	口语 (kǒu yǔ)
+Lenguaje oral. \n Matiz: Se refiere a la comunicación verbal, no escrita.	口语 (kǒu yǔ)
 
 Llorar. \n Matiz: Acción de derramar lágrimas por tristeza o dolor.	哭 (kū)
 
@@ -3388,11 +3388,9 @@ Estar dispuesto / Querer. \n Matiz: Aceptación voluntaria de hacer algo. 	愿�
 
 Cita / Salir con alguien. \n Matiz: Compromiso para verse con alguien, a menudo romántico. 	约会 (yuē huì)
 
-Mes / Luna. \n Matiz: Unidad de tiempo o el astro nocturno. 	月 (yuè)
+(2) Mes \n Forma simple y compuesto. \n Matiz: Unidad de tiempo. 	月 (yuè) / 月份 (yuè fèn)
 
 Fin de mes. \n Matiz: Los últimos días de un mes calendario. 	月底 (yuè dǐ)
-
-Mes (del año). \n Matiz: Referencia específica a uno de los doce meses. 	月份 (yuè fèn)
 
 Luna. \n Matiz: El satélite natural de la Tierra visible de noche. 	月亮 (yuè liàng)
 
