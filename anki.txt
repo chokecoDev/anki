@@ -3796,7 +3796,7 @@ v. rechazar	拒绝 (jù jué)
 
 v. arrepentirse	后悔 (hòu huǐ)
 
-conj./ grammar. aún si	就算...,	也... (jiù suàn ..., yě....)
+conj./ gr. "aunque...", "incluso si..." o "por más que...". \n Sirve para hacer una suposición concedida: planteas una condición extrema o un escenario hipotético en la primera parte, pero enfatizas que el resultado (en la segunda parte) no va a cambiar.	就算..., 也... (jiù suàn ..., yě....) \n Estructura: 就算 + [Condición hipotética / Caso extremo] + ， + Sujeto + 也 + [Resultado que no cambia] \n 就算下雨，我也要去。- Aunque llueva (incluso si llueve), yo igual voy a ir.
 
 v. deshacerse de malos hábitos	改掉 (gǎi diào)
 
