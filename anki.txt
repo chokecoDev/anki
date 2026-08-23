@@ -448,7 +448,7 @@ Vez. \n Matiz: Clasificador de frecuencia o posición en una serie.	次 (cì)
 
 Desde entonces. \n Matiz: A partir de ese momento específico en el tiempo.	从此 (cóng cǐ)
 
-Siempre / Nunca (con negación). \n Matiz: Indica una conducta o estado que se mantiene desde el pasado hasta hoy.	从来 (cóng lái)
+Siempre / Nunca (con negación). \n Matiz: Indica una conducta o estado que se mantiene desde el pasado hasta hoy.	从来 (cóng lái) \n 他从来都很努力。- Él siempre ha sido muy esforzado. \n 我从来不喝酒。- Yo nunca bebo alcohol (por hábito/principio).
 
 Desde pequeño. \n Matiz: Referencia a algo que ocurre desde la infancia.	从小 (cóng xiǎo)
 
