@@ -416,7 +416,7 @@ s. supermercado	超市 (chāo shì)
 
 #131. salir de casa / salir a la calle. \n Esta expresión se usa específicamente cuando alguien cruza el umbral de su casa o de un edificio para comenzar una actividad en el exterior.	出门 (chū mén)
 
-#132. salir fuera / irse afuera. \n Esta es una estructura de verbo + complemento direccional. Se usa para indicar el movimiento físico desde un interior hacia un exterior.	出去 (chū qù)
+(2) salir fuera / irse afuera. \n Se usa para indicar el movimiento físico desde un interior hacia un exterior. \n Coloquial, formal	出去 (chū qù) / 外出 (wài chū) \n 经理外出开会了。- El gerente salió a una reunión.
 
 s. Barco	船 (chuán)
 
@@ -1776,9 +1776,9 @@ s./adj. Sincero, íntegro, que dice la verdad. \ n Es la honestidad en el sentid
 
 #103. (2) Estas son las formas completas de "dentro". Ambas son intercambiables en el 95% de los casos. \n "El lado de adentro".	里边 /	里面 (lǐ biān / lǐ miàn)
 
-#105. Es el opuesto de	外 (wài - fuera) en contextos formales, escritos o técnicos. \n No se usa solo en el habla diaria para decir "estoy adentro". Se usa en compuestos o anuncios oficiales.	内 (nèi)
+Es el opuesto de 外 (wài - fuera) en contextos formales, escritos o técnicos. \n No se usa solo en el habla diaria para decir "estoy adentro". Se usa en compuestos o anuncios oficiales.	内 (nèi) \n 请在三天内联系我。- Por favor, contáctame dentro de tres días.
 
-"Dos" o "un par de" (usado casi exclusivamente para personas). \n Es una contracción informal de	两个 (liǎng gè). Es muy común en el norte de China y en el lenguaje hablado relajado.	俩 (liǎ) \n 我俩是朋友。
+"Dos" o "un par de" (usado casi exclusivamente para personas). \n Es una contracción informal de 两个 (liǎng gè). Es muy común en el norte de China y en el lenguaje hablado relajado.	俩 (liǎ) \n 我俩是朋友。
 
 "Ambos lados", "las dos partes". \n Se refiere principalmente al espacio físico o a los extremos de algo. Se usa para hablar de los lados de una calle, un río, una mesa, o metafóricamente cuando alguien está "en medio" de dos opiniones.	两边 (liǎng biān)
 
@@ -2802,19 +2802,13 @@ Quitarse (ropa) / Mudar (piel). \n Matiz: Despojarse de una capa externa.	脱 (t
 
 Calcetines.	袜子 (wà zi)
 
-Otras partes del país / Fuera de la ciudad. \n Matiz: Cualquier lugar que no es el local.	外地 (wài dì)
+Otros lugares fuera del país / Fuera de la ciudad. \n Matiz: Cualquier lugar que no es el local.	外地 (wài dì)
 
 País extranjero.	外国 (wài guó)
-
-Divisas / Cambio extranjero.	外汇 (wài huì)
-
-Diplomático.	外交官 (wài jiāo guān)
 
 Comida para llevar / Delivery.	外卖 (wài mài)
 
 Abrigo / Chaqueta / Capa exterior.	外套 (wài tào)
-
-Lengua extranjera (escrita).	外文 (wài wén)
 
 Idioma extranjero (hablado).	外语 (wài yǔ)
 
@@ -4193,8 +4187,6 @@ Cubo / barril / recipiente. \n Matiz: Recipiente, generalmente cilíndrico, util
 Dolor de cabeza. \n Matiz: Dolor localizado en la cabeza.	头痛 (tóu tòng)
 
 Lanzar / introducir / sacar al mercado. \n Matiz: Según el contexto puede significar proponer algo, lanzar un producto o introducir una nueva medida.	推出 (tuī chū)
-
-Salir / salir de casa. \n Matiz: Abandonar el lugar donde uno se encuentra, especialmente para realizar una actividad fuera.	外出 (wài chū)
 
 Comprar por Internet. \n Matiz: Realizar compras mediante Internet o plataformas digitales.	网购 (wǎng gòu)
 
