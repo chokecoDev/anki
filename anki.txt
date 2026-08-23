@@ -3074,11 +3074,7 @@ Confianza (en uno mismo) / Seguridad. \n Es un sustantivo.	信心 (xìn xīn) \n
 
 Tarjeta de crédito.	信用卡 (xìn yòng kǎ)
 
-Semana.	星期 (xīng qī)
-
-Domingo.	星期日 (xīng qī rì)
-
-Domingo (más usado en el habla cotidiana).	星期天 (xīng qī tiān)
+Domingo.	星期日 (xīng qī rì) / 星期天 (xīng qī tiān)
 
 Equipaje / Maletas.	行李 (xíng lǐ)
 
@@ -3678,7 +3674,7 @@ adv. Hacer algo otra vez desde cero / empezar de nuevo. \n Matiz: Implica reinic
 
 Importante. \n Matiz: Significativo.	重要 (zhòng yào)
 
-Semana. \n Matiz: Periodo de 7 días.	周 (zhōu)
+(2) Semana. \n Matiz: Periodo de 7 días.	周 (zhōu) / 星期 (xīng qī)
 
 Fin de semana. \n Matiz: Sábado y domingo.	周末 (zhōu mò)
 
@@ -4180,7 +4176,7 @@ Levantar. \n Matiz: Levantar físicamente algo, especialmente algo que está aba
 
 Levantar la cabeza. \n Matiz: Mover la cabeza hacia arriba para mirar algo.	抬头 (tái tóu)
 
-Tocar un instrumento / lanzar. \n Matiz: Con instrumentos de cuerda significa "tocar"; también puede tener otros significados según el contexto.	弹 (tán)
+Tocar un instrumento / lanzar. \n Matiz: Con instrumentos de cuerda significa "tocar"; también puede tener otros significados según el contexto.	弹 (tán) \n 弹钢琴 (tán gāngqín) - Tocar el piano.
 
 Clasificador. \n Se usa exclusivamente para contar la cantidad de viajes, vueltas o trayectos que haces (ir a un lugar y volver). \n Como implica movimiento físico, casi siempre va acompañando a estos verbos: 去 (qù): Ir, 来 (lái): Venir, 跑 (pǎo): Correr (En este contexto significa "darse una vuelta rápida" o "hacer el esfuerzo físico de ir"), 走 (zǒu): Caminar / Ir.	趟 (tàng) \n Estructura básica: Verbo de movimiento + Número + 趟 + (Lugar). \n 我要去 一趟 超市。- Voy a dar una vuelta por el supermercado.
 
