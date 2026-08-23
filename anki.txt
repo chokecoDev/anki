@@ -188,7 +188,7 @@ Tonto. \n Matiz: Describe lentitud mental o torpeza física.	笨 (bèn)
 
 Partícula esencial para establecer comparaciones directas	比 (bǐ)
 
-Comparar. \n Matiz: Además de verbo, funciona como adverbio ("relativamente").	比较 (bǐ jiào)
+1. Como Adverbio ("Bastante" / "Relativamente") — Cuando se coloca antes de un adjetivo o verbo psicológico, modera la intensidad. Equivale a decir "es más bien...", "bastante..." o "relativamente...". \n 2. Como Verbo ("Comparar") - Se usa para la acción directa de poner dos cosas frente a frente para evaluar sus semejanzas o diferencias.	比较 (bǐ jiào) \n 1. 今天的考试比较难。 - El examen de hoy está bastante difícil. \n 2. 把这两个手机比较一下。 - Compara un momento estos dos teléfonos.
 
 Notas. \n Matiz: Apuntes tomados para recordar información.	笔记 (bǐ jì)
 
@@ -604,7 +604,7 @@ Camino / Decir / Clasificador. \n Matiz: Concepto filosófico, ruta física o cl
 
 Camino / Carretera. \n Matiz: Ruta física, a menudo con un sentido más formal o literario.	道路 (dào lù)
 
-Lugar. \n Matiz: Una ubicación específica para un evento o cita.	地点 (dì diǎn)
+Lugar. \n 1. Es un término general, informal y amplio. Se refiere a cualquier lugar, zona, región o sitio en el espacio. También se usa de forma abstracta para hablar de un "aspecto" o "punto" (ej. "un punto difícil"). \n 2. Literalmente es un "punto geográfico". Es un término específico, formal y preciso. Se refiere a la ubicación exacta o al punto de encuentro fijado para un evento o actividad.	地方 (dì fang) / 地点 (dì diǎn) \n 1. 这个地方很大。- Este lugar es muy grande. (Habla de un área o espacio en general). \n 2. 开会的地点在哪里？- ¿Cuál es la ubicación / punto de la reunión? (Pide el lugar específico donde se llevará a cabo la actividad). 
 
 Metro / Subterráneo. \n Matiz: Tren eléctrico de transporte masivo en ciudades.	地铁 (dì tiě)
 
@@ -784,7 +784,7 @@ Emitir / Lanzar. \n Matiz: Salida de un sonido, una señal o una invitación.	�
 
 Tener fiebre. \n Matiz: Aumento de la temperatura corporal por encima de lo normal.	发烧 (fā shāo)
 
-Suceder / Ocurrir. \n Matiz: Surgimiento de un evento o situación, a menudo inesperada.	发生 (fā shēng)
+Suceder / Ocurrir. \n Matiz: Se usa para eventos imprevistos, accidentes, cambios o problemas; casi siempre lleva 了.	发生 (fā shēng) \n Estructura: Sujeto / Lugar + 发生 +  Objeto \n 发生什么事了？- ¿Qué ocurrió? / ¿Qué pasó?
 
 Enviar. \n Matiz: Acción técnica de mandar un archivo, correo electrónico o paquete.	发送 (fā sòng)
 
@@ -2348,7 +2348,7 @@ Conocer / Reconocer. \n Matiz: Tener conocimiento de una persona o de caracteres
 
 Serio / Aplicado. \n Matiz: Realizar una tarea con gran cuidado, atención y responsabilidad.	认真 (rèn zhēn)
 
-Cualquier / Cualquiera. \n Matiz: Se usa para indicar que no hay excepciones en un grupo.	任何 (rèn hé)
+Cualquier / Cualquiera. \n Suele combinarse con 都 (dōu) o 也 (yě): Cuando quieres enfatizar "cualquiera [sin excepción]", se suele colocar 都 o 也 antes del verbo principal.	任何 (rèn hé) \n Estructura: 任何 (+ 的) + Sustantivo \n 任何人都可以参加。- Cualquier persona puede participar.
 
 Tarea / Misión. \n Matiz: Un trabajo o deber que se debe completar en un tiempo dado.	任务 (rèn wù)
 
@@ -2874,7 +2874,7 @@ Para / Con el fin de. \n Matiz: Introduce el propósito de una acción.	为了 (
 
 ¿Por qué?	为什么 (wèi shén me)
 
-Lugar / Posición / (Clasificador respetuoso para personas).	位 (wèi)
+Clasificador respetuoso para personas.	位 (wèi)
 
 Sabor / Gusto / Aroma.	味道 (wèi dào). \n	有人说，友谊就像酒一样，时间越长，味道越好。 
 
@@ -3112,7 +3112,7 @@ Reparar / Arreglar. \n Matiz: Arreglar algo que está roto o no funciona.	修理
 
 Necesitar / Requerir / Necesidad.	需要 (xū yào)
 
-Muchos / Gran cantidad de.	许多 (xǔ duō)
+(2) adj. mucho, muchos, un montón de. \n  Formal y coloquial.	许多 (xǔ duō) / 很多 (hěn duō) \n 公园里有许多人。- Hay muchas personas en el parque.
 
 Elegir / Seleccionar. \n Caracter simple	选 (xuǎn)
 
