@@ -3912,9 +3912,9 @@
 
 ##1957## Revisar / comprobar / consultar. \n Matiz: Mirar algo para obtener información o verificarlo.	查看 (chá kàn)
 
-##1958## Buscar / localizar. \n Matiz: Buscar información, objetos o datos hasta localizarlos.	查找 (chá zhǎo)
+##1958## Buscar/Consultar datos e información \n Enfoque: Se trata de una búsqueda metódica o sistemática de información, datos, registros, archivos, archivos digitales, códigos o palabras en un sistema o documento.	查找 (chá zhǎo) \n 在数据库里查找资料。- Buscar información en la base de datos.
 
-##1959## Casi / por poco. \n Matiz: Algo estuvo a punto de ocurrir pero finalmente no ocurrió.	差点儿 (chà diǎnr)
+##1959## Casi / por poco. \n Eventos negativos o imprevistos ("Por poco me pasa...") \n Matiz: Se usa casi exclusivamente antes de verbos para hablar de eventos (generalmente negativos, indeseados o peligrosos) que estuvieron a punto de pasar, pero NO pasaron.	差点儿 (chà diǎnr) \n 我差点儿摔倒。- Casi me caigo / Por poco me caigo $\rightarrow$ Al final NO me caí.
 
 ##1960## Velocidad del vehículo. \n Matiz: Velocidad a la que circula un vehículo.	车速 (chē sù)
 
@@ -3922,25 +3922,25 @@
 
 ##1962## Pasajero. \n Matiz: Persona que viaja en un vehículo y no lo conduce.	乘客 (chéng kè)
 
-##1963## Viajar en / tomar un medio de transporte. \n Matiz: Forma más formal que 坐 para indicar que se utiliza un transporte.	乘坐 (chéng zuò)
+##1963## Viajar en / tomar un medio de transporte; embarcarse en. \n Matiz: Forma más formal que 坐 para indicar que se utiliza un transporte.	乘坐 (chéng zuò) \n 请乘坐3号电梯。- Por favor, tome/aborde el ascensor número 3.
 
 ##1964## Viajar por trabajo. \n Matiz: Desplazarse temporalmente por motivos laborales.	出差 (chū chāi)
 
-##1965## Desplazarse / viajar. \n Matiz: Término general y relativamente formal para hablar de desplazamientos.	出行 (chū xíng)
+##1965## Desplazarse / viajar. \n Matiz: Término general y relativamente formal para hablar de desplazamientos.	出行 (chū xíng) \n 这家酒店附近有地铁，出行很方便。- Hay un metro cerca de este hotel, así que desplazarse / moverse es muy conveniente [fácil].
 
 ##1966## Cocina. \n Matiz: Lugar donde se prepara la comida.	厨房 (chú fáng)
 
 ##1967## Cocinero / chef. \n Matiz: Persona cuyo trabajo es preparar comida.	厨师 (chú shī)
 
-##1968## Esta vez / en esta ocasión. \n Matiz: Forma relativamente formal para referirse a la ocasión actual.	此次 (cǐ cì)
+##1968## Esta vez / en esta ocasión. \n Matiz: Forma relativamente formal para referirse a la ocasión actual. \n Más formal que 这次.	此次 (cǐ cì) \n 感谢您此次的帮助。- Le agradezco su ayuda en esta ocasión / esta vez.
 
-##1969## De ello / de entre eso. \n Matiz: Indica que algo se obtiene, descubre o realiza a partir de una situación o conjunto.	从中 (cóng zhōng)
+##1969## "De ahí", "A partir de esto" o "En medio de ello". \n Matiz: Funciona como un conector/adverbio que indica extraer una lección, beneficio, conclusión o experiencia de dentro de una situación o proceso previamente mencionado.	从中 (cóng zhōng) \n 我从中学到了很多东西。- Aprendí muchas cosas de ello / a partir de esta experiencia.
 
-##1970## Perder / dejar pasar. \n Matiz: No aprovechar o no llegar a tiempo para algo.	错过 (cuò guò)
+##1970## v. perder (una oportunidad, tren, etc.), dejar escapar, no aprovechar. \n Matiz: No aprovechar o no llegar a tiempo para algo.	错过 (cuò guò)
 
-##1971## Saludar. \n Matiz: Hacer saber a alguien que lo has visto o saludarlo; también puede significar avisar previamente.	打招呼 (dǎ zhāo hu)
+##1971## Saludar. \n Matiz: Hacer saber a alguien que lo has visto o saludarlo; también puede significar avisar previamente.	打招呼 (dǎ zhāo hu) \n 他主动跟我打招呼。- Él tomó la iniciativa de saludarme.
 
-##1972## Molestar / interrumpir. \n Matiz: Se usa frecuentemente de forma educada al interrumpir o molestar a alguien.	打扰 (dǎ rǎo)
+##1972## Molestar / interrumpir. \n Matiz: Se usa para disculparse educadamente cuando vas a interrumpir el tiempo, trabajo o tranquilidad de otra persona. Es la frase cortés clásica al entrar a una oficina, hacer una llamada o pedir ayuda.	打扰 (dǎ rǎo) \n 不好意思，打扰一下。- Disculpe, siento molestarlo / interrumpirlo un momento.
 
 ##1973## Impresora. \n Matiz: Dispositivo utilizado para imprimir documentos.	打印机 (dǎ yìn jī)
 
