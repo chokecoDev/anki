@@ -214,8 +214,6 @@
 
 ##114## Adverbio de Énfasis Negativo ("Para nada" / "Realmente no") \n Aunque a veces actúa como enlace formal, su uso estrella en el día a día es colocarse antes de un conector negativo (不 o 没) para desmentir una suposición o enfatizar que algo realmente no es así. 	并 (bìng) \n 这个考试并不难。- Este examen realmente no es difícil (desmintiendo si pensabas que lo era).
 
-##115## Se usa principalmente para conectar dos oraciones o cláusulas, agregando más información en la misma dirección (a menudo positiva con positiva, o negativa con negativa).	并且 (bìng qiě) \n 他工作很努力，并且很有经验。- Él trabaja muy duro y además tiene mucha experiencia.
-
 ##116## Enfermo / Enfermedad. \n Matiz: Estado de salud alterado.	病 (bìng)
 
 ##117## Paciente. \n Matiz: Persona que padece una enfermedad.	病人 (bìng rén)
@@ -411,8 +409,6 @@
 ##221## Palabras y expresiones. \n Matiz: Término general para referirse a vocablos y frases cortas.	词语 (cí yǔ)
 
 ##222## Este / Esto. \n Matiz: Versión formal y escrita de "这" (zhè).	此 (cǐ)
-
-##223## Además. \n Matiz: Conector formal para añadir información extra.	此外 (cǐ wài)
 
 ##224## Vez. \n Matiz: Clasificador de frecuencia o posición en una serie.	次 (cì)
 
@@ -730,8 +726,6 @@
 
 ##385## Hijo. \n Matiz: Descendiente directo de sexo varón.	儿子 (ér zi)
 
-##386## Además / Sino también. \n Matiz: Conector que añade información en la misma dirección (A	而且 B).	而且 (ér qiě)
-
 ##387## Sino que. \n Matiz: Se usa para corregir una idea (No es A, sino B:	不是A，而是B).	而是 (ér shì)
 
 ##388## Auriculares. \n Matiz: Aparato que se coloca en los oídos para escuchar sonido.	耳机 (ěr jī)
@@ -994,7 +988,7 @@
 
 ##520## hermano mayor	哥哥 (gē gē)
 
-##521## "Basado en...". Se usa para evidencias o datos (ej. basado en los logs del sistema).	根据 (gēn jù)
+##521## "Basado en...", "De acuerdo a ...". Se usa para evidencias o datos (ej. basado en los logs del sistema).	根据 (gēn jù)
 
 ##522## (JAP) s. perro	狗 (gǒu) \n 犬 (inu)
 
@@ -1013,8 +1007,6 @@
 ##529## A propósito. \n Matiz: Acción realizada con una intención deliberada y consciente.	故意 (gù yì)
 
 ##530## Cliente. \n Matiz: Persona que compra habitualmente en una tienda o negocio.	顾客 (gù kè)
-
-##531## Melón / Fruta de enredadera. \n Matiz: Nombre genérico para cucurbitáceas (sandía, melón, calabaza).	瓜 (guā)
 
 ##532## Colgar. \n Matiz: Suspender algo de un punto; también se usa para "colgar" el teléfono.	挂 (guà)
 
@@ -1122,7 +1114,7 @@
 
 ##585## Adecuado / Apropiado. \n Matiz: Que encaja perfectamente en una situación, talla o uso.	合适 (hé shì)
 
-##586## Y / Con. \n Matiz: Conjunción para unir sustantivos.	和 (hé)
+##586## (4) Y / Con. \n Matiz: Conjunción para unir sustantivos.	和 (hé) \n 而且 (ér qiě) \n 此外 (cǐ wài) \n 并且 (bìng qiě) \n 他工作很努力，并且很有经验。- Él trabaja muy duro y además tiene mucha experiencia. \n 这个考试需要准备很多材料。此外，还需要大量的练习。- Este examen requiere preparar muchos materiales. Además (asimismo), también necesita una gran cantidad de práctica.
 
 ##587## Río. \n Matiz: Corriente natural de agua que fluye continuamente.	河 (hé)
 
@@ -1766,7 +1758,7 @@
 
 ##908## Bajo cero. \n Matiz: Específicamente para indicar grados negativos de temperatura.	零下 (líng xià)
 
-##909## Además / Otro. \n Matiz: Referirse a algo distinto o adicional a lo ya mencionado.	另外 (lìng wài)
+##909## Además / Otro. \n Matiz: Referirse a algo distinto o adicional a lo ya mencionado.	另外 (lìng wài) \n Estructura: 另外 + Número + Clasificador o 另外 + (的) + Sustantivo. \n 我有两个 Docker 容器，一个在运行，另外一个停止了。- Tengo dos contenedores Docker, uno está en ejecución y el otro está detenido.
 
 ##910## Por otro lado. \n Matiz: Conector para presentar un punto de vista alternativo o complementario.	另一方面 (lìng yì fāng miàn)
 
@@ -2108,7 +2100,7 @@
 
 ##1080## Mitad del periodo / Mitad de semestre.	期中 (qī zhōng)
 
-##1081## En segundo lugar / Además. \n Matiz: El siguiente elemento en una enumeración.	其次 (qí cì)
+##1081## En segundo lugar ... \n Matiz: El siguiente elemento en una enumeración.	其次 (qí cì)
 
 ##1082## De hecho / En realidad. \n Matiz: Introduce la verdad frente a una suposición.	其实 (qí shí)
 
@@ -3270,9 +3262,7 @@
 
 ##1662## Alguien / Hay gente. \n Matiz: Referencia a personas no especificadas. 	有人 (yǒu rén)
 
-##1663## A veces. \n Matiz: Indica una frecuencia ocasional. 	有时 (yǒu shí)
-
-##1664## A veces. \n Matiz: Similar a yǒushí, usado comúnmente en el habla cotidiana. 	有时候 (yǒu shí hòu)
+##1664## A veces. 	有时候 (yǒu shí hòu)
 
 ##1665## Efectivo / Válido. \n Matiz: Que funciona correctamente o tiene vigencia legal. 	有效 (yǒu xiào)
 
@@ -3572,7 +3562,7 @@
 
 ##1813## Señalar / dedo. \n Matiz: Indicar algo.	指 (zhǐ)
 
-##1814## Al menos. \n Matiz: Cantidad mínima.	至少 (zhì shǎo)
+##1814## "al menos" o "por lo menos". \n Funciona como adverbio: Se coloca antes de números, cantidades, verbos o cláusulas para indicar un límite inferior o una cantidad mínima indispensable.	至少 (zhì shǎo) \n 你至少要学两年中文。- Tienes que estudiar chino al menos dos años.
 
 ##1815## Voluntario (deseo). \n Matiz: Intención propia.	志愿 (zhì yuàn)
 
@@ -4180,7 +4170,7 @@
 
 ##2121## Nuevamente / otra vez. \n Matiz: Indica que una acción ocurre una vez más.	再次 (zài cì)
 
-##2122## Hablando de eso / además / dejarlo para después. \n Matiz: Puede introducir otro asunto o indicar que algo se tratará más adelante.	再说 (zài shuō)
+##2122## "y además...", "para colmo..." o "por otra parte..." \n Matiz: Se utiliza exclusivamente cuando estás justificando una decisión, explicando un motivo o intentando convencer a alguien.	再说 (zài shuō) \n 我喜欢早上锻炼，因为很安静。再说，运动后我更容易专注学习中文。- Me gusta hacer ejercicio por la mañana porque es muy tranquilo. Y además (por otra parte), después de hacer deporte me es más fácil concentrarme para estudiar chino.
 
 ##2123## Temporalmente / por ahora. \n Matiz: Algo válido durante un período limitado y no necesariamente permanente.	暂时 (zàn shí)
 
