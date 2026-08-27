@@ -2074,8 +2074,6 @@
 
 ##1067## Ordinario / Habitualmente. \n Matiz: Lo que sucede normalmente, sin nada especial.	平常 (píng cháng)
 
-##1068## Estable / Suave. \n Matiz: Sin sacudidas ni grandes cambios (ej. un viaje o la economía).	平稳 (píng wěn)
-
 ##1069## Manzana.	苹果 (píng guǒ)
 
 ##1070## Botella / Clasificador. \n Matiz: Recipiente para líquidos.	瓶 (píng)
@@ -2817,8 +2815,6 @@
 ##1439## Escritura / Caracteres / Texto. \n Matiz: El sistema de signos escritos.	文字 (wén zì)
 
 ##1440## Oler / Escuchar (formal). \n Matiz: Actualmente su uso principal es olfatear.	闻 (wén)
-
-##1441## Estable / Firme.	稳 (wěn)
 
 ##1442## Preguntar.	问 (wèn)
 
