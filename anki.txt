@@ -276,7 +276,7 @@
 
 ##149## Participar. \n Matiz: Unirse a una reunión, evento o examen.	参加 (cān jiā)
 
-##150## La cancha deportiva / El patio de la escuela. \n Matiz: Se refiere a un lugar amplio destinado a la actividad física, deportes o educación física. Es el clásico "patio" de una escuela (con canchas o pista de atletismo), un estadio abierto o un campo de entrenamiento militar.	操场 (cāo chǎng) \n 学生们在 操场 上踢足球。- Los estudiantes están jugando fútbol en la cancha (patio de la escuela).
+##150## La cancha deportiva / El patio de la escuela. \n Matiz: Se refiere a un lugar amplio destinado a la actividad física, deportes o educación física. Es el clásico "patio" de una escuela (con canchas o pista de atletismo), un estadio abierto o un campo de entrenamiento militar.	操场 (cāo chǎng) \n 学生们在操场上踢足球。- Los estudiantes están jugando fútbol en la cancha (patio de la escuela).
 
 ##151## Césped / Pradera. \n Matiz: Terreno cubierto de hierba.	草地 (cǎo dì)
 
@@ -1304,7 +1304,7 @@
 
 ##680## Familiares. \n Matiz: Las personas que componen el núcleo familiar de alguien.	家人 (jiā rén)
 
-##681## Familia / Hogar. \n Matiz: Concepto social, institucional o jurídico de la unidad familiar.	家庭 (jiā tíng)
+##681## Familia / Hogar. \n Matiz: Es un término formal, sociológico y escrito. Se refiere a la familia como una institución o núcleo social (el entorno familiar). ¡Ojo! NUNCA se usa para referirse al edificio físico o a la casa de ladrillos.	家庭 (jiā tíng) \n 他来自一个幸福的家庭。- Él proviene de una familia (un entorno familiar) feliz.
 
 ##682## Pueblo natal / Patria chica. \n Matiz: El lugar de origen con una fuerte carga emocional.	家乡 (jiā xiāng)
 
@@ -1480,7 +1480,7 @@
 
 ##768## Experiencia. \n Matiz: Conocimiento o habilidad acumulada tras mucho tiempo de práctica.	经验 (jīng yàn)
 
-##769## Espléndido / Maravilloso. \n Matiz: Se usa para actuaciones, partidos o discursos brillantes.	精彩 (jīng cǎi)
+##769## Espléndido / Maravilloso. \n Matiz: Se usa para actuaciones, partidos o discursos brillantes.	精彩 (jīng cǎi) \n 昨天的那场足球比赛很精彩。- Ese partido de fútbol de ayer fue espectacular.
 
 ##770## Policía. \n Matiz: Agente encargado de mantener el orden y la ley.	警察 (jǐng chá)
 
@@ -2214,7 +2214,7 @@
 
 ##1138## Todo el año / Anual.	全年 (quán nián)
 
-##1139## Global / Todo el mundo.	全球 (quán qiú)
+##1139## s. el mundo entero; global.	全球 (quán qiú) \n 全球气候变化影响很大。- El cambio climático global tiene un gran impacto.
 
 ##1140## Todo el cuerpo.	全身 (quán shēn)
 
@@ -3661,6 +3661,9 @@
 ##1864## Alquilar. \n Matiz: Pagar por uso.	租 (zū)
 
 ##1865## Fútbol. \n Matiz: Deporte.	足球 (zú qiú)
+
+##1865## fr. Jugar fútbol.	踢足球 (tī zú qiú)
+
 
 ##1866## Grupo. \n Matiz: Conjunto de personas.	组 (zǔ)
 
