@@ -866,13 +866,13 @@
 
 ##459## Sentir / Percibir. \n Matiz: Experimentar una sensación física o una emoción específica.	感到 (gǎn dào)
 
-##460## Conmover / Emocionar. \n Matiz: Sentir una emoción profunda provocada por algo o alguien.	感动 (gǎn dòng)
+##460## v. Conmover; ser conmovido. \n Matiz: Describe la reacción emocional de quien experimenta el sentimiento. Significa que tu corazón se ha "movido" o tocado por un suceso.	感动 (gǎn dòng) \n 我真的很感动。- Realmente estoy muy conmovido. \n 他的话感动了我。- Sus palabras me conmovieron.
 
 ##461## Sentir / Sensación. \n Matiz: Percepción general a través de los sentidos o la intuición.	感觉 (gǎn jué)
 
-##462## Sentimiento / Afecto. \n Matiz: Lazo emocional o pasión entre personas.	感情 (gǎn qíng)
+##462## s. Sentimiento / Afecto. \n Matiz: Lazo emocional o pasión entre personas.	感情 (gǎn qíng)
 
-##463## Sentir / Vivencia. \n Matiz: Cómo uno percibe o es afectado por una experiencia externa.	感受 (gǎn shòu)
+##463## v./s. Sentir, experimentar; sensación. \n Literalmente es "recibir un sentimiento". Se refiere a una experiencia emocional, profunda o reflexiva que te deja una impresión duradera. Funciona tanto como verbo (experimentar/sentir) como sustantivo (experiencia/sentimiento).	感受 (gǎn shòu) \n 听了这首歌，你有什么感受？- Después de escuchar esta canción, ¿cuáles son tus sentimientos (qué te transmitió)?
 
 ##464## Agradecer. \n Matiz: Expresar gratitud de manera formal o profunda.	感谢 (gǎn xiè)
 
@@ -3552,7 +3552,7 @@
 
 ##1810## No tener más opción. \n Matiz: Obligación sin alternativa.	只好 (zhǐ hǎo)
 
-##1811## Siempre que / con tal de. \n Matiz: Condición suficiente.	只要 (zhǐ yào)
+##1811## as long as. \n Matiz: Condición suficiente.	只要 (zhǐ yào) \n Estructura: 只要 + [Condición] + ， + Sujeto + 就 + [Resultado] \n 只要你坚持练习，就一定能学好中文。- Con tal de que perseveres practicando, con certeza podrás aprender bien chino.
 
 ##1812## Papel. \n Matiz: Material para escribir.	纸 (zhǐ)
 
@@ -3900,11 +3900,11 @@
 
 ##1984## Preocupación / molestia. \n Matiz: Estado de preocupación o problema que causa inquietud.	烦恼 (fán nǎo)
 
-##1985## Clasificador para pinturas / imágenes. \n Matiz: Se usa principalmente con obras visuales, como 一幅画 = un cuadro.	幅 (fú)
+##1985## Clasificador para pinturas / imágenes. \n Matiz: No se enfoca en el material físico, sino en el contenido visual. Implica que el objeto está creado deliberadamente para ser admirado, analizado o exhibido en un espacio.	幅 (fú)
 
 ##1987## Persona responsable / encargado. \n Matiz: Persona que está a cargo de una organización, actividad o asunto.	负责人 (fù zé rén)
 
-##1989## Conmovedor / emotivo. \n Matiz: Algo que provoca una fuerte emoción o empatía.	感人 (gǎn rén)
+##1989## adj. Conmovedor / emotivo. \n Matiz: Describe al objeto, la historia o la situación que provoca la emoción. Literalmente significa "conmueve a la gente". Nunca se usa para describir cómo te sientes tú, sino para calificar la fuente de la emoción.	感人 (gǎn rén) \n 这部电影非常感人。- Esta película es muy conmovedora.
 
 ##1990## Alcanzar / llegar a tiempo. \n Matiz: Puede significar alcanzar a alguien, llegar a tiempo o coincidir con un acontecimiento.	赶上 (gǎn shàng)
 
