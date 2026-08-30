@@ -222,7 +222,7 @@
 
 ##120## No. \n Matiz: Negación básica universal.	不 (bù)
 
-##121## No hay necesidad. \n Matiz: Indica que una acción no es requerida ni obligatoria.	不必 (bù bì)
+##121## adv. No es necesario, no hay necesidad. \n Matiz: Indica que una acción no es requerida ni obligatoria.	不必 (bú bì) \n 你的西班牙语已经很好了，不必太担心语法。- Tu español ya es muy bueno, no tienes que preocuparte demasiado por la gramática.
 
 ##122## gr. "no solo... sino también".	不但...	而且... (bù dàn... ér qiě...)
 
@@ -594,9 +594,9 @@
 
 ##316## Bajo. \n Matiz: Referente a altura, nivel, precio o volumen de voz.	低 (dī)
 
-##317## Fondo / Final. \n Matiz: La parte más profunda o el último periodo de un mes/año.	底 (dǐ)
+##317## Fondo / Final. \n Matiz: La parte más profunda o el último periodo de un mes/año. \n A. Se coloca después de un sustantivo para indicar el fondo, el suelo o la base de ese lugar u objeto. \n Se usa al hablar de fechas para referirse a la "base" o la última parte de ese ciclo temporal.	底 (dǐ) \n 海底 - Fondo del mar.
 
-##318## Debajo / Abajo. \n Matiz: Posición física inferior respecto a otra cosa.	底下 (dǐ xià)
+##318## s. Debajo / Abajo. \n Matiz: Posición física inferior respecto a otra cosa.	底下 (dǐ xià)
 
 ##319## Hermano menor.	弟弟 (dì di)
 
@@ -976,7 +976,7 @@
 
 ##514## Fresco y agradable. \n Es positivo. Se usa mucho en verano cuando sopla una brisa que te alivia del calor. Es la sensación de "¡qué a gusto se está aquí!".	凉快 (liáng kuài)
 
-##515## s. armario, guardarropa	衣柜
+##515## s. armario, guardarropa	衣柜 (yī guì)
 
 ##516## "Acabar de", "justo ahora", "hace un momento". \n Es un adverbio. Se coloca siempre antes del verbo. Indica que la acción ocurrió hace muy poco tiempo.	刚 (gāng)
 
@@ -1146,17 +1146,13 @@
 
 ##601## Vino tinto. \n Matiz: Vino elaborado con uvas tintas.	红酒 (hóng jiǔ)
 
-##602## Detrás / Parte trasera. \n Matiz: Indica ubicación física o espacial detrás de algo.	后边 (hòu biān)
+##602## Detrás / Parte trasera. \n Matiz: Indica ubicación física o espacial detrás de algo.	后边 (hòu biān) / 后面 (hòu miàn)
 
 ##603## Más tarde / Después. \n Matiz: Se refiere a una secuencia de hechos ocurridos únicamente en el pasado.	后来 (hòu lái)
-
-##604## Detrás / En la parte de atrás. \n Matiz: Similar a	后边, de uso muy común y estándar.	后面 (hòu miàn)
 
 ##605## El año subsiguiente. \n Matiz: El año después del próximo (dentro de dos años).	后年 (hòu nián)
 
 ##606## Pasado mañana. \n Matiz: El día después de mañana.	后天 (hòu tiān)
-
-##607## Al fondo / Detrás. \n Matiz: Variante más coloquial de	后面, común en el habla oral.	后头 (hòu tou)
 
 ##608## Malo / Estropeado. \n Matiz: Falta de bondad moral o un objeto que ha dejado de funcionar.	坏 (huài)
 
@@ -1972,7 +1968,7 @@
 
 ##1016## Año.	年 (nián)
 
-##1017## Fin de año.	年底 (nián dǐ)
+##1017## A finales de año.	年底 (nián dǐ)
 
 ##1018## Joven.	年轻 (nián qīng)
 
@@ -2466,7 +2462,7 @@
 
 ##1264## Especial. \n Puede ser adjetivo o adverbio. Se usa para dar énfasis (como "muy" o "especialmente"). \n Cuando funciona como adverbio puede ser intercambiable con	尤其.	特别 (tè bié)
 
-##1265## Cargar o levantar. \n Se usa cuando llevas algo que tiene un asa o que cuelga de tu mano. \n \n Mencionar o Sacar un tema \n Este es el uso más común en la vida diaria. Imagina que "levantas" un tema para que otros lo vean. \n \n Aumentar, Extraer o Promover \n Se usa para elevar un nivel o sacar algo de un lugar.	提 (tí)
+##1265## Cargar o levantar. \n Se usa cuando llevas algo que tiene un asa o que cuelga de tu mano. \n Mencionar o Sacar un tema \n Este es el uso más común en la vida diaria. Imagina que "levantas" un tema para que otros lo vean. \n Aumentar, Extraer o Promover \n Se usa para elevar un nivel o sacar algo de un lugar. \n Caracter simple	提 (tí)
 
 ##1266## s. educación física	体育 (tǐ yù)
 
