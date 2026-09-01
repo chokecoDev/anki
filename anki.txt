@@ -1220,8 +1220,6 @@
 
 ##641## Positivo / Activo. \n Matiz: Actitud proactiva y entusiasta ante la vida o el trabajo.	积极 (jī jí)
 
-##642## Iniciativa / Entusiasmo. \n Matiz: Grado de disposición activa para hacer algo.	积极性 (jī jí xìng)
-
 ##643## Acumular. \n Matiz: Juntar poco a poco algo (experiencia, conocimientos, capital).	积累 (jī lěi)
 
 ##644## Básico / Fundamental. \n Matiz: Lo esencial o elemental de una cosa.	基本 (jī běn)
@@ -1360,15 +1358,11 @@
 
 ##711## Bajada de temperatura. \n Matiz: Enfriamiento del clima o suavización de una situación tensa.	降温 (jiēn wēn)
 
-##712## Hacer (amigos). \n Matiz: Establecer vínculos sociales.	交 (jiāo)
-
-##713## Entregar a. \n Matiz: Poner un objeto o responsabilidad en manos de otra persona.	交给 (jiāo gěi)
+##712## El carácter funciona como un verbo dinámico cuyo significado central gira en torno a la idea de "entregar", "conectar" o "intercambiar". \n 1. Se usa al transferir algo a otra persona, autoridad o sistema. Es el verbo exacto para cuando completas una responsabilidad, pagas una cuota o envías un trabajo terminado. \n 2. Representa el cruce de caminos entre dos personas que deciden formar una relación o compartir conocimiento.	交 (jiāo) \n 1. 交作业 - Entregar la tarea. \n 2. 交朋友 - Hacer amigos.
 
 ##714## Policía de tráfico / tránsito.	交警 (jiāo jǐng)
 
 ##715## Interactuar / Comunicar. \n Matiz: Intercambio recíproco de ideas, sentimientos o cultura.	交流 (jiāo liú)
-
-##716## Hacer amigos.	交朋友 (jiāo péng yǒu)
 
 ##717## El sistema de transporte / El tráfico \n Es un sustantivo amplio que se refiere al sistema de transporte, las redes de comunicación o el flujo general de vehículos y peatones. Es un concepto completamente neutral.	交通 (jiāo tōng)
 
@@ -3999,7 +3993,7 @@
 
 ##2047## Edad. \n Matiz: Número de años que ha vivido una persona.	年龄 (nián líng)
 
-##2048## Femenino / mujer. \n Matiz: Se refiere al sexo femenino; 女性 es más formal que 女人.	女性 (nǚ xìng)
+##2048## Femenino / mujer. \n Matiz: Se refiere al sexo femenino.	女性 (nǚ xìng)
 
 ##2049## Ocasionalmente / de vez en cuando. \n Matiz: Algo que ocurre algunas veces, pero no con frecuencia.	偶尔 (ǒu ěr)
 
