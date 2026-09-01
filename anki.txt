@@ -484,8 +484,6 @@
 
 ##260## Gran cantidad. \n Matiz: Volumen masivo de algo.	大量 (dà liàng)
 
-##261## Edificio. \n Matiz: Construcción de varios pisos.	大楼 (dà lóu)
-
 ##262## s.(China) continental 	大陆 (dà lù)
 
 ##263## Abrigo. \n Matiz: Prenda de vestir larga para el frío.	大衣 (dà yī)
@@ -932,7 +930,7 @@
 
 ##492## Más. \n Matiz: Adverbio para aumentar el grado en una comparación.	更 (gèng)
 
-##493## Aún más / Todavía más. \n Matiz: Versión más enfática y formal de	更.	更加 (gèng jiā)
+##493## Aún más / Todavía más. \n Matiz: Versión más enfática y formal de 更.	更加 (gèng jiā)
 
 ##494## Fábrica. \n Matiz: Establecimiento industrial de producción.	工厂 (gōng chǎng)
 
@@ -1396,8 +1394,6 @@
 
 ##728## Enseñanza. \n Matiz: El proceso educativo o la actividad pedagógica en sí.	教学 (jiào xué)
 
-##729## Edificio de aulas / Pabellón docente.	教学楼 (jiào xué lóu)
-
 ##730## Educación. \n Matiz: Proceso de formación intelectual, moral y afectiva de las personas.	教育 (jiào yù)
 
 ##731## Terminar de construir, quedar construido. \n Se utiliza principalmente para infraestructuras, edificios, sistemas o grandes proyectos.	建成 (jiàn chéng)
@@ -1774,8 +1770,6 @@
 
 ##918## Edificio / Planta. \n Matiz: Construcción de varios niveles o un piso concreto.	楼 (lóu)
 
-##919## Planta superior / Arriba. \n Matiz: El espacio situado en el piso de arriba.	楼上 (lóu shàng)
-
 ##920## Escaleras. \n Matiz: Estructura fija de escalones para cambiar de planta.	楼梯 (lóu tī)
 
 ##921## Camino / Calle / Ruta. \n Matiz: Vía de comunicación o el trayecto realizado.	路 (lù)
@@ -1879,8 +1873,6 @@
 ##970## adj. lento	慢 (màn)
 
 ##971## s. gato	猫 (māo) \n 猫 (neko)
-
-##972## Se refiere específicamente al piso de abajo o a la planta baja.	楼下 (lóu xià)
 
 ##973## abajo. \n Se usa para indicar la posición relativa de un objeto respecto a otro (debajo de...). \n Es puramente espacial. También puedes escuchar	下面 (xià miàn), que es casi idéntico.	下边 (xià biān)
 
@@ -2284,9 +2276,7 @@
 
 ##1175## Tarea / Misión. \n Matiz: Un trabajo o deber que se debe completar en un tiempo dado.	任务 (rèn wù)
 
-##1176## Todavía / Aún. \n Matiz: Raíz literaria para indicar la continuación de un estado.	仍 (réng)
-
-##1177## Todavía / Aún. \n Matiz: Indica que una situación permanece igual a pesar del tiempo o cambios.	仍然 (réng rán)
+##1177## Todavía / Aún. \n Matiz: Indica que una situación permanece igual a pesar del tiempo o cambios.	仍然 (réng rán) \n 外面仍然在下雨。- Afuera todavía está lloviendo.
 
 ##1178## Sol / Día. \n Matiz: Raíz para fechas o el astro rey.	日 (rì)
 
@@ -2333,8 +2323,6 @@
 ##1199## Ir a clase / Dar clase. \n Matiz: Tanto para el alumno que asiste como para el profesor.	上课 (shàng kè)
 
 ##1200## Subir (hacia aquí). \n Matiz: Movimiento ascendente hacia la posición del hablante.	上来 (shàng lái)
-
-##1201## Subir las escaleras / ir al piso de arriba.	上楼 (shàng lóu)
 
 ##1202## Ir a casa de alguien / A domicilio. \n Matiz: Brindar un servicio en el hogar del cliente.	上门 (shàng mén)
 
@@ -2708,7 +2696,7 @@
 
 ##1388## Al mismo tiempo / Simultáneamente. \n Matiz: Coordinación de dos eventos.	同时 (tóng shí)
 
-##1389## Igual / Del mismo modo. \n Matiz: Identidad en calidad, apariencia o forma.	同样 (tóng yàng)
+##1389## Igual / Del mismo modo. \n Matiz: No compara directamente que A y B sean el mismo objeto exacto, sino que pertenecen a la misma clase, categoría o comparten un escenario equivalente.	同样 (tóng yàng) \n 我们对这个问题有同样的看法。- Tenemos la misma opinión sobre este problema.
 
 ##1390## Estar de acuerdo / Consentir. \n Matiz: Compartir una opinión o dar permiso.	同意 (tóng yì)
 
@@ -2879,8 +2867,6 @@
 ##1474## Terminar la clase.	下课 (xià kè)
 
 ##1475## Bajar / Venir abajo. \n Matiz: Movimiento descendente hacia el hablante.	下来 (xià lái)
-
-##1476## Bajar las escaleras / ir al piso de abajo.	下楼 (xià lóu)
 
 ##1477## Abajo / Debajo / Siguiente parte.	下面 (xià miàn)
 
