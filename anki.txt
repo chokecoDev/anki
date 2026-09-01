@@ -498,7 +498,7 @@
 
 ##268## Bolsa / Saco. \n Matiz: Recipiente flexible; también funciona como clasificador.	袋 (dài)
 
-##269## Ponerse / Usar. \n Matiz: Solo para accesorios (gorros, gafas, relojes, anillos). Para ropa se usa	穿 (chuān).	戴 (dài)
+##269## Ponerse / Usar. \n Matiz: Solo para accesorios (gorros, gafas, relojes, anillos). Para ropa se usa 穿 (chuān).	戴 (dài)
 
 ##270## Solo / Únicamente. \n Matiz: Muy formal y escrito.	仅 (jǐn)
 
@@ -740,7 +740,7 @@
 
 ##394## Enviar. \n Matiz: Acción técnica de mandar un archivo, correo electrónico o paquete.	发送 (fā sòng)
 
-##395## Descubrir / Notar. \n Matiz: Darse cuenta de algo que ya existía pero no se conocía.	发现 (fā xiàn)
+##395## Descubrir. \n Matiz: Darse cuenta de algo que ya existía pero no se conocía.	发现 (fā xiàn)
 
 ##396## Ley. \n Matiz: Conjunto de normas jurídicas que rigen una sociedad.	法律 (fǎ lǜ)
 
@@ -1739,8 +1739,6 @@
 ##902## Convalecer / Reposar. \n Matiz: Recuperar la salud mediante descanso en un sanatorio o balneario.	疗养 (liáo yǎng)
 
 ##903## Fila / Clasificador. \n Matiz: Lista ordenada; también clasificador para trenes.	列 (liè)
-
-##904## Incluir / Listar. \n Matiz: Incorporar formalmente algo dentro de una lista, catálogo o plan.	列入 (liè rù)
 
 ##905## Clasificar como. \n Matiz: Categorizar algo dentro de un grupo o rango específico.	列为 (liè wèi)
 
@@ -3768,8 +3766,6 @@
 ##1925## Flor / Gastar. \n Matiz: Puede ser el sustantivo "flor" o el verbo "gastar" (dinero o tiempo).	花 (huā)
 
 ##1926## Jardín. \n Matiz: Espacio con plantas y flores destinado al recreo.	花园 (huā yuán)
-
-##1927## Persona de origen chino. \n Matiz: Se refiere a la etnia china, independientemente de su nacionalidad.	华人 (huá rén)
 
 ##1928## Remar. \n Matiz: Acción de mover un bote usando remos.	划船 (huá chuán)
 
