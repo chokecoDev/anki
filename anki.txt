@@ -1306,9 +1306,7 @@
 
 ##685## Vacaciones. \n Matiz: Periodo de descanso oficial de los estudios o del trabajo.	假期 (jià qī)
 
-##686## Precio. \n Matiz: Término formal para referirse al valor monetario de los bienes.	价格 (jià gé)
-
-##687## Precio / Coste. \n Matiz: Término más común y coloquial para preguntar cuánto cuesta algo.	价钱 (jià qián)
+##686## Precio. \n Coloquial / formal.	价钱 (jià qián) / 价格 (jià gé) \n 这件衣服的价钱太贵了。- El precio de esta ropa es demasiado caro. \n 最近电脑的价格下降了。- Recientemente el precio de las computadoras ha bajado.
 
 ##688## Persistir / Insistir. \n Matiz: Mantenerse firme en una acción o creencia a pesar de los obstáculos.	坚持 (jiān chí)
 
