@@ -1468,7 +1468,7 @@
 
 ##770## Policía. \n Matiz: Agente encargado de mantener el orden y la ley.	警察 (jǐng chá)
 
-##771## Inesperadamente. \n Matiz: Adverbio para expresar sorpresa ante algo increíble o raro.	竟然 (jìng rán)
+##771## Inesperadamente. \n Enfoque: Expresa sorpresa, incredulidad, asombro o indignación porque un hecho va totalmente en contra de la lógica o de lo que esperabas. No tiene relación con la velocidad, sino con el impacto que el evento causa en tu mente.	竟然 (jìng rán)
 
 ##772## Espejo.	镜子 (jìng zi)
 
@@ -1815,8 +1815,6 @@
 ##946## Sombrero / Gorro.	帽子 (mào zi)
 
 ##947## Correcto / Exacto. \n Matiz: Confirmar que una afirmación es verdadera.	没错 (méi cuò)
-
-##948## Inesperadamente / No pensar. \n Matiz: Sorpresa por algo que no se previo.	没想到 (méi xiǎng dào)
 
 ##949## Inútil / Sin valor. \n Matiz: Algo que no sirve para nada o no tiene eficacia.	没用 (méi yòng)
 
@@ -2458,7 +2456,7 @@
 
 ##1273## Escuchar la radio, un podcast o una emisión oficial.	收听 (shōu tīng)
 
-##1274## "de repente", "repentinamente" o "inesperadamente".	突然 (tū rán)
+##1274## "de repente", "repentinamente" o "inesperadamente". \n Enfoque: Describe una acción que ocurre de golpe, de manera muy rápida y sin previo aviso. Es un hecho objetivo sobre cómo sucedió algo en el tiempo.	突然 (tū rán)
 
 ##1275## (2) afuera.	外边 / 外面(wài biān / wài miàn)
 
@@ -3378,7 +3376,7 @@
 
 ##1738## s. tenis	网球 (wǎng qiú)
 
-##1739## s. gusto, sabor, olor. \n Es la forma acortada con la típica "r" añadida del acento de Pekín y el norte de China. Es súper informal y muy de la calle..	味儿 (wèi ér)
+##1739## s. gusto, sabor, olor. \n Es la forma acortada con la típica "r" añadida del acento de Pekín y el norte de China. Es súper informal y muy de la calle..	味儿 (wèir)
 
 ##1740## s. cultura	文化 (wén huà)
 
@@ -3726,8 +3724,6 @@
 ##1910## s. Foto de perfil	头像 (tóu xiàng)
 
 ##1911## s. El Templo del Cielo	天坛 (tiān tán)
-
-##1912## s. comino	孜然 (zī rán)
 
 ##1913## v. evitar ciertos alimentos, mantener una dieta especial	忌口 (jì kǒu)
 
