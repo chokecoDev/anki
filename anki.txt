@@ -144,17 +144,17 @@
 
 ##78## s. Pekín	北京 (běi jīng)
 
-##79## Por ejemplo (2). \n Coloquial	比如 /	比如说 (bǐ rú / bǐ rú shuō)
+##79## Por ejemplo (2). \n Coloquial	比如 / 比如说 (bǐ rú / bǐ rú shuō)
 
 ##80## Por ejemplo. \n Formal y escrito	例如 (lì rú)
 
 ##81## Competencia, concurso, partido (especialmente en deportes).	比赛 (bǐ sài)
 
-##82## Transformarse en / Convertirse en. \n Es el término más común y físico. Indica un cambio de forma, naturaleza o estado, a menudo de manera evidente o drástica.	变成 (biàn chéng) \n \n	水变成了冰。\n Shuǐ biàn chéng le bīng. \n El agua se convirtió en hielo.
+##82## Transformarse en / Convertirse en. \n Es el término más común y físico. Indica un cambio de forma, naturaleza o estado, a menudo de manera evidente o drástica.	变成 (biàn chéng) \n \n 水变成了冰。\n Shuǐ biàn chéng le bīng. \n El agua se convirtió en hielo.
 
-##83## Pasar a ser / Convertirse en (Formal). \n Se usa en textos científicos, noticias o informes técnicos. Es más preciso y menos coloquial.	变为 (biàn wèi) \n \n	液体变为气体。\n Yètǐ biàn wèi qìtǐ \n El líquido pasa a ser gas. (Lenguaje de manual de física).
+##83## Pasar a ser / Convertirse en (Formal). \n Se usa en textos científicos, noticias o informes técnicos. Es más preciso y menos coloquial.	变为 (biàn wèi) \n \n 液体变为气体。\n Yètǐ biàn wèi qìtǐ \n El líquido pasa a ser gas. (Lenguaje de manual de física).
 
-##84## Convertirse en / Llegar a ser (Identidad). \n Este se usa principalmente para roles, profesiones o estatus sociales.	成为 (chéng wéi) \n Estructura: Persona/Entidad +	成为 + Profesión/Estatus
+##84## Convertirse en / Llegar a ser (Identidad). \n Este se usa principalmente para roles, profesiones o estatus sociales.	成为 (chéng wéi) \n Estructura: Persona/Entidad + 成为 + Profesión/Estatus
 
 ##85## v./s. Actuar, representar, dar una función (teatral, musical), show. \n Se refiere exclusivamente al mundo del espectáculo. No se usa para "demostrar" datos, sino para una ejecución artística frente a una audiencia. \n Se refiere al evento completo y organizado. Es un sustantivo o un verbo que implica que hay un escenario, luces, público y una hora de inicio.	演出 (yǎn chū)
 
@@ -168,7 +168,7 @@
 
 ##90## Licenciatura. \n Matiz: Se refiere al grado universitario básico de cuatro años (undergraduate).	本科 (běn kē)
 
-##91## Originalmente. \n Matiz: Indica cómo era algo antes de un cambio o lo que se suponía que debía ser.	本来 (běn lái) \n	我本来想学习，但是太累了。
+##91## Originalmente. \n Matiz: Indica cómo era algo antes de un cambio o lo que se suponía que debía ser.	本来 (běn lái) \n 我本来想学习，但是太累了。
 
 ##92## resulta que / ahora entiendo que. \n Matiz: Se usa cuando descubres algo nuevo o te das cuenta de algo. 	原来 (yuán lái) \n 我以为他不来，原来他生病了。Pensé que él no vendría, ¡resulta que estaba enfermo!
 
@@ -224,7 +224,7 @@
 
 ##121## adv. No es necesario, no hay necesidad. \n Matiz: Indica que una acción no es requerida ni obligatoria.	不必 (bú bì) \n 你的西班牙语已经很好了，不必太担心语法。- Tu español ya es muy bueno, no tienes que preocuparte demasiado por la gramática.
 
-##122## gr. "no solo... sino también".	不但...	而且... (bù dàn... ér qiě...)
+##122## gr. "no solo... sino también".	不但... 而且... (bù dàn... ér qiě...)
 
 ##123## Tener que. \n Matiz: Doble negación que indica que no queda otra opción que actuar.	不得不 (bù dé bù) \n 外面下大雨了，我们不得不推迟活动。- Está lloviendo muy fuerte afuera, no nos queda más remedio que posponer la actividad.
 
@@ -256,7 +256,7 @@
 
 ##138## Al poco tiempo. \n Matiz: Indica que un suceso ocurrió muy rápido.	不一会儿 (bù yī huì er)
 
-##139## No hace falta. \n Matiz: Similar a	不必, indica que algo es innecesario	不用 (bù yòng)
+##139## No hace falta. \n Matiz: Similar a 不必, indica que algo es innecesario	不用 (bù yòng)
 
 ##140## No importar. \n Matiz: Indiferencia total o despreocupación hacia algo.	不在乎 (bù zài hū)
 
@@ -294,7 +294,7 @@
 
 ##158## Pronto. \n En chino, para decir "pronto", muchas veces dicen "no mucho tiempo".	不久 (bù jiǔ)
 
-##159## "De lo contrario", "si no". \n Es el hermano formal de	不然. Se encuentra mucho más en textos escritos, noticias, correos electrónicos o discursos oficiales.	否则 (fǒu zé)
+##159## "De lo contrario", "si no". \n Es el hermano formal de 不然. Se encuentra mucho más en textos escritos, noticias, correos electrónicos o discursos oficiales.	否则 (fǒu zé)
 
 ##160## "Al contrario", "por el contrario". \n No indica una consecuencia negativa (como los anteriores), sino que introduce una situación que es el reverso de lo que se acaba de decir.	相反 (xiāng fǎn)
 
@@ -370,7 +370,7 @@
 
 ##199## Escuela secundaria básica (Junior High). \n Matiz: Los tres años de educación media después de la primaria.	初中 (chū zhōng)
 
-##200## Excepto / Además de. \n Matiz: Se usa para excluir algo o para añadir información extra (dependiendo de si se usa con	也/还 o con 都).	除了 (chú le)
+##200## Excepto / Además de. \n Matiz: Se usa para excluir algo o para añadir información extra (dependiendo de si se usa con 也/还 o con 都).	除了 (chú le)
 
 ##201## Por todas partes / En todos los lugares.	到处 (dào chù)
 
@@ -420,7 +420,7 @@
 
 ##228## Grueso / Tosco. \n Matiz: Referente al grosor de un objeto o a una personalidad poco refinada.	粗 (cū)
 
-##229## adj. Descuidado. \n Matiz: Cometer errores por falta de atención (opuesto a	细心).	粗心 (cū xīn)
+##229## adj. Descuidado. \n Matiz: Cometer errores por falta de atención (opuesto a 细心).	粗心 (cū xīn)
 
 ##230## Pueblo / Aldea. \n Matiz: Asentamiento rural pequeño.	村 (cūn)
 
@@ -492,7 +492,7 @@
 
 ##265## Delegación. \n Matiz: Grupo de personas que representan a una entidad.	代表团 (dài biǎo tuán)
 
-##266## Es el verbo que usas para "llevar", "traer" o "portar". Se utiliza cuando tú tienes la posesión física de un objeto o cuando guías a una persona, de modo que ese objeto o persona viaja contigo de un lugar a otro como si fueran una misma unidad.	带 (dài) \n	记得带伞 (jìde dài sǎn - recuerda llevar paraguas)
+##266## Es el verbo que usas para "llevar", "traer" o "portar". Se utiliza cuando tú tienes la posesión física de un objeto o cuando guías a una persona, de modo que ese objeto o persona viaja contigo de un lugar a otro como si fueran una misma unidad.	带 (dài) \n 记得带伞 (jìde dài sǎn - recuerda llevar paraguas)
 
 ##267## Traer. \n Matiz: Traer algo hacia la posición del hablante.	带来 (dài lái)
 
@@ -520,7 +520,7 @@
 
 ##279## inmediatamente. \n Coloquial/Diario. \n Literalmente "sobre el caballo". Es el más común, pero ¡ojo!, puede implicar un pequeño retraso (como nuestro "ahorita").	马上 (mǎ shàng)
 
-##280## Aproximadamente, probablemente, "a grandes rasgos". \n Es la palabra más objetiva y lógica. Se basa en hechos o cálculos. Tiene una probabilidad alta (un 70-80%).	大概 (dà gài). \n	准确数字我不太清楚，大概有三四千吧。
+##280## Aproximadamente, probablemente, "a grandes rasgos". \n Es la palabra más objetiva y lógica. Se basa en hechos o cálculos. Tiene una probabilidad alta (un 70-80%).	大概 (dà gài). \n 准确数字我不太清楚，大概有三四千吧。
 
 ##281## Quizás, tal vez.\n Es el término más estándar y neutro. Indica una posibilidad media (50%). Se usa tanto en lenguaje hablado como escrito.	也许 (yě xǔ)
 
@@ -558,7 +558,7 @@
 
 ##298## Llegar / Hasta. \n Matiz: Indica el término de un movimiento o un límite temporal/espacial.	到 (dào)
 
-##300## “exactamente”, “al final”, “de verdad” \n Matiz: Se usa cuando quieres insistir o mostrar impaciencia/curiosidad. \n Para expresar un resultado final (similar a “al final / después de todo”)	到底 (dào dǐ) \n	你到底要什么？
+##300## “exactamente”, “al final”, “de verdad” \n Matiz: Se usa cuando quieres insistir o mostrar impaciencia/curiosidad. \n Para expresar un resultado final (similar a “al final / después de todo”)	到底 (dào dǐ) \n 你到底要什么？
 
 ##301## Camino / Decir / Clasificador. \n Matiz: Concepto filosófico, ruta física o clasificador para platos de comida.	道 (dào)
 
@@ -576,7 +576,7 @@
 
 ##308## De / Partícula atributiva. \n Matiz: Indica posesión o une un adjetivo con un sustantivo.	的 (de)
 
-##309## Si... / En caso de. \n Matiz: Se coloca al final de una suposición.	的话 (de huà) \n Estructura: (A	的话, B)
+##309## Si... / En caso de. \n Matiz: Se coloca al final de una suposición.	的话 (de huà) \n Estructura: (A 的话, B)
 
 ##310## Partícula para introducir el complemento del verbo (cómo se realiza la acción).	得 (de)
 
@@ -634,7 +634,7 @@
 
 ##337## Caer / Perder. \n Matiz: Desprenderse de algo o dejarlo olvidado; también actúa como complemento.	掉 (diào)
 
-##338## Es el verbo general y coloquial para "reservar", "pedir" o "encargar". Es una palabra muy flexible y de uso rápido en la vida diaria que se aplica tanto para reservar un boleto como para pedir cosas físicas o de consumo inmediato que llegarán a tus manos, como la comida a domicilio o un producto específico.	订 (dìng) \n	订外卖 (dìng wàimài - pedir comida a domicilio/delivery)
+##338## Es el verbo general y coloquial para "reservar", "pedir" o "encargar". Es una palabra muy flexible y de uso rápido en la vida diaria que se aplica tanto para reservar un boleto como para pedir cosas físicas o de consumo inmediato que llegarán a tus manos, como la comida a domicilio o un producto específico.	订 (dìng) \n 订外卖 (dìng wàimài - pedir comida a domicilio/delivery)
 
 ##339## Cosa / Objeto. \n Matiz: Término muy general para cualquier artículo inanimado.	东西 (dōng xī)
 
@@ -712,11 +712,11 @@
 
 ##379## La mayoría. \n Matiz: La mayor parte de un grupo de personas o cosas.	多数 (duō shù)
 
-##380## variado / diverso (como cualidad) \n Matiz: Se usa para describir que algo tiene variedad en su naturaleza o forma. \n Funciona más como adjetivo descriptivo	多样 (duō yàng) \n	这个地方的食物很多样。
+##380## variado / diverso (como cualidad) \n Matiz: Se usa para describir que algo tiene variedad en su naturaleza o forma. \n Funciona más como adjetivo descriptivo	多样 (duō yàng) \n 这个地方的食物很多样。
 
 ##381## Nublado. \n Matiz: Estado del tiempo con presencia de nubes en el cielo.	多云 (duō yún)
 
-##382## Es una expresión formal y descriptiva que significa "múltiples tipos de" o "varios tipos de". Se utiliza mucho en contextos técnicos, manuales o formales para indicar de forma objetiva que existe más de una opción o configuración disponible para algo.	多种 (duō zhǒng) \n	多种语言 (duō zhǒng yǔyán - múltiples idiomas)
+##382## Es una expresión formal y descriptiva que significa "múltiples tipos de" o "varios tipos de". Se utiliza mucho en contextos técnicos, manuales o formales para indicar de forma objetiva que existe más de una opción o configuración disponible para algo.	多种 (duō zhǒng) \n 多种语言 (duō zhǒng yǔyán - múltiples idiomas)
 
 ##383## Hambre. \n Matiz: Sensación de necesidad o deseo de ingerir alimento.	饿 (è)
 
@@ -724,7 +724,7 @@
 
 ##385## Hijo. \n Matiz: Descendiente directo de sexo varón.	儿子 (ér zi)
 
-##387## Sino que. \n Matiz: Se usa para corregir una idea (No es A, sino B:	不是A，而是B).	而是 (ér shì)
+##387## Sino que. \n Matiz: Se usa para corregir una idea (No es A, sino B).	而是 (ér shì)
 
 ##388## Auriculares. \n Matiz: Aparato que se coloca en los oídos para escuchar sonido.	耳机 (ěr jī)
 
@@ -794,7 +794,7 @@
 
 ##421## No / Incorrecto. \n Matiz: Prefijo formal de negación (similar a "in-" o "no-").	非 (fēi)
 
-##422## Muy / Extraordinario. \n Matiz: Grado de intensidad superior a	很 (hěn).	非常 (fēi cháng)
+##422## Muy / Extraordinario. \n Matiz: Grado de intensidad superior a 很 (hěn).	非常 (fēi cháng)
 
 ##423## Gasto / Tasa (sufijo). \n Matiz: Dinero que se debe pagar por un servicio o derecho. \n Como sustantivo, en el chino moderno casi nunca se usa solo. Funciona como un sufijo (una terminación) que se pega obligatoriamente a otra palabra.	费 (fèi) \n 电费 - recibo de la luz.
 
@@ -802,9 +802,9 @@
 
 ##425## Minuto / Céntimo / Dividir. \n Matiz: Unidad pequeña de tiempo, dinero o división física.	分 (fēn)
 
-##426## Separar. \n Matiz: Dividir o alejar lo que antes estaba unido o junto.	分开 (fēn kāi) \n	孩子和妈妈分开了。(El niño se separó de su mamá.)
+##426## Separar. \n Matiz: Dividir o alejar lo que antes estaba unido o junto.	分开 (fēn kāi) \n 孩子和妈妈分开了。(El niño se separó de su mamá.)
 
-##427## Puntuación / Nota. \n Matiz: El valor numérico obtenido en un examen o evaluación.	分数 (fēn shù) \n	我的分数很高。(Mi nota es muy alta.)
+##427## Puntuación / Nota. \n Matiz: El valor numérico obtenido en un examen o evaluación.	分数 (fēn shù) \n 我的分数很高。(Mi nota es muy alta.)
 
 ##428## Dividirse en. \n Matiz: Clasificar o descomponer un todo en varias partes.	分为 (fēn wéi)
 
@@ -834,7 +834,7 @@
 
 ##443## Responsabilizarse. \n Matiz: Estar a cargo de algo o ser consciente de los actos.	负责 (fù zé)
 
-##444## Desarrollar(se), progresar, crecer. \n Se refiere a un proceso de crecimiento orgánico o evolución (economía, una relación, una carrera profesional).	发展 (fā zhǎn) \n	中国的发展很快
+##444## Desarrollar(se), progresar, crecer. \n Se refiere a un proceso de crecimiento orgánico o evolución (economía, una relación, una carrera profesional).	发展 (fā zhǎn) \n 中国的发展很快
 
 ##445## Desarrollar (un hábito), cultivar, fomentar. \n Se usa exclusivamente para comportamientos, hábitos o carácter. Es un desarrollo interno y gradual.	养成 (yǎng chéng)
 
@@ -842,7 +842,7 @@
 
 ##447## Plan, programa; planear (funciona como sustantivo y verbo). \n Es la palabra más general y común. Se usa para planes personales, diarios, de estudio o de trabajo. Se refiere a la intención de realizar una serie de acciones en el futuro.	计划 (jì huà)
 
-##448## "cerca de aquí", "en las cercanías" o "alrededor". \n No se refiere a una distancia exacta (como "a 5 metros"), sino a una zona o área próxima. Es un sustantivo de lugar.	附近 (fù jìn) \n Estructura: [Lugar] +	附近
+##448## "cerca de aquí", "en las cercanías" o "alrededor". \n No se refiere a una distancia exacta (como "a 5 metros"), sino a una zona o área próxima. Es un sustantivo de lugar.	附近 (fù jìn) \n Estructura: [Lugar] + 附近
 
 ##449## Repasar. \n Matiz: Estudiar algo ya aprendido para reforzar el conocimiento.	复习 (fù xí)
 
@@ -852,13 +852,13 @@
 
 ##452## Marido y mujer. \n Matiz: Forma común y cotidiana de referirse a un matrimonio.	夫妻 (fū qī)
 
-##453## cambiar / transformar (algo de manera significativa). \n Matiz: Se usa mucho con cosas abstractas: vida, actitud, hábitos, situación.	改变 (gǎi biàn) \n	我想改变我的生活。
+##453## cambiar / transformar (algo de manera significativa). \n Matiz: Se usa mucho con cosas abstractas: vida, actitud, hábitos, situación.	改变 (gǎi biàn) \n 我想改变我的生活。
 
 ##454## Apresurarse / Expulsar. \n Matiz: Tratar de alcanzar algo en el tiempo o echar a alguien.	赶 (gǎn)
 
 ##456## En seguida / Urgentemente. \n Matiz: Realizar una acción de inmediato por necesidad.	赶紧 (gǎn jǐn)
 
-##457## Rápido / De prisa. \n Matiz: Similar a	赶紧, indica premura en la acción.	赶快 (gǎn kuài)
+##457## Rápido / De prisa. \n Matiz: Similar a 赶紧, indica premura en la acción.	赶快 (gǎn kuài)
 
 ##458## Atreverse. \n Matiz: Tener el valor o la audacia de realizar una acción.	敢 (gǎn)
 
@@ -922,7 +922,7 @@
 
 ##488## Todos (ustedes). \n Matiz: Forma respetuosa de dirigirse a un grupo presente.	各位 (gè wèi)
 
-##489## Es una expresión muy común en el habla cotidiana que significa "todo tipo de" o "toda clase de". Se utiliza para enfatizar que hay una diversidad absoluta o una gran abundancia de opciones diferentes dentro de un mismo grupo, dando la sensación de que "hay de todo".	各种 (gè zhǒng) \n	各种颜色 (gè zhǒng yánsè - todo tipo de colores)
+##489## Es una expresión muy común en el habla cotidiana que significa "todo tipo de" o "toda clase de". Se utiliza para enfatizar que hay una diversidad absoluta o una gran abundancia de opciones diferentes dentro de un mismo grupo, dando la sensación de que "hay de todo".	各种 (gè zhǒng) \n 各种颜色 (gè zhǒng yánsè - todo tipo de colores)
 
 ##490## Dar / Para / A. \n Matiz: Verbo de entrega o preposición que indica beneficio.	给 (gěi)
 
@@ -980,9 +980,9 @@
 
 ##517## Justo en (tiempo/lugar), recto, correcto, positivo. \n Es una palabra muy versátil. Como adverbio de tiempo, indica que algo está ocurriendo justo en este preciso instante.	正 (zhèng)
 
-##518## "Justo", "precisamente", "por casualidad", "quedar bien" (talla). \n Indica una coincidencia perfecta. Puede ser que algo encaje físicamente (ropa) o que una situación coincida en el tiempo.	正好 (zhèng hǎo) \n	这双鞋我穿正好。
+##518## "Justo", "precisamente", "por casualidad", "quedar bien" (talla). \n Indica una coincidencia perfecta. Puede ser que algo encaje físicamente (ropa) o que una situación coincida en el tiempo.	正好 (zhèng hǎo) \n 这双鞋我穿正好。
 
-##519## "Hace un momento", "hace nada", "justo ahora". \n Se refiere a un tiempo muy cercano al presente (normalmente desde unos segundos hasta unos minutos atrás). A diferencia de otras palabras,	刚才 es un sustantivo de tiempo (como "ayer" o "hoy"), lo que le da mucha flexibilidad en la oración.	刚才 (gāng cái)
+##519## "Hace un momento", "hace nada", "justo ahora". \n Se refiere a un tiempo muy cercano al presente (normalmente desde unos segundos hasta unos minutos atrás).	刚才 (gāng cái)
 
 ##520## hermano mayor	哥哥 (gē gē)
 
@@ -1116,7 +1116,7 @@
 
 ##587## Río. \n Matiz: Corriente natural de agua que fluye continuamente.	河 (hé)
 
-##588## v. pasear, vagar. \n implica que no tienes una meta específica o prisa. Es una actividad puramente recreativa. Si vas al supermercado a comprar leche y sales rápido, usas	去 (qù). Si vas al supermercado a ver qué hay de nuevo, a probar muestras gratis y a perder el tiempo, estás ___ en el supermercado.	逛 (guàng)
+##588## v. pasear, vagar. \n implica que no tienes una meta específica o prisa. Es una actividad puramente recreativa. Si vas al supermercado a comprar leche y sales rápido, usas 去 (qù). Si vas al supermercado a ver qué hay de nuevo, a probar muestras gratis y a perder el tiempo, estás ___ en el supermercado.	逛 (guàng)
 
 ##589## Como conjunción: "O" (pero solo en preguntas). \n Como adverbio: "Todavía", "aún" (continuidad).	还是 (hái shì)
 
@@ -1158,7 +1158,7 @@
 
 ##610## Mala persona. \n Matiz: Alguien que actúa con maldad o comete delitos.	坏人 (huài rén)
 
-##611## Protección ambiental. \n Matiz: Abreviatura de	环境保护 (protección del medio ambiente).	环保 (huán bǎo)
+##611## Protección ambiental. \n Matiz: Abreviatura de 环境保护 (protección del medio ambiente).	环保 (huán bǎo)
 
 ##612## Cambiar / Canjear. \n Matiz: Sustituir una cosa por otra (dinero, ropa, lugar).	换 (huàn)
 
@@ -1240,7 +1240,7 @@
 
 ##652## Organizar, poner en orden, fila/hilera, ensayar, expulsar. \n Se centra en la colocación de cosas o personas una tras otra. También tiene un uso muy común en el teatro (ensayar) y en los deportes (voleibol).	排 (pái)
 
-##653## "ambiente" o "entorno".　\n Matiz físico: El medio ambiente, la naturaleza o el entorno de una oficina. \n Matiz social: El ambiente de trabajo, el clima social. \n Matiz técnico (tu área): El entorno de ejecución, configuración de variables de entorno.	环境 (huán jìng) \n	这个饭馆的环境很漂亮。
+##653## "ambiente" o "entorno".　\n Matiz físico: El medio ambiente, la naturaleza o el entorno de una oficina. \n Matiz social: El ambiente de trabajo, el clima social. \n Matiz técnico (tu área): El entorno de ejecución, configuración de variables de entorno.	环境 (huán jìng) \n 这个饭馆的环境很漂亮。
 
 ##654## Compañero de trabajo	同事 (tóng shì)
 
@@ -1252,7 +1252,7 @@
 
 ##658## cálido/afectuoso en el trato \n Describe la calidez emocional en la interacción social: cómo tratas a la gente, tu actitud al recibir o atender a alguien.	热情 (rè qíng)
 
-##659## Como adverbio de grado: Significa "extremadamente", "sumamente" o "al máximo". Se usa para enfatizar un adjetivo. \n Como sustantivo: Se refiere a los polos geográficos o magnéticos (como el Polo Norte).	极 (jí) \n \n Adjetivo +	极了 (jí le) \n 这里漂亮极了！
+##659## Como adverbio de grado: Significa "extremadamente", "sumamente" o "al máximo". Se usa para enfatizar un adjetivo. \n Como sustantivo: Se refiere a los polos geográficos o magnéticos (como el Polo Norte).	极 (jí) \n \n Adjetivo + 极了 (jí le) \n 这里漂亮极了！
 
 ##660## s. reportero, periodista	记者 (jì zhě)
 
@@ -1322,7 +1322,7 @@
 
 ##694## Llegar a ver. \n Matiz: Enfatiza el resultado de haber visto a alguien o algo.	见到 (jiàn dào)
 
-##695## Haber visto. \n Matiz: Indica la experiencia previa de haber conocido o visto algo antes.	见过 (jiàn guò) \n	我见过那个人。
+##695## Haber visto. \n Matiz: Indica la experiencia previa de haber conocido o visto algo antes.	见过 (jiàn guò) \n 我见过那个人。
 
 ##696## Verse / Reunirse. \n Matiz: El encuentro recíproco y físico entre dos o más personas.	见面 (jiàn miàn)
 
@@ -1392,7 +1392,7 @@
 
 ##732## Paisaje, vista, escena (natural). \n Se refiere a la belleza visual de un lugar, generalmente natural o urbano. Es lo que ves cuando miras por una ventana o viajas.	景色 (jǐng sè)
 
-##733## Significa "recoger", "recibir" o "contestar". Su enfoque principal es la recepción; describe la acción de ir al encuentro de alguien o algo que está llegando a un punto específico para esperarlo, "atraparlo" y luego llevarlo contigo (o contestar en el caso de llamadas).	接 (jiē) \n	去机场接朋友 (qù jīchǎng jiē péngyou - ir al aeropuerto a recoger a un amigo)
+##733## Significa "recoger", "recibir" o "contestar". Su enfoque principal es la recepción; describe la acción de ir al encuentro de alguien o algo que está llegando a un punto específico para esperarlo, "atraparlo" y luego llevarlo contigo (o contestar en el caso de llamadas).	接 (jiē) \n 去机场接朋友 - ir al aeropuerto a recoger a un amigo.
 
 ##734## Recibir. \n Matiz: Enfatiza el hecho de haber obtenido algo enviado (mensaje, llamada).	接到 (jiē dào)
 
@@ -1526,7 +1526,7 @@
 
 ##799## Ir al médico / Examinar paciente. \n Matiz: Acción del paciente (visita) o del doctor (chequeo).	看病 (kàn bìng)
 
-##800## Opinión, manera de ver algo. \n Se usa mucho en conversaciones cotidianas y suele sonar más personal o informal. \n Se enfoca en la perspectiva personal.	看法 (kàn fǎ) \n	你对这个电影有什么看法？
+##800## Opinión, manera de ver algo. \n Se usa mucho en conversaciones cotidianas y suele sonar más personal o informal. \n Se enfoca en la perspectiva personal.	看法 (kàn fǎ) \n 你对这个电影有什么看法？
 
 ##801## (2) Ver / Divisar. \n Se enfoca en el resultado	看见 (kàn jiàn) / 看到 (kàn dào)
 
@@ -1534,7 +1534,7 @@
 
 ##803## Parecer / A juzgar por. \n Matiz: Se usa para dar una opinión sobre la apariencia de algo.	看起来 (kàn qǐ lái)
 
-##804## Parecer visualmente. \n Matiz: Muy similar a	看起来, centrado en la impresión óptica.	看上去 (kàn shàng qù)
+##804## Parecer visualmente. \n Matiz: Muy similar a 看起来, centrado en la impresión óptica.	看上去 (kàn shàng qù)
 
 ##805## Examinar / Poner a prueba. \n Matiz: Raíz para evaluar conocimientos o resistencia.	考 (kǎo)
 
@@ -1588,7 +1588,7 @@
 
 ##830## Aire acondicionado.	空调 (kōng tiáo)
 
-##831## Es un sustantivo coloquial (muy característico del habla del norte de China por su sonido final "r") que significa principalmente "tiempo libre" o "un rato libre". También puede referirse a un "espacio vacío" o un "hueco" físico.	空儿 (kòng ér) \n	今天我有空儿，所以我听了音乐。
+##831## Es un sustantivo coloquial (muy característico del habla del norte de China por su sonido final "r") que significa principalmente "tiempo libre" o "un rato libre". También puede referirse a un "espacio vacío" o un "hueco" físico.	空儿 (kòng ér) \n 今天我有空儿，所以我听了音乐。
 
 ##832## Aire / Atmósfera. \n Matiz: El gas que respiramos o el "clima" social de un lugar.	空气 (kōng qì)
 
@@ -1610,7 +1610,7 @@
 
 ##841## Feliz / Alegre. \n Alegría general o felicitaciones. \n Uso: Desear felicidades (cumpleaños, año nuevo).	快乐 (kuài lè) \n 祝你生日快乐！- ¡Feliz cumpleaños!
 
-##842## rápido / veloz (más formal, descriptivo). \n Matiz: Es más formal y escrito. \n Se usa principalmente antes de sustantivos o como adverbio	快速 (kuài sù) \n	快速发展
+##842## rápido / veloz (más formal, descriptivo). \n Matiz: Es más formal y escrito. \n Se usa principalmente antes de sustantivos o como adverbio	快速 (kuài sù) \n 快速发展
 
 ##843## adv. Estar a punto de (2). \n Matiz: Cotidiano, descriptivo, se centra en la sensación de que el cambio o la acción está por ocurrir.	快要 (kuài yào - siempre va acompañado de 了 al final) \n 天快要下雨了 - Está a punto de llover. \n \n 就要 (jiù yào) \n 我们就要毕业了 - Estamos a punto de graduarnos.
 
@@ -1688,7 +1688,7 @@
 
 ##881## paréntesis (3)	括号 (kuò hào)
 
-##882## No llegar a tiempo \n Estructura: **了 \n \n Para indicar que no hay tiempo para una acción específica. \n Estructura: ** + Verbo / Frase. 	来不及 (lái bù jí). \n	估计来不及了，集合时间马上就到了。
+##882## No llegar a tiempo \n Estructura: **了 \n \n Para indicar que no hay tiempo para una acción específica. \n Estructura: ** + Verbo / Frase. 	来不及 (lái bù jí). \n 估计来不及了，集合时间马上就到了。
 
 ##883## s.color azul	蓝色 (lán sè)
 
@@ -1700,7 +1700,7 @@
 
 ##887## Es el carácter base. En el chino moderno, funciona principalmente como un sufijo de lugar. \n Se añade directamente después de un sustantivo para indicar que algo está "en" o "dentro de" ese lugar.	里 (lǐ)
 
-##888## (2) Estas son las formas completas de "dentro". Ambas son intercambiables en el 95% de los casos. \n "El lado de adentro".	里边 /	里面 (lǐ biān / lǐ miàn)
+##888## (2) Estas son las formas completas de "dentro". Ambas son intercambiables en el 95% de los casos. \n "El lado de adentro".	里边 / 里面 (lǐ biān / lǐ miàn)
 
 ##889## Es el opuesto de 外 (wài - fuera) en contextos formales, escritos o técnicos. \n No se usa solo en el habla diaria para decir "estoy adentro". Se usa en compuestos o anuncios oficiales.	内 (nèi) \n 请在三天内联系我。- Por favor, contáctame dentro de tres días.
 
@@ -1708,7 +1708,7 @@
 
 ##891## "Ambos lados", "las dos partes". \n Se refiere principalmente al espacio físico o a los extremos de algo. Se usa para hablar de los lados de una calle, un río, una mesa, o metafóricamente cuando alguien está "en medio" de dos opiniones.	两边 (liǎng biān)
 
-##892## Conectar / Incluso. \n Matiz: Unir partes o indicar énfasis extremo (estructura	连...都/也...).	连 (lián)
+##892## Conectar / Incluso.	连 (lián)
 
 ##893## Serie de televisión / Telenovela. \n Matiz: Programa de ficción emitido en capítulos.	连续剧 (lián xù jù)
 
@@ -1748,7 +1748,7 @@
 
 ##912## Fluido. \n Matiz: Hablar un idioma con soltura, rapidez y sin tropiezos.	流利 (liú lì)
 
-##913## Popular / De moda. \n Matiz: Algo que cuenta con la aceptación masiva en un periodo.	流行 (liú xíng) \n	这种裙子最近很流行，我也想去买一条。
+##913## Popular / De moda. \n Matiz: Algo que cuenta con la aceptación masiva en un periodo.	流行 (liú xíng) \n 这种裙子最近很流行，我也想去买一条。
 
 ##914## Quedar / Dejar atrás. \n Matiz: Permanecer atrás o dejar una huella, mensaje o recuerdo.	留下 (liú xià)
 
@@ -1864,7 +1864,7 @@
 
 ##971## s. gato	猫 (māo) \n 猫 (neko)
 
-##973## abajo. \n Se usa para indicar la posición relativa de un objeto respecto a otro (debajo de...). \n Es puramente espacial. También puedes escuchar	下面 (xià miàn), que es casi idéntico.	下边 (xià biān)
+##973## abajo. \n Se usa para indicar la posición relativa de un objeto respecto a otro (debajo de...). \n Es puramente espacial.	下边 (xià biān)
 
 ##974## Se usa para marcar un límite numérico, un rango o para referirse a lo que viene a continuación en un texto. \n Es el "menos de..." o "por debajo de..." en contextos formales o de datos.	以下 (yǐ xià)
 
@@ -1874,7 +1874,7 @@
 
 ##977## Está bien, no es nada. \n Mucho más informal (Típico del norte de China)	没事儿 (méi shì ér)
 
-##978## Comida deliciosa, gastronomía, manjar, "gourmet". \n Mientras que la palabra comida en general es	食物 (shí wù), esta palabra implica calidad y placer. No es simplemente algo que comes para no tener hambre; es algo que destaca por su sabor, presentación o tradición. Es el término que usarías en un blog de viajes o al recomendar un restaurante excelente.	美食 (měi shí)
+##978## Comida deliciosa, gastronomía, manjar, "gourmet". \n Mientras que la palabra comida en general es 食物 (shí wù), esta palabra implica calidad y placer. No es simplemente algo que comes para no tener hambre; es algo que destaca por su sabor, presentación o tradición. Es el término que usarías en un blog de viajes o al recomendar un restaurante excelente.	美食 (měi shí)
 
 ##979## "delante de", "frente a" o "en presencia de". \n Se refiere estrictamente al espacio físico o a la presencia de alguien. Es lo que tienes justo delante de tus ojos (de tu "cara"). Se usa mucho para hablar de enfrentar problemas o de cómo te comportas ante una persona específica.	面前 (miàn qián)
 
@@ -2114,7 +2114,7 @@
 
 ##1099## Diez millones / Por favor. \n Matiz: En imperativos significa "bajo ningún concepto".	千万 (qiān wàn)
 
-##1100## Alrededor de / De principio a fin. \n Matiz: Tiempo aproximado o el orden espacial. \n marca dos puntos o un rango (antes/después o aproximadamente).	前后 (qián hòu) \n	我等了十分钟前后.
+##1100## Alrededor de / De principio a fin. \n Matiz: Tiempo aproximado o el orden espacial. \n marca dos puntos o un rango (antes/después o aproximadamente).	前后 (qián hòu) \n 我等了十分钟前后.
 
 ##1101## Hace dos años (el año antepasado).	前年 (qián nián)
 
@@ -2136,7 +2136,7 @@
 
 ##1110## Ligero / Leve. \n Matiz: Poco peso físico o poca importancia/gravedad.	轻 (qīng)
 
-##1111## Relajado / Fácil. \n Matiz: Sin estrés o una tarea que no requiere esfuerzo.	轻松 (qīng sōng) \n	今天的考试很轻松。
+##1111## Relajado / Fácil. \n Matiz: Sin estrés o una tarea que no requiere esfuerzo.	轻松 (qīng sōng) \n 今天的考试很轻松。
 
 ##1112## Claro / Nítido. \n Matiz: Que se entiende bien o se ve con nitidez.	清楚 (qīng chu)
 
@@ -2238,9 +2238,9 @@
 
 ##1161## Periódico diario, informe diario. \n Úsalo exclusivamente cuando te refieres a un documento o a un medio de comunicación que se publica cada día.	日报 (rì bào)
 
-##1162## adj. cotidiano, del día a día. \n Úsalo para describir actividades, objetos o situaciones que forman parte de tu vida diaria. Casi siempre va seguido de la partícula	的 (de).	日常 (rì cháng)
+##1162## adj. cotidiano, del día a día. \n Úsalo para describir actividades, objetos o situaciones que forman parte de tu vida diaria. Casi siempre va seguido de la partícula 的 (de).	日常 (rì cháng)
 
-##1163## Paraguas	伞 (sǎn). \n	把 (bǎ) Es el clasificador para paraguas.
+##1163## Paraguas	伞 (sǎn). \n 把 (bǎ) Es el clasificador para paraguas.
 
 ##1164## Subir una montaña (más común para senderismo)	爬山 (pá shān)
 
@@ -2256,7 +2256,7 @@
 
 ##1170## Reconocer / Identificar. \n Matiz: Lograr identificar a alguien o algo ya visto anteriormente.	认出 (rèn chū)
 
-##1171## Reconocer. \n Matiz: Conocer o identificar algo/alguien por la vista (menos común que	认识).	认得 (rèn de)
+##1171## Reconocer. \n Matiz: Conocer o identificar algo/alguien por la vista (menos común que 认识).	认得 (rèn de)
 
 ##1172## Conocer / Reconocer. \n Matiz: Tener conocimiento de una persona o de caracteres chinos.	认识 (rèn shí)
 
@@ -2438,7 +2438,7 @@
 
 ##1263## Hablar. \n Tono neutral	说话 (shuō huà)
 
-##1264## Especial. \n Puede ser adjetivo o adverbio. Se usa para dar énfasis (como "muy" o "especialmente"). \n Cuando funciona como adverbio puede ser intercambiable con	尤其.	特别 (tè bié)
+##1264## Especial. \n Puede ser adjetivo o adverbio. Se usa para dar énfasis (como "muy" o "especialmente"). \n Cuando funciona como adverbio puede ser intercambiable con 尤其.	特别 (tè bié)
 
 ##1265## Cargar o levantar. \n Se usa cuando llevas algo que tiene un asa o que cuelga de tu mano. \n Mencionar o Sacar un tema \n Este es el uso más común en la vida diaria. Imagina que "levantas" un tema para que otros lo vean. \n Aumentar, Extraer o Promover \n Se usa para elevar un nivel o sacar algo de un lugar. \n Caracter simple	提 (tí)
 
@@ -2460,7 +2460,7 @@
 
 ##1274## "de repente", "repentinamente" o "inesperadamente".	突然 (tū rán)
 
-##1275## (2) afuera.	外边 /	外面(wài biān / wài miàn)
+##1275## (2) afuera.	外边 / 外面(wài biān / wài miàn)
 
 ##1276## Pregunta de examen / Problema. \n Matiz: Los ítems o consignas específicas de una evaluación.	试题 (shì tí)
 
@@ -2472,7 +2472,7 @@
 
 ##1280## ¿Es o no es? / ¿Verdad? Matiz: Usado al final para confirmar o como pregunta directa.	是不是 (shì bú sǐ)
 
-##1281## Si / Ya sea que. \n Matiz: Conector formal equivalente al "si o no" (ej.	是否参加).	是否 (shì fǒu)
+##1281## Si / Ya sea que. \n Matiz: Conector formal equivalente al "si o no".	是否 (shì fǒu)
 
 ##1282## Adaptarse / Venir bien. \n Matiz: Idoneidad abstracta (ej. este trabajo me va bien).	适合 (shì hé)
 
@@ -2574,7 +2574,7 @@
 
 ##1331## Cuatro.	四 (sì)
 
-##1332## Significa "ir a dejar", "entregar", "despedir" o "regalar". Es el movimiento opuesto a	接, ya que implica acompañar a una persona o llevar un objeto a su destino final para dejarlo allí (tú te regresas sin él), o entregarle algo a alguien de forma definitiva como un obsequio.	送 (sòng) \n 送孩子去学校 (sòng háizi qù xuéxiào - ir a dejar a los niños a la escuela)
+##1332## Significa "ir a dejar", "entregar", "despedir" o "regalar". Es el movimiento opuesto a 接, ya que implica acompañar a una persona o llevar un objeto a su destino final para dejarlo allí (tú te regresas sin él), o entregarle algo a alguien de forma definitiva como un obsequio.	送 (sòng) \n 送孩子去学校 (sòng háizi qù xuéxiào - ir a dejar a los niños a la escuela)
 
 ##1333## Regalar a / Dar a.	送给 (sòng gěi)
 
@@ -2722,7 +2722,7 @@
 
 ##1406## Idioma extranjero (hablado).	外语 (wài yǔ)
 
-##1407## Terminar / Acabar. \n Matiz: Suele actuar como complemento de resultado (ej.	吃完).	完 (wán)
+##1407## Terminar / Acabar. \n Matiz: Suele actuar como complemento de resultado.	完 (wán)
 
 ##1408## Completar / Lograr. \n Matiz: Finalizar exitosamente una tarea o misión.	完成 (wán chéng)
 
@@ -2778,7 +2778,7 @@
 
 ##1434## Clasificador respetuoso para personas.	位 (wèi)
 
-##1435## Sabor / Gusto / Aroma.	味道 (wèi dào). \n	有人说，友谊就像酒一样，时间越长，味道越好。 
+##1435## Sabor / Gusto / Aroma.	味道 (wèi dào). \n 有人说，友谊就像酒一样，时间越长，味道越好。 
 
 ##1436## Temperatura.	温度 (wēn dù)
 
@@ -2804,7 +2804,7 @@
 
 ##1448## Habitación / Cuarto / Casa.	屋子 (wū zi)
 
-##1449## No haber / Sin. \n Matiz: Negación formal (equivalente a	没有 en lenguaje escrito).	无 (wú)
+##1449## No haber / Sin. \n Matiz: Negación formal (equivalente a 没有 en lenguaje escrito).	无 (wú)
 
 ##1450## Incapaz / No hay manera de. \n Matiz: Falta de medios o posibilidad para algo.	无法 (wú fǎ)
 
@@ -2958,7 +2958,7 @@
 
 ##1526## Estado de ánimo / Humor. \n Matiz: Cómo se siente uno emocionalmente en un momento.	心情 (xīn qíng)
 
-##1527## En el corazón / En el interior. (Más literario o profundo que	心里).	心中 (xīn zhōng)
+##1527## En el corazón / En el interior. (Más literario o profundo que 心里).	心中 (xīn zhōng)
 
 ##1528## Noticias / Prensa. \n Matiz: Información de actualidad en medios de comunicación.	新闻 (xīn wén)
 
@@ -3032,7 +3032,7 @@
 
 ##1563## Humo / Cigarrillo / Tabaco \n Matiz: Sustantivo. Puede referirse al humo de un fuego, pero coloquialmente es "cigarrillo"	烟 (yān)
 
-##1564## Grave / Serio. \n Matiz: Situación peligrosa o de consecuencias negativas.	严重 (yán zhòng). \n	机会不会自己跑到你面前的，要严重点儿。
+##1564## Grave / Serio. \n Matiz: Situación peligrosa o de consecuencias negativas.	严重 (yán zhòng). \n 机会不会自己跑到你面前的，要严重点儿。
 
 ##1565## v./s. Investigar / Estudio / Investigación.	研究 (yán jiū)
 
@@ -3052,7 +3052,7 @@
 
 ##1573## Actuar / Representar / Desarrollar. (Raíz de actuación).	演 (yǎn)
 
-##1574## Cantar. \n Matiz: Acción de interpretar una canción (más formal que	唱歌).	演唱 (yǎn chàng)
+##1574## Cantar. \n Matiz: Acción de interpretar una canción (más formal que 唱歌).	演唱 (yǎn chàng)
 
 ##1575## Concierto / Recital.	演唱会 (yǎn chàng huì)
 
@@ -3078,7 +3078,7 @@
 
 ##1586## v./s. solicitar, pedir; requisito	要求 (yāo qiú)
 
-##1587## Si / En caso de que. \n Matiz: Forma más coloquial de decir	如果.	要是 (yào shì)
+##1587## Si / En caso de que. \n Matiz: Forma más coloquial de decir 如果.	要是 (yào shì)
 
 ##1588## También / Tampoco (si la oración es negativa).	也 (yě)
 
@@ -3096,9 +3096,9 @@
 
 ##1595## La mitad / Medio.	一半 (yí bàn)
 
-##1596## A un lado / Simultáneamente. \n Matiz: Se usa para dos acciones a la vez (ej.	一边吃一边看).	一边 (yī biān)
+##1596## A un lado / Simultáneamente. \n Matiz: Se usa para dos acciones a la vez.	一边 (yī biān)
 
-##1597## Un poquitín / Una pizca. (Más pequeño que	一点儿).	一点点 (yì diǎn diǎn)
+##1597## Un poquitín / Una pizca. (Más pequeño que 一点儿).	一点点 (yì diǎn diǎn)
 
 ##1598## Un poco / Algo. \n Matiz: Indica una cantidad pequeña.	一点儿 (yì diǎn ér)
 
@@ -3119,8 +3119,6 @@
 ##1606## Todo / Todas las cosas. \n Matiz: Carácter absoluto (ej. "lo he perdido todo").	一切 (yī qiè)
 
 ##1607## Toda la vida.	一生 (yī shēng)
-
-##1608## Un momento / Un poco. \n Matiz: Suaviza la orden de un verbo (ej.	看一下).	一下儿 (yī xià ér)
 
 ##1609## Algunos / Unos cuantos.	一些 (yī xiē)
 
@@ -3150,7 +3148,7 @@
 
 ##1622## Significado / Intención. \n Matiz: El concepto que algo comunica o lo que alguien quiere decir. 	意思 (yì si)
 
-##1623## Por lo tanto / Por eso. \n Matiz: Conector lógico que introduce una consecuencia. \n Es más formal que "所以 (suǒ yǐ)" \n Suena más lógico y estructurado, menos conversacional. \n Necesita venir justo después de la causa. 	因此 (yīn cǐ) \n	他生病了，因此没来上班。
+##1623## Por lo tanto / Por eso. \n Matiz: Conector lógico que introduce una consecuencia. \n Es más formal que "所以 (suǒ yǐ)" \n Suena más lógico y estructurado, menos conversacional. \n Necesita venir justo después de la causa. 	因此 (yīn cǐ) \n 他生病了，因此没来上班。
 
 ##1624## Porque. \n Matiz: Introduce la causa o razón de una situación. 	因为 (yīn wèi)
 
@@ -3186,7 +3184,7 @@
 
 ##1640## Influencia / Afectar. \n Matiz: Efecto que una cosa o persona ejerce sobre otra. 	影响 (yǐng xiǎng)
 
-##1641## Para siempre, Por siempre, eternamente. \n Matiz: Indica una duración perpetua o un tiempo infinito. \n Se usa mucho para hablar de: tiempo infinito, sentimientos, promesas, cosas que no cambian 	永远 (yǒng yuǎn). \n Estructura: Normalmente va antes del verbo:	主语 + 永远 + verbo/adjetivo. \n 我永远爱你。
+##1641## Para siempre, Por siempre, eternamente. \n Matiz: Indica una duración perpetua o un tiempo infinito. \n Se usa mucho para hablar de: tiempo infinito, sentimientos, promesas, cosas que no cambian 	永远 (yǒng yuǎn). \n Estructura: Normalmente va antes del verbo: 主语 + 永远 + verbo/adjetivo. \n 我永远爱你。
 
 ##1642## Valiente. \n Matiz: Adjetivo para alguien que no tiene miedo y actúa con decisión. 	勇敢 (yǒng gǎn)
 
@@ -3558,7 +3556,7 @@
 
 ##1827## Reloj / campana. \n Matiz: Marca el tiempo.	钟 (zhōng)
 
-##1828## Funciona principalmente como un clasificador (palabra de medida) que significa "tipo" o "clase", y siempre debe ir atrapado entre un número/demostrativo y un sustantivo.	种 (zhǒng) \n	两种水果 (liǎng zhǒng shuǐguǒ - dos tipos de frutas)
+##1828## Funciona principalmente como un clasificador (palabra de medida) que significa "tipo" o "clase", y siempre debe ir atrapado entre un número/demostrativo y un sustantivo.	种 (zhǒng) \n 两种水果 (liǎng zhǒng shuǐguǒ - dos tipos de frutas)
 
 ##1829## v. plantar	种 (zhòng)
 
@@ -3679,11 +3677,11 @@
 
 ##1886## Soñar. \n Matiz: Tener sueños.	做梦 (zuò mèng)
 
-##1887## humor, Inteligente, ingenioso, sutil. \n Es una cualidad de la personalidad.	幽默 (yōu mò) \n	你真幽默！
+##1887## humor, Inteligente, ingenioso, sutil. \n Es una cualidad de la personalidad.	幽默 (yōu mò) \n 你真幽默！
 
 ##1888## v. abandonar, rendirse	放弃 (fàng qì)
 
-##1889## Especialmente / Sobre todo. \n es estrictamente un adverbio. Se utiliza para resaltar un elemento específico dentro de un grupo o una situación general que acabas de mencionar.	尤其 (yóu qí). \n Casi siempre lo verás acompañado de	是 (shì) formando 尤其是 (yóu qí shì).
+##1889## Especialmente / Sobre todo. \n es estrictamente un adverbio. Se utiliza para resaltar un elemento específico dentro de un grupo o una situación general que acabas de mencionar.	尤其 (yóu qí). \n Casi siempre lo verás acompañado de 是 (shì) formando 尤其是 (yóu qí shì).
 
 ##1890## s. amistad	友谊 (yǒu yì)
 
@@ -3691,7 +3689,7 @@
 
 ##1892## estimar, calcular. \n Matiz: Hacer una estimación basada en lo que crees (no 100% seguro)	估计 (gū jì)
 
-##1893## maestría / grado de máster. \n Matiz: Es un título académico	硕士 (shuò shì) \n	我在读硕士。
+##1893## maestría / grado de máster. \n Matiz: Es un título académico	硕士 (shuò shì) \n 我在读硕士。
 
 ##1894## Doctorado. \n Matiz: Es un título académico	博士 (bó shì)
 
@@ -3705,7 +3703,7 @@
 
 ##1899## v. deshacerse de malos hábitos	改掉 (gǎi diào)
 
-##1900## prep. dentro. \n Expresión formal que indica que algo ocurre dentro de un límite de tiempo, espacio o capacidad.	之内 (zhī nèi) \n	三天之内完成任务。
+##1900## prep. dentro. \n Expresión formal que indica que algo ocurre dentro de un límite de tiempo, espacio o capacidad.	之内 (zhī nèi) \n 三天之内完成任务。
 
 ##1901## conj. y, sin embargo, pero. \n Sirve para conectar ideas (a veces con contraste). \n no siempre se traduce literalmente, muchas veces solo conecta ideas.	而 (ér)
 
