@@ -488,7 +488,7 @@
 
 ##263## Abrigo. \n Matiz: Prenda de vestir larga para el frío.	大衣 (dà yī)
 
-##264## Naturaleza. \n Matiz: El mundo natural.	大自然 (dà zì rán)
+##264## s. Naturaleza.	大自然 (dà zì rán)
 
 ##265## Delegación. \n Matiz: Grupo de personas que representan a una entidad.	代表团 (dài biǎo tuán)
 
@@ -1136,7 +1136,7 @@
 
 ##597## s. Color rojo	红色 (hóng sè)
 
-##598## de repente. \n Es solo adverbio. \n Es más suave. Se usa para cambios de percepción o pensamientos que llegan a la mente sin previo aviso.	忽然 (hū rán)
+##598## de repente. \n Es solo adverbio. \n Es exclusivamente un adverbio. Su único trabajo es ir antes de un verbo para indicar que la acción ocurrió de forma rápida. Nunca puede usarse para describir un sustantivo ni puede ir acompañado de palabras de intensidad como 很 (muy) o 太 (demasiado).	忽然 (hū rán)
 
 ##599## Sobre rojo / Regalo monetario. \n Matiz: Regalo de dinero en un sobre rojo, tradicional en bodas o Año Nuevo Chino.	红包 (hóng bāo)
 
@@ -1266,7 +1266,7 @@
 
 ##665## Estación del año. \n Matiz: Se refiere a las cuatro estaciones climáticas (primavera, verano, etc.).	季节 (jì jié)
 
-##666## Ya que / Tanto... (como). \n Matiz: Conector formal; a menudo en la estructura "既...又..." (tanto A como B).	既 (jì)
+##666## Tanto... (como). \n Matiz: Conector formal; a menudo en la estructura "__...又..." (tanto A como B).	既 (jì)
 
 ##667## Ya que / Puesto que. \n Matiz: Introduce una premisa lógica basada en un hecho ya aceptado.	既然 (jì rán)
 
@@ -1468,7 +1468,7 @@
 
 ##770## Policía. \n Matiz: Agente encargado de mantener el orden y la ley.	警察 (jǐng chá)
 
-##771## Inesperadamente. \n Enfoque: Expresa sorpresa, incredulidad, asombro o indignación porque un hecho va totalmente en contra de la lógica o de lo que esperabas. No tiene relación con la velocidad, sino con el impacto que el evento causa en tu mente.	竟然 (jìng rán)
+##771## Inesperadamente. \n Enfoque: Expresa sorpresa, incredulidad, asombro o indignación porque un hecho va totalmente en contra de la lógica o de lo que esperabas. No tiene relación con la velocidad, sino con el impacto que el evento causa en tu mente. \n Gramática: Funciona exclusivamente como adverbio y siempre se coloca antes del verbo o predicado.	竟然 (jìng rán)
 
 ##772## Espejo.	镜子 (jìng zi)
 
@@ -1531,8 +1531,6 @@
 ##801## (2) Ver / Divisar. \n Se enfoca en el resultado	看见 (kàn jiàn) / 看到 (kàn dào)
 
 ##802## Por lo visto / Al parecer. \n Matiz: Conclusión lógica basada en lo que se observa.	看来 (kàn lái)
-
-##803## Parecer / A juzgar por. \n Matiz: Se usa para dar una opinión sobre la apariencia de algo.	看起来 (kàn qǐ lái)
 
 ##804## Parecer visualmente. \n Matiz: Muy similar a 看起来, centrado en la impresión óptica.	看上去 (kàn shàng qù)
 
@@ -2092,7 +2090,7 @@
 
 ##1089## Despegar. \n Matiz: Inicio del vuelo de un avión.	起飞 (qǐ fēi)
 
-##1090## Levantarse / Matiz de inicio. \n Matiz: Indica que una acción comienza o cambia.	起来 (qǐ lái)
+##1090## 1. Movimiento literal (De abajo hacia arriba): Este es el uso más básico y se utiliza después de un verbo de acción para indicar que algo o alguien se mueve físicamente hacia arriba. \n 2. El inicio de una acción o estado ("Empezar a..."): Este uso figurado indica que una acción, un estado o un sentimiento ha comenzado y parece que va a continuar. \n 3. Evaluación desde los sentidos ("Al verlo/escucharlo, parece..."): Se combina con verbos relacionados con los sentidos (como ver, escuchar, probar o sentir) para dar tu opinión o evaluación sobre algo. \n 4. Agrupar, juntar o esconder cosas: Sirve para expresar que las cosas se están juntando, ordenando o guardando para que no estén dispersas.	起来 (qǐ lái) \n 1. 站起来 - Ponerse de pie. \n 2. 天气热起来了。 - El clima está empezando a ponerse caluroso. \n 3. 这个菜看起来很好吃。 - Este plato se ve delicioso. \n 4. 把你的手机收起来。 - Guarda tu teléfono.
 
 ##1091## Aire / Gas / Enfado. \n Matiz: Sustancia gaseosa o el sentimiento de rabia.	气 (qì)
 
