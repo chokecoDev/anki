@@ -2198,13 +2198,11 @@
 
 ##1143## Carecer de / Faltar. \n Matiz: No tener la cantidad suficiente de algo.	缺少 (quē shǎo)
 
-##1144## Pero / Sin embargo. \n Matiz: Conector de contraste que suele ir tras el sujeto.	却 (què)
+##1144## (3) Pero / Sin embargo. \n 1. Contraste suave. \n 2. Contraste fuerte. \n 3. Adv. Después del sujeto, antes del verbo. 	而 (ér) / 然而 (rán ér) / 却 (què) \n 1. 北方人喜欢吃面，而南方喜欢吃米饭。\n 2. 这个计划听起来不错，然而。。。 \n 3. 她很努力，成绩却不好。
 
 ##1145## Realmente / De veras. \n Matiz: Adverbio para enfatizar la veracidad.	确实 (què shí)
 
 ##1146## Falda / Vestido.	裙子 (qún zi)
-
-##1147## Sin embargo / No obstante. \n Matiz: Conector literario y formal de contraste.	然而 (rán ér)
 
 ##1148## Luego / Después. \n Matiz: Indica el siguiente paso en una secuencia.	然后 (rán hòu)
 
@@ -3700,8 +3698,6 @@
 ##1899## v. deshacerse de malos hábitos	改掉 (gǎi diào)
 
 ##1900## prep. dentro. \n Expresión formal que indica que algo ocurre dentro de un límite de tiempo, espacio o capacidad.	之内 (zhī nèi) \n 三天之内完成任务。
-
-##1901## conj. y, sin embargo, pero. \n Sirve para conectar ideas (a veces con contraste). \n no siempre se traduce literalmente, muchas veces solo conecta ideas.	而 (ér)
 
 ##1902## el primer lugar / el número uno	第一名 (dì yī míng)
 
