@@ -1644,8 +1644,6 @@
 
 ##859## Vejez / Ancianos. \n Matiz: La etapa de la vida avanzada o las personas en ella.	老年 (lǎo nián)
 
-##860## Viejo amigo. \n Matiz: Amistad que perdura desde hace mucho tiempo.	老朋友 (lǎo péng yǒu)
-
 ##861## Anciano / Persona mayor. \n Matiz: Referencia respetuosa a alguien de edad avanzada.	老人 (lǎo rén)
 
 ##862## Profesor / Maestro. \n Matiz: Título de respeto para quien enseña.	老师 (lǎo shī)
@@ -2022,8 +2020,6 @@
 
 ##1054## adv. normalmente. \n Es una palabra de tiempo. Se refiere a lo que haces habitualmente en contraste con momentos especiales (como fines de semana, vacaciones o emergencias). Se enfoca en la frecuencia y la rutina personal.	平时 (píng shí)
 
-##1055## Curso de capacitación / Taller. \n Matiz: Clase grupal para aprender una habilidad específica.	培训班 (péi xùn bān)
-
 ##1056## Amigo.	朋友 (péng yǒu)
 
 ##1057## Tropezar con / Encontrarse con. \n Matiz: Encontrar a alguien o algo por casualidad.	碰到 (pèng dào)
@@ -2229,8 +2225,6 @@
 ##1159## Acordarse de, venir a la mente, recordar de repente. \n Indica el resultado de una búsqueda mental. Es ese momento "Eureka" cuando algo que habías olvidado vuelve a tu memoria.	想起 (xiǎng qǐ)
 
 ##1160## Creer (erróneamente), pensar (y estar equivocado). \n ¡Cuidado aquí! Se usa exclusivamente cuando pensabas algo que resultó ser falso. En español equivale a: "Yo pensaba que... (pero resulta que no)".	以为 (yǐ wéi)
-
-##1161## Periódico diario, informe diario. \n Úsalo exclusivamente cuando te refieres a un documento o a un medio de comunicación que se publica cada día.	日报 (rì bào)
 
 ##1162## adj. cotidiano, del día a día. \n Úsalo para describir actividades, objetos o situaciones que forman parte de tu vida diaria. Casi siempre va seguido de la partícula 的 (de).	日常 (rì cháng)
 
@@ -2854,7 +2848,7 @@
 
 ##1477## Abajo / Debajo / Siguiente parte.	下面 (xià miàn)
 
-##1478## Bajar / Continuar. \n Matiz: Movimiento hacia abajo o seguir haciendo algo.	下去 (xià qù)
+##1478## Bajar. \n Matiz: Movimiento hacia abajo o seguir haciendo algo.	下去 (xià qù)
 
 ##1479## Tarde / Por la tarde.	下午 (xià wǔ)
 
@@ -3677,8 +3671,6 @@
 
 ##1889## Especialmente / Sobre todo. \n es estrictamente un adverbio. Se utiliza para resaltar un elemento específico dentro de un grupo o una situación general que acabas de mencionar.	尤其 (yóu qí). \n Casi siempre lo verás acompañado de 是 (shì) formando 尤其是 (yóu qí shì).
 
-##1890## s. amistad	友谊 (yǒu yì)
-
 ##1891## fr. soplar (viento)	刮风 (guā fēng)
 
 ##1892## estimar, calcular. \n Matiz: Hacer una estimación basada en lo que crees (no 100% seguro)	估计 (gū jì)
@@ -4109,7 +4101,7 @@
 
 ##2112## Divertirse / visitar / pasear. \n Matiz: Pasar tiempo agradable visitando lugares o realizando actividades recreativas.	游玩 (yóu wán)
 
-##2113## Amistad. \n Matiz: Relación afectiva y de confianza entre amigos.	友情 (yǒu qíng)
+##2113## (2) Amistad. \n Casual / Formal	友情 (yǒu qíng) / 友谊 (yǒu yì)
 
 ##2114## Tener / poseer. \n Matiz: Expresa que alguien o algo posee o presenta determinada característica; suele tener un tono más formal.	有着 (yǒu zhe)
 
