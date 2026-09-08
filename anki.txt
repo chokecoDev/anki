@@ -1666,7 +1666,7 @@
 
 ##872## Cortarse el pelo / Peluquería.	理发 (lǐ fà)
 
-##873## Comprender. \n Matiz: Entendimiento racional, empático o de conceptos profundos.	理解 (lǐ jiě)
+##873## Comprender. \n Matiz: Entendimiento racional, empático o de conceptos profundos.	理解 (lǐ jiě) \n 我理解你的意思。- Entiendo lo que quieres decir.
 
 ##874## Ideal / Sueño. \n Matiz: Meta perfecta a la que se aspira o visión optimista del futuro.	理想 (lǐ xiǎng)
 
@@ -3779,7 +3779,7 @@
 
 ##1947## Inscribirse para un examen / Postular (a una universidad o puesto mediante examen). \n Matiz: Registrarse específicamente para rendir una prueba.	报考 (bào kǎo) \n 我想报考北京大学。 - Quiero postular (inscribirme al examen de admisión) a la Universidad de Pekín.
 
-##1948## Lo siento / Disculparse / Sentir pena o arrepentimiento. \n Matiz: Más formal y expresivo que 对不起; demuestra mucha cortesía.	抱歉 (bào qiàn) \n 非常 抱歉，我来晚了。- Lo siento muchísimo, he llegado tarde.
+##1948## Lo siento / Disculparse / Sentir pena o arrepentimiento. \n Matiz: Más formal y expresivo que 对不起; demuestra mucha cortesía.	抱歉 (bào qiàn) \n 非常抱歉，我来晚了。- Lo siento muchísimo, he llegado tarde.
 
 ##1949## Mochila \n Es el término general para cualquier tipo de mochila. Se usa para mochilas de senderismo, mochilas de viaje, o mochilas casuales para salir a pasear. No está relacionada con el estudio.	背包 (bēi bāo)
 
