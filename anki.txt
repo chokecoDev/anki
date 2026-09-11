@@ -512,7 +512,7 @@
 
 ##275## Solo si / Únicamente hay. \n Matiz: Indica una condición única necesaria.	只有 (zhǐ yǒu)
 
-##276## Unidad / Centro de trabajo. \n Matiz: Se refiere a la empresa o institución donde uno trabaja.	单位 (dān wèi)
+##276## Lugar de trabajo / Empresa / Entidad / Institución (Matiz: Centro laboral o administrativo donde uno trabaja)	单位 (dān wèi) \n 你在哪个单位工作？- ¿En qué empresa / entidad / centro laboral trabajas?
 
 ##277## Preocuparse. \n Matiz: Estar inquieto por algo (lit. "colgar el corazón").	担心 (dān xīn)
 
@@ -1400,7 +1400,7 @@
 
 ##736## A continuación. \n Matiz: Conector para indicar lo que sigue en una secuencia o discurso.	接下来 (jiē xià lái)
 
-##737## Seguidamente / Después. \n Matiz: Indica que una acción ocurre inmediatamente después de otra.	接着 (jiē zhe)
+##737## Seguidamente. \n Matiz: Indica que una acción ocurre inmediatamente después de otra.	接着 (jiē zhe)
 
 ##738## Calle. \n Matiz: Vía pública en una ciudad. \n Caracter simple.	街 (jiē)
 
@@ -3416,7 +3416,7 @@
 
 ##1763## Es la palabra común y respetuosa para "médico" o "doctor"	医生 (yī shēng)
 
-##1764## Antes. \n En español tiene dos funciones principales según dónde se coloque: \n "Antes": Como un adverbio de tiempo general (hace tiempo). \n "Antes de...": Como una preposición para marcar que algo sucede antes que otra cosa.	以前 (yǐ qián)
+##1764## Antes. \n En español tiene dos funciones principales según dónde se coloque: \n "Antes": Como un adverbio de tiempo general (hace tiempo). \n "Antes de...": Como una preposición para marcar que algo sucede antes que otra cosa.	以前 (yǐ qián) / 之前 (zhī qián)
 
 ##1765## Juegos deportivos, olimpiadas escolares	运动会 (yùn dòng huì)
 
@@ -3429,8 +3429,6 @@
 ##1769## Gran Muralla	长城 (cháng chéng)
 
 ##1770## v./s. competir; competencia. \n Se refiere a la rivalidad entre personas, empresas o grupos para conseguir una ventaja, un puesto, clientes, etc.	竞争 (jìng zhēng)
-
-##1771## Antes. \n suena un poco más formal o específico para secuencias de eventos en el trabajo o textos escritos.	之前 (zhī qián)
 
 ##1772## v. Saber	知道 (zhī dào)
 
