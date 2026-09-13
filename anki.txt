@@ -1174,7 +1174,7 @@
 
 ##618## Responder / Réplica. \n Matiz: Responder formalmente a un mensaje, correo o carta.	回复 (huí fù)
 
-##619## Regresar al país. \n Matiz: Volver al país de origen desde el extranjero.	回国 (huó guó)
+##619## Regresar al país. \n Matiz: Volver al país de origen desde el extranjero.	回国 (huí guó)
 
 ##620## Regresar a casa.	回家 (huí jiā)
 
@@ -2886,7 +2886,7 @@
 
 ##1497## Idea o pensamiento en la cabeza. \n Más abstracto, lo que alguien tiene en mente.	想法 (xiǎng fǎ)
 
-##1498## Clasificador para tareas, proyectos o términos de un contrato.	项 (xiàng)
+##1498## Clasificador para tareas, proyectos o términos de un contrato.	项 (xiàng) \n 一项活动 - Una actividad (evento).
 
 ##1499## Parecerse / Como / Imagen. \n Matiz: Similitud física o uso como preposición comparativa.	像 (xiàng)
 
@@ -3596,7 +3596,7 @@
 
 ##1855## Diccionario. \n Matiz: Libro de palabras.	字典 (zì diǎn)
 
-##1856## Desde / uno mismo. \n Matiz: Indica origen o reflexivo.	自 (zì)
+##1856## (Preposición) Desde / uno mismo. \n Matiz: Indica origen o reflexivo.	自 (zì)
 
 ##1857## Uno mismo. \n Matiz: Pronombre reflexivo.	自己 (zì jǐ)
 
