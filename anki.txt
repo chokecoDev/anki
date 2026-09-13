@@ -2578,7 +2578,7 @@
 
 ##1339## fr. error de cálculo, equivocarse al calcular	算错 (suàn cuò)
 
-##1340## Aunque / Si bien. Conector concesivo.	虽然 (suī rán)
+##1340## Aunque / Si bien. Conector concesivo. \n se utilizan para introducir un hecho real u objetivo que ya existe o se ha cumplido, donde la segunda parte de la oración muestra un contraste que no cambia ese resultado.	虽然 (suī rán) / 尽管 (jǐn guǎn)
 
 ##1341## Informal / Casual / Como quieras. \n Matiz: Puede ser relajado o denotar falta de interés.	随便 (suí biàn)
 
@@ -3681,7 +3681,7 @@
 
 ##1897## v. arrepentirse	后悔 (hòu huǐ)
 
-##1898## conj./ gr. "aunque...", "incluso si..." o "por más que...". \n Sirve para hacer una suposición concedida: planteas una condición extrema o un escenario hipotético en la primera parte, pero enfatizas que el resultado (en la segunda parte) no va a cambiar.	就算..., 也... (jiù suàn ..., yě....) \n Estructura: 就算 + [Condición hipotética / Caso extremo] + ， + Sujeto + 也 + [Resultado que no cambia] \n 就算下雨，我也要去。- Aunque llueva (incluso si llueve), yo igual voy a ir.
+##1898## conj./ gr. "aunque...", "incluso si..." o "por más que...". \n Sirve para hacer una suposición concedida: planteas una condición extrema o un escenario hipotético en la primera parte, pero enfatizas que el resultado (en la segunda parte) no va a cambiar.	就算..., 也... (jiù suàn ..., yě....) / 即使 (jí shǐ) \n Estructura: 就算 + [Condición hipotética / Caso extremo] + ， + Sujeto + 也 + [Resultado que no cambia] \n 就算下雨，我也要去。- Aunque llueva (incluso si llueve), yo igual voy a ir.
 
 ##1899## v. deshacerse de malos hábitos	改掉 (gǎi diào)
 
@@ -3885,8 +3885,6 @@
 
 ##2007## Animado / vivaz. \n Matiz: Persona con mucha energía, alegre y activa.	活泼 (huó pō)
 
-##2008## Incluso si / aunque. \n Matiz: Introduce una condición que no cambia el resultado.	即使 (jí shǐ)
-
 ##2009## Añadir / sumar. \n Matiz: Incorporar algo a una cantidad o conjunto.	加上 (jiā shàng)
 
 ##2010## Día festivo / vacaciones. \n Matiz: Día en que normalmente no se trabaja o estudia.	假日 (jià rì)
@@ -3904,8 +3902,6 @@
 ##2016## Días festivos y vacaciones. \n Matiz: Término que engloba días festivos y períodos oficiales de descanso.	节假日 (jié jià rì)
 
 ##2017## Pagar la cuenta. \n Matiz: Realizar el pago de una comida, compra o servicio.	结账 (jié zhàng)
-
-##2018## Aunque / a pesar de que. \n Matiz: Introduce una situación que no impide que ocurra otra cosa.	尽管 (jǐn guǎn)
 
 ##2019## Lugar turístico / atracción turística. \n Matiz: Lugar específico que las personas visitan por interés turístico.	景点 (jǐng diǎn)
 
