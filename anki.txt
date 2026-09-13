@@ -3248,7 +3248,7 @@
 
 ##1680## Yuan / Unidad. \n Matiz: Moneda básica de China o clasificador de piezas. 	元 (yuán)
 
-##1681## Miembro / Empleado. \n Matiz: Persona que forma parte de una organización. 	员 (yuán)
+##1681## (sufijo) Miembro / Empleado. \n Matiz: Persona que forma parte de una organización. 	员 (yuán)
 
 ##1682## Causa / Razón. \n Matiz: El motivo por el cual ocurre algo. 	原因 (yuán yīn)
 
