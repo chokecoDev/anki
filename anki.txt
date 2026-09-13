@@ -2688,8 +2688,6 @@
 
 ##1395## Biblioteca.	图书馆 (tú shū guǎn)
 
-##1396## En el camino / Durante el trayecto.	途中 (tú zhōng)
-
 ##1397## Tierra / Suelo / Local / Tosco. \n Matiz: Material del suelo o algo poco refinado.	土 (tǔ)
 
 ##1398## Retrasar / Posponer. \n Matiz: Pasar una fecha programada a un momento posterior.	推迟 (tuī chí)
