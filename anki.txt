@@ -430,7 +430,7 @@
 
 ##233## Error / Equivocación. \n Matiz: Sustantivo más formal para referirse a un fallo.	错误 (cuò wù)
 
-##234## Alcanzar. \n Matiz: Llegar a un nivel, meta o estándar esperado.	达到 (dá dào)
+##234## Alcanzar [To reach, to achive]. \n Matiz: Llegar a un nivel, meta o estándar esperado.	达到 (dá dào)
 
 ##235## Respuesta. \n Matiz: La solución específica a una pregunta o problema.	答案 (dá àn)
 
@@ -1858,9 +1858,9 @@
 
 ##971## s. gato	猫 (māo) \n 猫 (neko)
 
-##973## abajo. \n Se usa para indicar la posición relativa de un objeto respecto a otro (debajo de...). \n Es puramente espacial.	下边 (xià biān)
+##973## (2) abajo. \n Se usa para indicar la posición relativa de un objeto respecto a otro (debajo de...). \n Es puramente espacial.	下边 (xià biān) / 下面 (xià miàn)
 
-##974## Se usa para marcar un límite numérico, un rango o para referirse a lo que viene a continuación en un texto. \n Es el "menos de..." o "por debajo de..." en contextos formales o de datos.	以下 (yǐ xià)
+##974## Se usa para marcar un límite numérico, un rango o para referirse a lo que viene a continuación en un texto. \n Es el "menos de..." o "por debajo de..." en contextos formales o de datos.	以下 (yǐ xià) \n 请看以下的内容。 - Por favor miren el contenido a continuación (lo siguiente). \n 18岁以下不能进去。 - Los menores de 18 años (de 18 años hacia abajo) no pueden entrar.
 
 ##975## Está bien, no hay problema. \n Respuesta estándar / formal a una disculpa	没关系 (méi guān xì)
 
@@ -2843,8 +2843,6 @@
 ##1474## Terminar la clase.	下课 (xià kè)
 
 ##1475## Bajar / Venir abajo. \n Matiz: Movimiento descendente hacia el hablante.	下来 (xià lái)
-
-##1477## Abajo / Debajo / Siguiente parte.	下面 (xià miàn)
 
 ##1478## Bajar. \n Matiz: Movimiento hacia abajo o seguir haciendo algo.	下去 (xià qù)
 
