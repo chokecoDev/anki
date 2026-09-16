@@ -296,7 +296,7 @@
 
 ##159## "De lo contrario", "si no". \n Es el hermano formal de 不然. Se encuentra mucho más en textos escritos, noticias, correos electrónicos o discursos oficiales.	否则 (fǒu zé)
 
-##160## "Al contrario", "por el contrario". \n No indica una consecuencia negativa (como los anteriores), sino que introduce una situación que es el reverso de lo que se acaba de decir.	相反 (xiāng fǎn)
+##160## "Al contrario", "por el contrario". \n No indica una consecuencia negativa (como los anteriores), sino que introduce una situación que es el reverso de lo que se acaba de decir.	相反 (xiāng fǎn) \n 很多人觉得 Linux 很难，相反，我觉得它很合乎逻辑。- Mucha gente piensa que Linux es muy difícil; al contrario, yo creo que es muy lógico.
 
 ##161## Es la palabra básica para "tomar" o "agarrar" con las manos. \n Se usa exclusivamente para objetos físicos que puedes sostener.	拿 (ná)
 
@@ -309,8 +309,6 @@
 ##165## Té. \n Matiz: La bebida en general.	茶 (chá)
 
 ##166## Hojas de té. \n Matiz: Se refiere específicamente a la materia seca antes de infusionar.	茶叶 (chá yè)
-
-##167## Malo / Faltar. \n Matiz: Puede significar que algo es de mala calidad o que falta tiempo/cantidad para completar algo.	差不多 (chà bu duō)
 
 ##168## Producir / Surgir. \n Matiz: Suele referirse a la aparición de cosas abstractas como una idea, un efecto o un sentimiento.	产生 (chǎn shēng)
 
@@ -432,7 +430,7 @@
 
 ##234## Alcanzar [To reach, to achive]. \n Matiz: Llegar a un nivel, meta o estándar esperado.	达到 (dá dào)
 
-##235## Respuesta. \n Matiz: La solución específica a una pregunta o problema.	答案 (dá àn)
+##235## Respuesta (sólo funciona como sustantivo). \n Matiz: La solución específica a una pregunta o problema.	答案 (dá àn)
 
 ##236## Acceder / Prometer. \n Matiz: Responder afirmativamente a una petición.	答应 (dā yìng)
 
@@ -456,15 +454,11 @@
 
 ##246## v. Imprimir.	打印 (dǎ yìn)
 
-##247## Descuento. \n Matiz: ¡Cuidado! En chino se dice cuánto pagas (8折 significa que pagas el 80%, o sea, 20% de descuento).	打折 (dǎ zhé)
+##247## Descuento. \n Matiz: ¡Cuidado! En chino se dice cuánto pagas (8* significa que pagas el 80%, o sea, 20% de descuento).	打折 (dǎ zhé)
 
 ##248## Poner una inyección.	打针 (dǎ zhēn)
 
-##249## Autobús / Bus. \n Matiz: Vehículo grande para transporte de pasajeros.	大巴 (dà bā)
-
-##250## La mayoría. \n Matiz: La parte más grande de un todo.	大部分 (dà bù fèn)
-
-##251## La gran mayoría. \n Matiz: Enfocado en la cantidad o número de personas/cosas.	大多数 (dà duō shù)
+##249## (3) Autobús / Bus. \n Matiz: Vehículo grande para transporte de pasajeros.	大巴 (dà bā) / 公共汽车(gōng gòng qì chē) /	公交车 (gōng jiāo chē)
 
 ##252## Doctor. \n Matiz: Término tradicional para médico, común en el habla oral del norte.	大夫 (dà fū)
 
@@ -478,37 +472,23 @@
 
 ##257## Tamaño. \n Matiz: Concepto abstracto de dimensión (lit. "grande-pequeño").	大小 (dà xiǎo) \n 这件衣服的大小正合适。- El tamaño/talla de esta ropa es justo el adecuado.
 
-##258## A gran escala. \n Matiz: Algo masivo o muy extendido.	大规模 (dà guī mó)
+##260## Gran cantidad. \n Matiz: Volumen masivo de algo.	大量 (dà liàng) \n 公园里有大量的游客。- Hay una gran cantidad de visitantes (turistas) en el parque.
 
-##259## El mar. \n Matiz: Enfatiza la inmensidad del océano.	大海 (dà hǎi)
-
-##260## Gran cantidad. \n Matiz: Volumen masivo de algo.	大量 (dà liàng)
-
-##262## s.(China) continental 	大陆 (dà lù)
-
-##263## Abrigo. \n Matiz: Prenda de vestir larga para el frío.	大衣 (dà yī)
+##263## Abrigo. \n Matiz: Prenda de vestir larga para el frío.	大衣 (dà yī) / 外套 (wài tào)
 
 ##264## s. Naturaleza.	大自然 (dà zì rán)
-
-##265## Delegación. \n Matiz: Grupo de personas que representan a una entidad.	代表团 (dài biǎo tuán)
 
 ##266## Es el verbo que usas para "llevar", "traer" o "portar". Se utiliza cuando tú tienes la posesión física de un objeto o cuando guías a una persona, de modo que ese objeto o persona viaja contigo de un lugar a otro como si fueran una misma unidad.	带 (dài) \n 记得带伞 (jìde dài sǎn - recuerda llevar paraguas)
 
 ##267## Traer. \n Matiz: Traer algo hacia la posición del hablante.	带来 (dài lái)
 
-##268## Bolsa / Saco. \n Matiz: Recipiente flexible; también funciona como clasificador.	袋 (dài)
-
 ##269## Ponerse / Usar. \n Matiz: Solo para accesorios (gorros, gafas, relojes, anillos). Para ropa se usa 穿 (chuān).	戴 (dài)
 
-##270## Solo / Únicamente. \n Matiz: Muy formal y escrito.	仅 (jǐn)
+##270## (2) Solo / Únicamente. \n Matiz: Muy formal y escrito.	仅 (jǐn) / 仅仅 (jǐn jǐn) \n 他仅仅用了三天就完成了这个工作。- Él completó este trabajo en tan solo tres días.
 
-##271## Solamente. \n Matiz: Enfatiza que la cantidad es muy pequeña.	仅仅 (jǐn jǐn)
-
-##272## Solo. \n Matiz: La forma más común de decir "solamente".	只 (zhǐ)
+##272## (2) Solo. \n Matiz: La forma más común de decir "solamente".	只 (zhǐ) / 只是 (zhǐ shì - Conector "solo que")
 
 ##273## Solo poder. \n Matiz: Indica que no hay otra opción.	只能 (zhǐ néng)
-
-##274## Solo que / Simplemente. \n Matiz: A menudo se usa para matizar o suavizar una frase.	只是 (zhǐ shì)
 
 ##275## Solo si / Únicamente hay. \n Matiz: Indica una condición única necesaria.	只有 (zhǐ yǒu)
 
@@ -520,17 +500,15 @@
 
 ##279## inmediatamente. \n Coloquial/Diario. \n Literalmente "sobre el caballo". Es el más común, pero ¡ojo!, puede implicar un pequeño retraso (como nuestro "ahorita").	马上 (mǎ shàng)
 
-##280## Aproximadamente, probablemente, "a grandes rasgos". \n Es la palabra más objetiva y lógica. Se basa en hechos o cálculos. Tiene una probabilidad alta (un 70-80%).	大概 (dà gài). \n 准确数字我不太清楚，大概有三四千吧。
+##280## Aproximadamente, probablemente, "a grandes rasgos". \n Es la palabra más objetiva y lógica. Se basa en hechos o cálculos. Tiene una probabilidad alta (un 70-80%). ANTES del número/cantidad	大概 (dà gài) / 大约 (dà yuē). \n 大概五个人 = 大约五个人 (Aproximadamente 5 personas).
 
 ##281## Quizás, tal vez.\n Es el término más estándar y neutro. Indica una posibilidad media (50%). Se usa tanto en lenguaje hablado como escrito.	也许 (yě xǔ)
 
 ##282## Grande / Mucho (Énfasis)	大大 (dà dà)
 
-##283## Aproximadamente, alrededor de, unos/unas. \n Se usa antes de una cantidad o número. Es un poco más formal que el habla cotidiana extrema, pero muy común en noticias y descripciones precisas de imprecisión.	大约 (dà yuē)
-
 ##284## Sobre, acerca de, respecto a. \n Esta palabra NO es para números. Se usa para introducir un tema.	关于 (guān yú)
 
-##285## Más o menos, alrededor de, aproximadamente. \n Se coloca después de la cantidad. Es la forma más natural y usada en el lenguaje hablado.	左右 (zuǒ yòu)
+##285## Más o menos, alrededor de, aproximadamente. \n Se coloca después de la cantidad. Es la forma más natural y usada en el lenguaje hablado. DESPUÉS del número/cantidad/momento	左右 (zuǒ yòu) / 前后 (qián hòu) \n 三十岁左右 - Alrededor de 30 años. \n 五点前后 - Alrededor de las 5 en punto.
 
 ##286## Este. \n Punto cardinal.	东 (dōng)
 
@@ -720,7 +698,7 @@
 
 ##383## Hambre. \n Matiz: Sensación de necesidad o deseo de ingerir alimento.	饿 (è)
 
-##384## Niños / Infantil. \n Matiz: Término formal para referirse a la infancia.	儿童 (ér tóng)
+##384## Niños / Infantil. \n Matiz: Término formal para referirse a la infancia. \n Término formal/oficial. Se refiere a los niños desde el nacimiento hasta la pubertad (aprox. 0 a 14 años). Se usa en leyes, educación y textos.	儿童 (ér tóng) \n 儿童文学 - Literatura infantil.
 
 ##385## Hijo. \n Matiz: Descendiente directo de sexo varón.	儿子 (ér zi)
 
@@ -842,7 +820,7 @@
 
 ##447## Plan, programa; planear (funciona como sustantivo y verbo). \n Es la palabra más general y común. Se usa para planes personales, diarios, de estudio o de trabajo. Se refiere a la intención de realizar una serie de acciones en el futuro.	计划 (jì huà)
 
-##448## "cerca de aquí", "en las cercanías" o "alrededor". \n No se refiere a una distancia exacta (como "a 5 metros"), sino a una zona o área próxima. Es un sustantivo de lugar.	附近 (fù jìn) \n Estructura: [Lugar] + 附近
+##448## "cerca de aquí", "en las cercanías" o "alrededor". \n No se refiere a una distancia exacta (como "a 5 metros"), sino a una zona o área próxima. Es un sustantivo de lugar.	附近 (fù jìn) \n Estructura: [Lugar] + 附近 \n 周围 (zhōu wéi) ~ Perímetro
 
 ##449## Repasar. \n Matiz: Estudiar algo ya aprendido para reforzar el conocimiento.	复习 (fù xí)
 
@@ -943,8 +921,6 @@
 ##498## Público / Común. \n Matiz: Que pertenece o es usado por toda la comunidad.	公共 (gōng gòng)
 
 ##499## Autobús. \n Matiz: Vehículo de transporte colectivo de pasajeros.	公共汽车 (gōng gòng qì chē)
-
-##500## Bus / Autobús. \n Matiz: Forma abreviada y común de公共汽车.	公交车 (gōng jiāo chē)
 
 ##501## Kilogramo. \n Matiz: Unidad de masa del sistema métrico.	公斤 (gōng jīn)
 
@@ -1234,7 +1210,7 @@
 
 ##649## Varios / Cuántos. \n Matiz: Para preguntar cantidades pequeñas (menos de 10) o decir "unos pocos".	几 (jǐ)
 
-##650## Casi. \n Matiz: Por muy poco no sucede algo.	几乎 (jī hū)
+##650## (2) (adv.) Casi. \n Matiz: Por muy poco no sucede algo.	几乎 (jī hū) / 差不多 (chà bu duō - Funciona también como predicado) \n 这两个人长得 差不多 。 - Son casi iguales.
 
 ##651## Recordar. \n Matiz: Tener algo presente en la memoria.	记得 (jì de)
 
@@ -1822,7 +1798,7 @@
 
 ##953## Dólar (coloquial). \n Matiz: Literalmente "oro americano".	美金 (měi jīn)
 
-##954## Hermoso / Bello. \n Matiz: Belleza formal y elevada (paisajes, artes, personas).	美丽 (měi lì)
+##954## adj. Hermoso / Bello. \n Matiz: Belleza formal y elevada (paisajes, artes, personas). \n Palabra completa	美丽 (měi lì)
 
 ##955## Mujer bella / "Guapa".	美女 (měi nǚ)
 
@@ -2105,8 +2081,6 @@
 ##1098## Kilogramo.	千克 (qiān kè)
 
 ##1099## Diez millones / Por favor. \n Matiz: En imperativos significa "bajo ningún concepto".	千万 (qiān wàn)
-
-##1100## Alrededor de / De principio a fin. \n Matiz: Tiempo aproximado o el orden espacial. \n marca dos puntos o un rango (antes/después o aproximadamente).	前后 (qián hòu) \n 我等了十分钟前后.
 
 ##1101## Hace dos años (el año antepasado).	前年 (qián nián)
 
@@ -2570,8 +2544,6 @@
 
 ##1335## Plástico (material).	塑料 (sù liào)
 
-##1336## Bolsa de plástico.	塑料袋 (sù liào dài)
-
 ##1337## Agrio / Ácido / Dolorido. \n Matiz: Sabor o dolor muscular por cansancio.	酸 (suān)
 
 ##1338## Yogur.	酸奶 (suān nǎi)
@@ -2703,8 +2675,6 @@
 ##1403## País extranjero.	外国 (wài guó)
 
 ##1404## Comida para llevar / Delivery.	外卖 (wài mài)
-
-##1405## Abrigo / Chaqueta / Capa exterior.	外套 (wài tào)
 
 ##1406## Idioma extranjero (hablado).	外语 (wài yǔ)
 
@@ -3532,7 +3502,7 @@
 
 ##1825## Estudiante de secundaria. \n Matiz: Alumno de ese nivel.	中学生 (zhōng xué shēng)
 
-##1826## Finalmente. \n Matiz: Resultado esperado.	终于 (zhōng yú)
+##1826## Finalmente. \n Matiz: Resultado esperado.	终于 (zhōng yú) / 最终 (zuì zhōng)
 
 ##1827## Reloj / campana. \n Matiz: Marca el tiempo.	钟 (zhōng)
 
@@ -3551,8 +3521,6 @@
 ##1834## (2) Semana. \n Matiz: Periodo de 7 días.	周 (zhōu) / 星期 (xīng qī)
 
 ##1835## Fin de semana. \n Matiz: Sábado y domingo.	周末 (zhōu mò)
-
-##1836## Alrededor. \n Matiz: Circundante.	周围 (zhōu wéi)
 
 ##1837## Principal. \n Matiz: Más importante.	主要 (zhǔ yào)
 
@@ -4124,8 +4092,6 @@
 ##2132## Estudio autónomo. \n Matiz: Estudiar por cuenta propia, especialmente en un período reservado para estudiar.	自习 (zì xí)
 
 ##2133## Estudiar por cuenta propia. \n Matiz: Aprender de manera independiente sin depender directamente de un profesor.	自学 (zì xué)
-
-##2134## Finalmente / en última instancia. \n Matiz: Indica el resultado final después de un proceso o una serie de acontecimientos.	最终 (zuì zhōng)
 
 ##2135## Respetar. \n Matiz: Mostrar consideración y reconocimiento hacia una persona, opinión, regla o cultura.	尊重 (zūn zhòng)
 
