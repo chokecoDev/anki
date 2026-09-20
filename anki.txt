@@ -88,8 +88,6 @@
 
 ##46## (2) Clase (grupo de personas), turno de trabajo. \n Completo vs coloquial	班 (bān) / 班级 (bān jí)
 
-##48## Delegado de clase, monitor o jefe de grupo. \n En el sistema educativo chino, no es solo un estudiante que "ayuda"; es una figura de autoridad con responsabilidades reales. Actúa como puente entre los profesores y los alumnos, organiza actividades y mantiene la disciplina. También se usa en el contexto militar para referirse a un "jefe de escuadra".	班长 (bān zhǎng)
-
 ##49## Mudarse de casa.	搬家 (bān jiā)
 
 ##50## Hacer, gestionar, manejar, tramitar. \n Caracter simple.	办 (bàn)
@@ -1210,7 +1208,7 @@ v. Descargar	下载 (xià zài)
 
 ##649## Varios / Cuántos. \n Matiz: Para preguntar cantidades pequeñas (menos de 10) o decir "unos pocos".	几 (jǐ)
 
-##650## (2) (adv.) Casi. \n Matiz: Por muy poco no sucede algo.	几乎 (jī hū) / 差不多 (chà bu duō - Funciona también como predicado) \n 这两个人长得 差不多 。 - Son casi iguales.
+##650## (2) (adv.) Casi. \n Matiz: Por muy poco no sucede algo.	几乎 (jī hū) / 差不多 (chà bu duō - Funciona también como predicado) \n 这两个人长得差不多 。 - Son casi iguales.
 
 ##651## Recordar. \n Matiz: Tener algo presente en la memoria.	记得 (jì de)
 
@@ -2376,8 +2374,6 @@ v. Descargar	下载 (xià zài)
 
 ##1251## Zona urbana / Ciudad. \n Matiz: El área dentro de los límites de la ciudad.	市区 (shì qū)
 
-##1252## Alcalde.	市长 (shì zhǎng)
-
 ##1253## Asunto / Cosa / Trabajo. \n Matiz: Raíz para hechos o eventos.	事 (shì)
 
 ##1254## Cosa / Asunto. \n Matiz: Situación o tarea de la vida cotidiana.	事情 (shì qíng) \n 我有一件重要的大事情要跟你商量。- Tengo un asunto importante que discutir contigo. (Se refiere a un evento o tarea concreta).
@@ -2565,8 +2561,6 @@ v. Descargar	下载 (xià zài)
 ##1346## Por eso / Por lo tanto.	所以 (suǒ yǐ)
 
 ##1347## Todo / Todos los. \n Matiz: Indica la totalidad de un grupo.	所有 (suǒ yǒu)
-
-##1348## Director de un instituto o centro de investigación.	所长 (suǒ zhǎng)
 
 ##1349## Demasiado / Muy.	太 (tài)
 
@@ -3292,8 +3286,6 @@ v. Descargar	下载 (xià zài)
 
 ##1718## Clasificador para objetos planos. 	张 (zhāng)
 
-##1719## Crecer / Hacerse mayor. \n Matiz: El proceso biológico de madurar. 	长大 (zhǎng dà)
-
 ##1720## Esposo / Marido (Formal - Informal). \n Matiz: Hombre en relación de matrimonio. 	丈夫 (zhàng fu) - 老公 (lǎo gōng)
 
 ##1721## Saludar / Avisar. \n Matiz: Gesto de cortesía al ver a alguien o dar una instrucción. 	招呼 (zhāo hū)
@@ -3584,8 +3576,6 @@ v. Descargar	下载 (xià zài)
 
 
 ##1866## Grupo. \n Matiz: Conjunto de personas.	组 (zǔ)
-
-##1867## Líder de grupo. \n Matiz: Responsable.	组长 (zǔ zhǎng)
 
 ##1868## Más. \n Matiz: Superlativo.	最 (zuì)
 
