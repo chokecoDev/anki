@@ -3066,7 +3066,7 @@ v. Descargar	下载 (xià zài)
 
 ##1606## Todo / Todas las cosas. \n Matiz: Carácter absoluto (ej. "lo he perdido todo").	一切 (yī qiè)
 
-##1607## Toda la vida.	一生 (yī shēng)
+##1607## Toda la vida.	一生 (yī shēng) \n 他在乡下度过了一生。- Él pasó toda su vida en el campo.
 
 ##1609## Algunos / Unos cuantos.	一些 (yī xiē)
 
