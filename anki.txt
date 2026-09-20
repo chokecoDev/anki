@@ -762,6 +762,8 @@
 
 ##416## Dejar / Soltar. \n Matiz: Poner algo en el suelo o abandonar una preocupación.	放下 (fàng xià)
 
+v. Descargar	下载 (xià zài)
+
 ##417## Tranquilizarse. \n Matiz: Dejar de estar preocupado (lit. "soltar el corazón").	放心 (fàng xīn)
 
 ##418## Salir de clase. \n Matiz: Fin de la jornada escolar o de una lección.	放学 (fàng xué) \n 我们下午五点放学。- Nosotros salimos de clases a las cinco de la tarde.
@@ -820,7 +822,7 @@
 
 ##447## Plan, programa; planear (funciona como sustantivo y verbo). \n Es la palabra más general y común. Se usa para planes personales, diarios, de estudio o de trabajo. Se refiere a la intención de realizar una serie de acciones en el futuro.	计划 (jì huà)
 
-##448## "cerca de aquí", "en las cercanías" o "alrededor". \n No se refiere a una distancia exacta (como "a 5 metros"), sino a una zona o área próxima. Es un sustantivo de lugar.	附近 (fù jìn) \n Estructura: [Lugar] + 附近 \n 周围 (zhōu wéi) ~ Perímetro
+##448## (2) "cerca de aquí", "en las cercanías" o "alrededor". \n No se refiere a una distancia exacta (como "a 5 metros"), sino a una zona o área próxima. Es un sustantivo de lugar.	附近 (fù jìn) \n Estructura: [Lugar] + 附近 \n 周围 (zhōu wéi) ~ Perímetro
 
 ##449## Repasar. \n Matiz: Estudiar algo ya aprendido para reforzar el conocimiento.	复习 (fù xí)
 
@@ -881,8 +883,6 @@
 ##478## Decir / Contar. \n Matiz: Transmitir una información o noticia a otra persona.	告诉 (gào sù)
 
 ##479## Canción. \n Matiz: Composición musical destinada a ser cantada.	歌 (gē)
-
-##480## Fan / Seguidor. \n Matiz: Persona entusiasta de un cantante o grupo musical.	歌迷 (gē mí)
 
 ##481## Canto / Sonido de la voz. \n Matiz: El sonido producido al cantar.	歌声 (gē shēng)
 
@@ -4095,7 +4095,9 @@
 
 ##2135## Respetar. \n Matiz: Mostrar consideración y reconocimiento hacia una persona, opinión, regla o cultura.	尊重 (zūn zhòng)
 
-s. dormitorio 卧室 (wò shì)
+s. dormitorio	卧室 (wò shì)
+
+s. libro electrónico, e-book	电子书 (diàn zǐ shū)
 
 interj. ¡hey!	哎 (āi)
 
