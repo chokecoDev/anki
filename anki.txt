@@ -4071,7 +4071,7 @@
 
 ##2122## "y además...", "para colmo..." o "por otra parte..." \n Matiz: Se utiliza exclusivamente cuando estás justificando una decisión, explicando un motivo o intentando convencer a alguien.	再说 (zài shuō) \n 我喜欢早上锻炼，因为很安静。再说，运动后我更容易专注学习中文。- Me gusta hacer ejercicio por la mañana porque es muy tranquilo. Y además (por otra parte), después de hacer deporte me es más fácil concentrarme para estudiar chino.
 
-##2123## Temporalmente / por ahora. \n Matiz: Algo válido durante un período limitado y no necesariamente permanente.	暂时 (zàn shí)
+##2123## adj. Temporal, provisional. \n Matiz: Algo válido durante un período limitado y no necesariamente permanente.	暂时 (zàn shí)
 
 ##2124## Pausar / suspender. \n Matiz: Detener temporalmente una actividad que puede continuar después.	暂停 (zàn tíng)
 
@@ -4094,6 +4094,8 @@
 ##2133## Estudiar por cuenta propia. \n Matiz: Aprender de manera independiente sin depender directamente de un profesor.	自学 (zì xué)
 
 ##2135## Respetar. \n Matiz: Mostrar consideración y reconocimiento hacia una persona, opinión, regla o cultura.	尊重 (zūn zhòng)
+
+s. dormitorio 卧室 (wò shì)
 
 interj. ¡hey!	哎 (āi)
 
