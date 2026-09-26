@@ -3066,7 +3066,7 @@ v. Descargar	下载 (xià zài)
 
 ##1615## Después de..., más adelante, en el futuro. \n Matiz: Se refiere a algo que ocurre después de un momento o evento, y a menudo mira hacia el futuro. 	以后 (yǐ hòu) \n \n Estructura: \n Evento + 以后 + acción \n 以后 + acción
 
-##1616## Dentro de. \n Matiz: Límite espacial o temporal que no debe ser sobrepasado. 	以内 (yǐ nèi)
+##1616## Dentro de. \n Matiz: Límite espacial o temporal que no debe ser sobrepasado. \n Se coloca después de la cantidad o medida para establecer el límite. 	以内 (yǐ nèi) \n 50米以内 - A menos de 50 metros / Dentro de 50 metros. \n 三天以内 - Dentro de tres días / En el plazo de tres días.
 
 ##1617## Más de / Por encima de. \n Matiz: Indica un nivel, cantidad o posición superior a la mencionada. 	以上 (yǐ shàng)
 
