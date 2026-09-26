@@ -6,7 +6,7 @@
 
 ##440## Padres. \n Matiz: Conjunto formado por el padre y la madre.	父母 (fù mǔ)
 
-##441## Padre. \n Matiz: Término formal para referirse al progenitor masculino.	父亲 (fù qīn)
+##441## Padre. \n Matiz: Término formal para referirse al progenitor masculino.	父亲 (fù qin)
 
 ##1986## Padre e hija. \n Matiz: Relación familiar entre un padre y su hija.	父女 (fù nǚ)
 
@@ -310,7 +310,7 @@
 
 ##168## Producir / Surgir. \n Matiz: Suele referirse a la aparición de cosas abstractas como una idea, un efecto o un sentimiento.	产生 (chǎn shēng)
 
-##169## Frecuentemente / A menudo. \n 1. Indica de manera sencilla que una acción ocurre repetidamente en el tiempo. Es muy común y natural en el lenguaje hablado cotidiano. \n 2. Igual que el punto 1, pero también puede usarse como adjetivo (rutinario/regular) \n 3. Significa que, basado en tu experiencia, bajo cierta condición suele ocurrir un patrón específico. Equivale a decir "por lo general suele suceder que...".	常常 (cháng cháng), 经常 (jīng cháng), 往往 (wǎng wǎng) \n 1. 我常常去图书馆。- A menudo voy a la biblioteca. \n 2. 他经常迟到。- Él llega tarde frecuentemente / por rutina. \n 3. 只要下雨，我往往会在家看书。- Siempre que llueve (condición), suelo leer en casa (patrón comprobado).
+##169## (3) Frecuentemente / A menudo. \n 1. Indica de manera sencilla que una acción ocurre repetidamente en el tiempo. Es muy común y natural en el lenguaje hablado cotidiano. \n 2. Igual que el punto 1, pero también puede usarse como adjetivo (rutinario/regular) \n 3. Significa que, basado en tu experiencia, bajo cierta condición suele ocurrir un patrón específico. Equivale a decir "por lo general suele suceder que...".	常常 (cháng cháng), 经常 (jīng cháng), 往往 (wǎng wǎng) \n 1. 我常常去图书馆。- A menudo voy a la biblioteca. \n 2. 他经常迟到。- Él llega tarde frecuentemente / por rutina. \n 3. 只要下雨，我往往会在家看书。- Siempre que llueve (condición), suelo leer en casa (patrón comprobado).
 
 ##170## Común / Ordinario. \n Matiz: Algo que se ve con frecuencia en el día a día.	常见 (cháng jiàn) \n 这是一个 常见的 错误。 - Este es un error común.
 
@@ -379,8 +379,6 @@
 ##206## v. Cantar canción	唱歌 (chàng gē)
 
 ##207## s. supermercado	超市 (chāo shì)
-
-##208## s. cargador (aparato)	充电器 (chōng diàn qì)
 
 ##209## salir de casa / salir a la calle. \n Esta expresión se usa específicamente cuando alguien cruza el umbral de su casa o de un edificio para comenzar una actividad en el exterior.	出门 (chū mén)
 
@@ -586,8 +584,6 @@
 
 ##325## Electricidad. \n Matiz: Energía eléctrica; raíz de muchas palabras tecnológicas.	电 (diàn)
 
-##326## Bombilla / Lámpara eléctrica.	电灯 (diàn dēng)
-
 ##327## Vehículo eléctrico. \n Matiz: Generalmente scooters o bicicletas eléctricas.	电动车 (diàn dòng chē)
 
 ##328## Teléfono. \n Matiz: Sistema de comunicación por voz.	电话 (diàn huà)
@@ -596,17 +592,11 @@
 
 ##330## Televisión. \n Matiz: El medio o la señal de TV.	电视 (diàn shì)
 
-##331## Televisor. \n Matiz: El aparato físico.	电视机 (diàn shì jī)
-
-##332## Estación de radio.	电台 (diàn tái)
-
 ##333## Ascensor / Escalera mecánica. \n Matiz: Lit. "escalera eléctrica".	电梯 (diàn tī)
 
 ##334## Película. \n Matiz: Lit. "sombra eléctrica".	电影 (diàn yǐng)
 
 ##335## Cine.	电影院 (diàn yǐng yuàn)
-
-##336## Correo electrónico.	电子邮件 (diàn zi yóu jiàn)
 
 ##337## Caer / Perder. \n Matiz: Desprenderse de algo o dejarlo olvidado; también actúa como complemento.	掉 (diào)
 
@@ -938,15 +928,15 @@ v. Descargar	下载 (xià zài)
 
 ##509## Poseer en común / Total. \n Matiz: Propiedad compartida o suma de elementos.	共有 (gòng yǒu)
 
-##510## Resfriado / Tener gripe.	感冒 (gǎn mào)
+##510## Resfriado.	感冒 (gǎn mào)
 
 ##511## Gélido / Frío extremo. \n Es una palabra formal y literaria. Se usa para describir el clima de Siberia, el invierno profundo o en noticias. No se usa mucho en una charla casual tomando un café.	寒冷 (hán lěng)
 
 ##512## Frío (intenso). \n Es el frío que cala, el que te hace buscar un abrigo grueso. Es una sensación que suele ser incómoda.	冷 (lěng)
 
-##513## Fresco / Frío al tacto. \n Es un frío moderado. Puede ser el agua de la nevera o el viento de otoño. No llega a ser doloroso como lěng.	凉 (liáng)
+##513## (raíz) Fresco / Frío al tacto. \n Es un frío moderado. Puede ser el agua de la nevera o el viento de otoño. No llega a ser doloroso como lěng.	凉 (liáng)
 
-##514## Fresco y agradable. \n Es positivo. Se usa mucho en verano cuando sopla una brisa que te alivia del calor. Es la sensación de "¡qué a gusto se está aquí!".	凉快 (liáng kuài)
+##514## (completo) Fresco y agradable. \n Es positivo. Se usa mucho en verano cuando sopla una brisa que te alivia del calor. Es la sensación de "¡qué a gusto se está aquí!".	凉快 (liáng kuài)
 
 ##515## s. armario, guardarropa	衣柜 (yī guì)
 
@@ -1013,8 +1003,6 @@ v. Descargar	下载 (xià zài)
 ##547## Internacional. \n Matiz: Relativo a las relaciones o actividades entre diversos países.	国际 (guó jì)
 
 ##548## País / Estado. \n Matiz: La entidad política, geográfica y social como conjunto.	国家 (guó jiā)
-
-##549## Nacional / Doméstico. \n Matiz: Todo lo que ocurre dentro de las fronteras de un país.	国内 (guó nèi)
 
 ##550## s. Día Nacional (en China el 1 de octubre) \n Matiz: Festividad que conmemora la fundación de la nación.	国庆节 (guó qìng jié)
 
@@ -1174,8 +1162,6 @@ v. Descargar	下载 (xià zài)
 
 ##631## Mercancía / Productos. \n 1. Se enfoca en los bienes como objetos físicos, la carga o el inventario. Es un término más terrenal, coloquial y fundamental en el mundo de la logística, los almacenes y los envíos (La mercancía física o el inventario). \n 2. Es un término formal, económico y de marketing. Se refiere a la mercancía que ya tiene un valor de mercado, que está lista, empaquetada y exhibida para su venta al consumidor final. (El producto comercial formal)	货 (huò) / 商品 (shāng pǐn) \n 1. 发货 - Enviar la mercancía / Despachar. \n 2. 超市里有很多种 商品。- En el supermercado hay muchos tipos de productos.
 
-##632## Obtener / Capturar. \n Matiz: Raíz formal para conseguir o ganar algo.	获 (huò)
-
 ##633## Obtener / Ganar. \n Matiz: Conseguir algo abstracto como experiencia, éxito o un premio.	获得 (huò dé)
 
 ##634## Ganar un premio. \n Matiz: Recibir un galardón o reconocimiento en un concurso.	获奖 (huò jiǎng)
@@ -1266,13 +1252,11 @@ v. Descargar	下载 (xià zài)
 
 ##678## Muebles. \n Matiz: Mobiliario u objetos domésticos para el uso cotidiano.	家具 (jiā jù)
 
-##679## En casa / Dentro del hogar.	家里 (jiā lǐ)
-
 ##680## Familiares. \n Matiz: Las personas que componen el núcleo familiar de alguien.	家人 (jiā rén)
 
 ##681## Familia / Hogar. \n Matiz: Es un término formal, sociológico y escrito. Se refiere a la familia como una institución o núcleo social (el entorno familiar). ¡Ojo! NUNCA se usa para referirse al edificio físico o a la casa de ladrillos.	家庭 (jiā tíng) \n 他来自一个幸福的家庭。- Él proviene de una familia (un entorno familiar) feliz.
 
-##682## Pueblo natal / Patria chica. \n Matiz: El lugar de origen con una fuerte carga emocional.	家乡 (jiā xiāng)
+##682## (enfasis sentimental) Pueblo natal / Patria chica. \n Matiz: El lugar de origen con una fuerte carga emocional.	家乡 (jiā xiāng)
 
 ##683## Tutor / Padre de familia. \n Matiz: Persona responsable de un menor de edad ante una institución.	家长 (jiā zhǎng)
 
@@ -1494,7 +1478,7 @@ v. Descargar	下载 (xià zài)
 
 ##796## Bromear. \n Matiz: Decir algo por diversión sin ser en serio.	开玩笑 (kāi wán xiào)
 
-##797## Feliz / Alegre. \n Alegría del momento (casual) \n Uso: Hablar del día a día, estado de ánimo actual.	开心 (kāi xīn) \n 今天我玩得很开心。- Hoy me divertí mucho / la pasé muy bien.
+##797## (2) Feliz / Alegre; (2 ambos <-) Felicidad. \n 1. Superficial / Corto plazo. Cotidiano, pasarlo bien en el momento. \n 2. Medio / Atmosférico. Formal, describir viajes, charlas o días. \n 3. Medio / General. Festividades, estado de ánimo general. \n 4. Profundo / Largo plazo. Vida, matrimonio, familia, plenitud.	1. 开心 (kāi xīn) => 今天我玩得很开心。- Hoy me divertí mucho / la pasé muy bien. \n 2. 愉快 (yú kuài) => 祝你周末愉快。- Que tengas un fin de semana placentero / agradable. \n 3. 快乐 (kuài lè) => 祝你生日快乐！- ¡Feliz cumpleaños! \n 4. 幸福 (xìng fú) => 他们有一个幸福的家庭。- Ellos tienen una familia feliz / bendecida.
 
 ##798## Empezar las clases, iniciar el ciclo/año escolar o la "vuelta al cole". \n Matiz: Comienzo de las clases tras las vacaciones escolares.	开学 (kāi xué) \n 我们下个星期开学。- Nosotros empezamos las clases la próxima semana.
 
@@ -1512,7 +1496,7 @@ v. Descargar	下载 (xià zài)
 
 ##806## Considerar / Pensar en. \n Uso: Cuando estás evaluando opciones antes de tomar una decisión.	考虑 (kǎo lǜ) \n 我需要考虑一下。- Necesito considerarlo / pensarlo un poco.
 
-##807## Candidato / Examinando. \n Matiz: Persona que realiza un examen.	考生 (kǎo shēng)
+##807## Candidato / postulante. \n Matiz: Persona que realiza un examen.	考生 (kǎo shēng)
 
 ##808## Examen / Examinarse. \n Matiz: Prueba formal de conocimientos.	考试 (kǎo shì)
 
@@ -1525,8 +1509,6 @@ v. Descargar	下载 (xià zài)
 ##812## Ciencia (El Saber)	科学 (kē xué)
 
 ##813## "Cola" (como en Coca-Cola o Pepsi).	可乐 (kě lè)
-
-##814## Científico. \n Matiz: Persona que se dedica profesionalmente a la investigación científica.	科学家 (kē xué jiā)
 
 ##815## Clasificador para árboles. \n Matiz: Se usa para especialmente para aquellas con tronco o tallo definido.	棵 (kē)
 
@@ -1580,8 +1562,6 @@ v. Descargar	下载 (xià zài)
 
 ##840## Rápido / ¡Date prisa! Matiz: Exhortación para que alguien actúe con celeridad.	快点儿 (kuài diǎn ér)
 
-##841## Feliz / Alegre. \n Alegría general o felicitaciones. \n Uso: Desear felicidades (cumpleaños, año nuevo).	快乐 (kuài lè) \n 祝你生日快乐！- ¡Feliz cumpleaños!
-
 ##842## rápido / veloz (más formal, descriptivo). \n Matiz: Es más formal y escrito. \n Se usa principalmente antes de sustantivos o como adverbio	快速 (kuài sù) \n 快速发展
 
 ##843## adv. Estar a punto de (2). \n Matiz: Cotidiano, descriptivo, se centra en la sensación de que el cambio o la acción está por ocurrir.	快要 (kuài yào - siempre va acompañado de 了 al final) \n 天快要下雨了 - Está a punto de llover. \n \n 就要 (jiù yào) \n 我们就要毕业了 - Estamos a punto de graduarnos.
@@ -1614,7 +1594,7 @@ v. Descargar	下载 (xià zài)
 
 ##857## Viejo / Antiguo / Experimentado. \n Matiz: Referido a edad avanzada o veteranía en algo.	老 (lǎo)
 
-##858## Hogar natal / Pueblo. \n Matiz: Lugar de origen de la familia (raíces).	老家 (lǎo jiā)
+##858## (lugar físico) Hogar natal / Pueblo. \n Matiz: Lugar de origen de la familia (raíces).	老家 (lǎo jiā)
 
 ##859## Vejez / Ancianos. \n Matiz: La etapa de la vida avanzada o las personas en ella.	老年 (lǎo nián)
 
@@ -1680,8 +1660,6 @@ v. Descargar	下载 (xià zài)
 
 ##892## Conectar / Incluso.	连 (lián)
 
-##893## Serie de televisión / Telenovela. \n Matiz: Programa de ficción emitido en capítulos.	连续剧 (lián xù jù)
-
 ##894## Contactar / Conexión. \n Matiz: Establecer comunicación o vínculo entre personas o cosas.	联系 (lián xì)
 
 ##895## Cara / Rostro. \n Matiz: Parte frontal de la cabeza; también implica honor social o "prestigio".	脸 (liǎn)
@@ -1692,17 +1670,13 @@ v. Descargar	下载 (xià zài)
 
 ##898## Agua fresca. \n Matiz: Agua natural o fresca, no necesariamente helada.	凉水 (liáng shuǐ)
 
-##899## Dos. \n Matiz: Se usa para expresar cantidades o pares ante un clasificador.	两 (liǎng)
+##899## Dos \n Matiz: Se usa obligatoriamente antes de los clasificadores para contar objetos, personas, etc. Nunca se usa 二 para esto.	两 (liǎng)
 
 ##900## Brillante / Encendido. \n Matiz: Que emite luz o que una habitación está bien iluminada.	亮 (liàng)
 
 ##901## Clasificador de vehículos. \n Matiz: Unidad para coches, bicicletas, camiones o carros.	辆 (liàng)
 
-##902## Convalecer / Reposar. \n Matiz: Recuperar la salud mediante descanso en un sanatorio o balneario.	疗养 (liáo yǎng)
-
-##903## Fila / Clasificador. \n Matiz: Lista ordenada; también clasificador para trenes.	列 (liè)
-
-##905## Clasificar como. \n Matiz: Categorizar algo dentro de un grupo o rango específico.	列为 (liè wèi)
+##903## cl. Se utiliza para contar cosas que están dispuestas en una línea o serie, siendo el ejemplo más clásico los trenes.	列 (liè)
 
 ##906## Cero.	零 (líng)
 
@@ -2136,9 +2110,9 @@ v. Descargar	下载 (xià zài)
 
 ##1128## Zapatillas de deporte.	球鞋 (qiú xié)
 
-##1129## Área / Distrito / Zona.	区 (qū)
+##1129## Área / Distrito / Zona. \n Caracter simple	区 (qū)
 
-##1130## Diferencia / Distinguir. \n Matiz: Lo que hace que algo sea distinto de otro.	区别 (qū bié)
+##1130## significa "diferencia" o el verbo "distinguir" / "diferenciar". \n Matiz: Lo que hace que algo sea distinto de otro.	区别 (qū bié) \n Estructura (noun): A 和 B 有什么区别？
 
 ##1131## Obtener / Lograr. \n Matiz: Conseguir un resultado, éxito o progreso.	取得 (qǔ dé)
 
@@ -2151,8 +2125,6 @@ v. Descargar	下载 (xià zài)
 ##1135## Todo / Totalidad. \n Matiz: El conjunto completo sin excepciones.	全部 (quán bù)
 
 ##1136## Nacional / Todo el país.	全国 (quán guó)
-
-##1137## Toda la familia.	全家 (quán jiā)
 
 ##1138## Todo el año / Anual.	全年 (quán nián)
 
@@ -2372,7 +2344,7 @@ v. Descargar	下载 (xià zài)
 
 ##1250## Mercado. \n Matiz: Lugar de compraventa o el sistema económico.	市场 (shì chǎng)
 
-##1251## Zona urbana / Ciudad. \n Matiz: El área dentro de los límites de la ciudad.	市区 (shì qū)
+##1251## Zona urbana. \n Matiz: El área dentro de los límites de la ciudad.	市区 (shì qū)
 
 ##1253## Asunto / Cosa / Trabajo. \n Matiz: Raíz para hechos o eventos.	事 (shì)
 
@@ -2414,7 +2386,7 @@ v. Descargar	下载 (xià zài)
 
 ##1272## Atender a una explicación, escuchar una conferencia.	听讲 (tīng jiǎng)
 
-##1273## Escuchar la radio, un podcast o una emisión oficial.	收听 (shōu tīng)
+##1273## Sintonizar / Escuchar (radio, noticias o podcasts): Se refiere a recibir o captar (*) una señal invisible (frecuencia de radio/audio) para escucharla (*).	收听 (shōu tīng)
 
 ##1274## "de repente", "repentinamente" o "inesperadamente". \n Enfoque: Describe una acción que ocurre de golpe, de manera muy rápida y sin previo aviso. Es un hecho objetivo sobre cómo sucedió algo en el tiempo.	突然 (tū rán)
 
@@ -2434,17 +2406,13 @@ v. Descargar	下载 (xià zài)
 
 ##1282## Adaptarse / Venir bien. \n Matiz: Idoneidad abstracta (ej. este trabajo me va bien).	适合 (shì hé)
 
-##1283## Recibir / Recoger / Aceptar.	收 (shōu)
+##1283## Su significado principal gira en torno a la idea de "guardar", "recoger", "juntar" o "recibir". \n Cuando usamos *, nos enfocamos en la idea física de concentración: tomar elementos que están expuestos o sueltos y guardarlos, ordenarlos o juntarlos para que no estén dispersos o desordenados. \n Caracter simple.	收 (shōu)
 
-##1284## Haber recibido. \n Matiz: Confirmación de recepción física o digital (ej. un paquete).	收到 (shōu dào)
+##1284## Recibir (un mensaje, paquete o regalo) \n Combinas la acción base de recibir (*) con el complemento de resultado 到 (dào), el cual indica que la acción fue un éxito y el objeto ha llegado a tus manos.	收到 (shōu dào)
 
-##1285## v. cobrar \n Matiz: Acción de exigir un pago por un servicio.	收费 (shōu fèi)
+##1285## Cobrar (una tarifa) \n Es la acción de recaudar (*) una cuota, tarifa o costo por un servicio específico (*).	收费 (shōu fèi)
 
-##1286## Recuperar / Retirar. \n Matiz: Volver a tomar algo que se había dado o enviado.	收回 (shōu huí)
-
-##1287## Ingresos / Renta. \n Matiz: Dinero que se percibe regularmente (ej. salario).	收入 (shōu rù)
-
-##1288## Radio (aparato).	收音机 (shōu yīn jī)
+##1287## Ingresos (Sueldo/Ganancias): Literalmente es el dinero que recibes/recaudas (*) y que entra (*) a tu cuenta bancaria o economía personal.	收入 (shōu rù)
 
 ##1289## Mano.	手 (shǒu)
 
@@ -2934,8 +2902,6 @@ v. Descargar	下载 (xià zài)
 
 ##1540## Nombre y apellidos / Nombre completo.	姓名 (xìng míng)
 
-##1541## Felicidad / Feliz. \n Felicidad profunda y de vida. \n Uso: Hablar de familia, amor, realización personal.	幸福 (xìng fú) \n 他们有一个幸福的家庭。- Ellos tienen una familia feliz / bendecida.
-
 ##1542## Naturaleza / Género / Sexo / (Sufijo para cualidades).	性 (xìng)
 
 ##1543## Sexo / Género (masculino/femenino).	性别 (xìng bié)
@@ -3078,11 +3044,11 @@ v. Descargar	下载 (xià zài)
 
 ##1613## Hospital.	医院 (yī yuàn)
 
-##1614## Ya. \n Matiz: Estándar para indicar que algo ya ha ocurrido o se ha completado. 	已经 (yǐ jīng)
+##1614## adv. Ya. \n Matiz: Estándar para indicar que algo ya ha ocurrido o se ha completado. 	已经 (yǐ jīng)
 
 ##1615## Después de..., más adelante, en el futuro. \n Matiz: Se refiere a algo que ocurre después de un momento o evento, y a menudo mira hacia el futuro. 	以后 (yǐ hòu) \n \n Estructura: \n Evento + 以后 + acción \n 以后 + acción
 
-##1616## Dentro de. \n Matiz: Límite espacial o temporal que no debe ser sobrepasado. 	以内 (yǐ nèi)
+##1616## Dentro de. \n Matiz: Límite espacial o temporal que no debe ser sobrepasado. \n Se coloca después de la cantidad o medida para establecer el límite. 	以内 (yǐ nèi) \n 50米以内 - A menos de 50 metros / Dentro de 50 metros. \n 三天以内 - Dentro de tres días / En el plazo de tres días.
 
 ##1617## Más de / Por encima de. \n Matiz: Indica un nivel, cantidad o posición superior a la mencionada. 	以上 (yǐ shàng)
 
@@ -3249,8 +3215,6 @@ v. Descargar	下载 (xià zài)
 ##1699## Adiós. \n Matiz: Despedida común (lit. "volver a verse"). 	再见 (zài jiàn)
 
 ##1700## Estar en / En. \n Matiz: Indica ubicación física o que una acción está en progreso. 	在 (zài)
-
-##1701## Estar en casa. \n Matiz: Situación de no haber salido del hogar. 	在家 (zài jiā)
 
 ##1702## Patrocinar / Ayudar. \n Matiz: Brindar apoyo financiero o material a una causa o evento. 	赞助 (zàn zhù)
 
@@ -3639,8 +3603,6 @@ v. Descargar	下载 (xià zài)
 
 ##1899## v. deshacerse de malos hábitos	改掉 (gǎi diào)
 
-##1900## prep. dentro. \n Expresión formal que indica que algo ocurre dentro de un límite de tiempo, espacio o capacidad.	之内 (zhī nèi) \n 三天之内完成任务。
-
 ##1902## el primer lugar / el número uno	第一名 (dì yī míng)
 
 ##1903## s. galleta	饼干 (bǐng gān)
@@ -3666,8 +3628,6 @@ v. Descargar	下载 (xià zài)
 ##1917## s. cable / cuerda / soga	绳子 (shéng zi)
 
 ##1918## s. monstruo, persona extraña	怪物 (guài wù)
-
-##1919## mod. Conocido en todos los hogares	家喻户晓 (jiā yù hù xiǎo)
 
 ##1920## Grueso / Gordo. \n Matiz: Grosor de objetos planos (libros, ropa, paredes); no se usa para personas.	厚 (hòu)
 
@@ -3807,7 +3767,7 @@ v. Descargar	下载 (xià zài)
 
 ##1991## Piano. \n Matiz: Instrumento musical de teclado.	钢琴 (gāng qín)
 
-##1992## Examen nacional de acceso a la universidad. \n Matiz: Examen chino de admisión universitaria, conocido como 高考.	高考 (gāo kǎo)
+##1992## Examen nacional de acceso a la universidad. \n Matiz: Examen chino de admisión universitaria.	高考 (gāo kǎo)
 
 ##1993## Alta temperatura. \n Matiz: Temperatura elevada, especialmente en contextos meteorológicos o técnicos.	高温 (gāo wēn)
 
@@ -3860,6 +3820,8 @@ v. Descargar	下载 (xià zài)
 ##2019## Lugar turístico / atracción turística. \n Matiz: Lugar específico que las personas visitan por interés turístico.	景点 (jǐng diǎn)
 
 ##2020## Zona turística. \n Matiz: Área turística que puede incluir varios lugares de interés.	景区 (jǐng qū)
+
+##2020## s. Complejo residencial; zona residencial	小区 (xiǎo qū) \n 我在小区门口等你。- Te espero en la entrada/puerta del complejo.
 
 ##2021## Dar un ejemplo. \n Matiz: Presentar un caso concreto para explicar una idea.	举例 (jǔ lì)
 
@@ -3971,7 +3933,7 @@ v. Descargar	下载 (xià zài)
 
 ##2077## Video. \n Matiz: Grabación audiovisual; también puede referirse a contenido de video en Internet.	视频 (shì pín)
 
-##2078## Ordenar / recoger / arreglar. \n Matiz: Poner las cosas en orden, limpiar o recoger un espacio.	收拾 (shōu shi)
+##2078## Ordenar / Arreglar / Hacer la maleta \n Tomas elementos que están tirados o desordenados y los juntas o guardas para organizar un espacio o prepararte para un viaje.	收拾 (shōu shi)
 
 ##2079## Taquillero / vendedor de entradas. \n Matiz: Persona que vende o comprueba billetes y entradas.	售票员 (shòu piào yuán)
 
@@ -4044,8 +4006,6 @@ v. Descargar	下载 (xià zài)
 ##2113## (2) Amistad. \n Casual / Formal	友情 (yǒu qíng) / 友谊 (yǒu yì)
 
 ##2114## Tener / poseer. \n Matiz: Expresa que alguien o algo posee o presenta determinada característica; suele tener un tono más formal.	有着 (yǒu zhe)
-
-##2115## Feliz. \n Enfoque: Placentero, agradable (formal). \n Uso: Despedidas formales, ambiente de trabajo.	愉快 (yú kuài) \n 祝你周末愉快。- Que tengas un fin de semana placentero / agradable.
 
 ##2116## Y / con. \n Matiz: Puede unir elementos, expresar compañía o introducir una relación entre elementos según el contexto.	与 (yǔ)
 
