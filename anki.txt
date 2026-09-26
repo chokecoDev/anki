@@ -1698,11 +1698,7 @@ v. Descargar	下载 (xià zài)
 
 ##901## Clasificador de vehículos. \n Matiz: Unidad para coches, bicicletas, camiones o carros.	辆 (liàng)
 
-##902## Convalecer / Reposar. \n Matiz: Recuperar la salud mediante descanso en un sanatorio o balneario.	疗养 (liáo yǎng)
-
-##903## Fila / Clasificador. \n Matiz: Lista ordenada; también clasificador para trenes.	列 (liè)
-
-##905## Clasificar como. \n Matiz: Categorizar algo dentro de un grupo o rango específico.	列为 (liè wèi)
+##903## cl. Se utiliza para contar cosas que están dispuestas en una línea o serie, siendo el ejemplo más clásico los trenes.	列 (liè)
 
 ##906## Cero.	零 (líng)
 
@@ -2414,7 +2410,7 @@ v. Descargar	下载 (xià zài)
 
 ##1272## Atender a una explicación, escuchar una conferencia.	听讲 (tīng jiǎng)
 
-##1273## Escuchar la radio, un podcast o una emisión oficial.	收听 (shōu tīng)
+##1273## Sintonizar / Escuchar (radio, noticias o podcasts): Se refiere a recibir o captar (*) una señal invisible (frecuencia de radio/audio) para escucharla (*).	收听 (shōu tīng)
 
 ##1274## "de repente", "repentinamente" o "inesperadamente". \n Enfoque: Describe una acción que ocurre de golpe, de manera muy rápida y sin previo aviso. Es un hecho objetivo sobre cómo sucedió algo en el tiempo.	突然 (tū rán)
 
@@ -2434,17 +2430,13 @@ v. Descargar	下载 (xià zài)
 
 ##1282## Adaptarse / Venir bien. \n Matiz: Idoneidad abstracta (ej. este trabajo me va bien).	适合 (shì hé)
 
-##1283## Recibir / Recoger / Aceptar.	收 (shōu)
+##1283## Su significado principal gira en torno a la idea de "guardar", "recoger", "juntar" o "recibir". \n Cuando usamos *, nos enfocamos en la idea física de concentración: tomar elementos que están expuestos o sueltos y guardarlos, ordenarlos o juntarlos para que no estén dispersos o desordenados. \n Caracter simple.	收 (shōu)
 
-##1284## Haber recibido. \n Matiz: Confirmación de recepción física o digital (ej. un paquete).	收到 (shōu dào)
+##1284## Recibir (un mensaje, paquete o regalo) \n Combinas la acción base de recibir (*) con el complemento de resultado 到 (dào), el cual indica que la acción fue un éxito y el objeto ha llegado a tus manos.	收到 (shōu dào)
 
-##1285## v. cobrar \n Matiz: Acción de exigir un pago por un servicio.	收费 (shōu fèi)
+##1285## Cobrar (una tarifa) \n Es la acción de recaudar (*) una cuota, tarifa o costo por un servicio específico (*).	收费 (shōu fèi)
 
-##1286## Recuperar / Retirar. \n Matiz: Volver a tomar algo que se había dado o enviado.	收回 (shōu huí)
-
-##1287## Ingresos / Renta. \n Matiz: Dinero que se percibe regularmente (ej. salario).	收入 (shōu rù)
-
-##1288## Radio (aparato).	收音机 (shōu yīn jī)
+##1287## Ingresos (Sueldo/Ganancias): Literalmente es el dinero que recibes/recaudas (*) y que entra (*) a tu cuenta bancaria o economía personal.	收入 (shōu rù)
 
 ##1289## Mano.	手 (shǒu)
 
@@ -3971,7 +3963,7 @@ v. Descargar	下载 (xià zài)
 
 ##2077## Video. \n Matiz: Grabación audiovisual; también puede referirse a contenido de video en Internet.	视频 (shì pín)
 
-##2078## Ordenar / recoger / arreglar. \n Matiz: Poner las cosas en orden, limpiar o recoger un espacio.	收拾 (shōu shi)
+##2078## Ordenar / Arreglar / Hacer la maleta \n Tomas elementos que están tirados o desordenados y los juntas o guardas para organizar un espacio o prepararte para un viaje.	收拾 (shōu shi)
 
 ##2079## Taquillero / vendedor de entradas. \n Matiz: Persona que vende o comprueba billetes y entradas.	售票员 (shòu piào yuán)
 
