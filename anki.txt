@@ -944,9 +944,9 @@ v. Descargar	下载 (xià zài)
 
 ##512## Frío (intenso). \n Es el frío que cala, el que te hace buscar un abrigo grueso. Es una sensación que suele ser incómoda.	冷 (lěng)
 
-##513## Fresco / Frío al tacto. \n Es un frío moderado. Puede ser el agua de la nevera o el viento de otoño. No llega a ser doloroso como lěng.	凉 (liáng)
+##513## (raíz) Fresco / Frío al tacto. \n Es un frío moderado. Puede ser el agua de la nevera o el viento de otoño. No llega a ser doloroso como lěng.	凉 (liáng)
 
-##514## Fresco y agradable. \n Es positivo. Se usa mucho en verano cuando sopla una brisa que te alivia del calor. Es la sensación de "¡qué a gusto se está aquí!".	凉快 (liáng kuài)
+##514## (completo) Fresco y agradable. \n Es positivo. Se usa mucho en verano cuando sopla una brisa que te alivia del calor. Es la sensación de "¡qué a gusto se está aquí!".	凉快 (liáng kuài)
 
 ##515## s. armario, guardarropa	衣柜 (yī guì)
 
@@ -1013,8 +1013,6 @@ v. Descargar	下载 (xià zài)
 ##547## Internacional. \n Matiz: Relativo a las relaciones o actividades entre diversos países.	国际 (guó jì)
 
 ##548## País / Estado. \n Matiz: La entidad política, geográfica y social como conjunto.	国家 (guó jiā)
-
-##549## Nacional / Doméstico. \n Matiz: Todo lo que ocurre dentro de las fronteras de un país.	国内 (guó nèi)
 
 ##550## s. Día Nacional (en China el 1 de octubre) \n Matiz: Festividad que conmemora la fundación de la nación.	国庆节 (guó qìng jié)
 
@@ -1265,8 +1263,6 @@ v. Descargar	下载 (xià zài)
 ##677## Casa / Familia. \n Matiz: El hogar físico o el núcleo familiar; también clasificador de empresas.	家 (jiā)
 
 ##678## Muebles. \n Matiz: Mobiliario u objetos domésticos para el uso cotidiano.	家具 (jiā jù)
-
-##679## En casa / Dentro del hogar.	家里 (jiā lǐ)
 
 ##680## Familiares. \n Matiz: Las personas que componen el núcleo familiar de alguien.	家人 (jiā rén)
 
@@ -1526,8 +1522,6 @@ v. Descargar	下载 (xià zài)
 
 ##813## "Cola" (como en Coca-Cola o Pepsi).	可乐 (kě lè)
 
-##814## Científico. \n Matiz: Persona que se dedica profesionalmente a la investigación científica.	科学家 (kē xué jiā)
-
 ##815## Clasificador para árboles. \n Matiz: Se usa para especialmente para aquellas con tronco o tallo definido.	棵 (kē)
 
 ##816## Lindo / Adorable / Mono. \n Matiz: Despierta afecto, ya sea por apariencia o por carácter.	可爱 (kě ài)
@@ -1692,7 +1686,7 @@ v. Descargar	下载 (xià zài)
 
 ##898## Agua fresca. \n Matiz: Agua natural o fresca, no necesariamente helada.	凉水 (liáng shuǐ)
 
-##899## Dos. \n Matiz: Se usa para expresar cantidades o pares ante un clasificador.	两 (liǎng)
+##899## Dos \n Matiz: Se usa obligatoriamente antes de los clasificadores para contar objetos, personas, etc. Nunca se usa 二 para esto.	两 (liǎng)
 
 ##900## Brillante / Encendido. \n Matiz: Que emite luz o que una habitación está bien iluminada.	亮 (liàng)
 
@@ -2147,8 +2141,6 @@ v. Descargar	下载 (xià zài)
 ##1135## Todo / Totalidad. \n Matiz: El conjunto completo sin excepciones.	全部 (quán bù)
 
 ##1136## Nacional / Todo el país.	全国 (quán guó)
-
-##1137## Toda la familia.	全家 (quán jiā)
 
 ##1138## Todo el año / Anual.	全年 (quán nián)
 
@@ -3242,8 +3234,6 @@ v. Descargar	下载 (xià zài)
 
 ##1700## Estar en / En. \n Matiz: Indica ubicación física o que una acción está en progreso. 	在 (zài)
 
-##1701## Estar en casa. \n Matiz: Situación de no haber salido del hogar. 	在家 (zài jiā)
-
 ##1702## Patrocinar / Ayudar. \n Matiz: Brindar apoyo financiero o material a una causa o evento. 	赞助 (zàn zhù)
 
 ##1703## Sucio. \n Matiz: Que tiene manchas o falta de higiene. 	脏 (zàng)
@@ -3631,8 +3621,6 @@ v. Descargar	下载 (xià zài)
 
 ##1899## v. deshacerse de malos hábitos	改掉 (gǎi diào)
 
-##1900## prep. dentro. \n Expresión formal que indica que algo ocurre dentro de un límite de tiempo, espacio o capacidad.	之内 (zhī nèi) \n 三天之内完成任务。
-
 ##1902## el primer lugar / el número uno	第一名 (dì yī míng)
 
 ##1903## s. galleta	饼干 (bǐng gān)
@@ -3658,8 +3646,6 @@ v. Descargar	下载 (xià zài)
 ##1917## s. cable / cuerda / soga	绳子 (shéng zi)
 
 ##1918## s. monstruo, persona extraña	怪物 (guài wù)
-
-##1919## mod. Conocido en todos los hogares	家喻户晓 (jiā yù hù xiǎo)
 
 ##1920## Grueso / Gordo. \n Matiz: Grosor de objetos planos (libros, ropa, paredes); no se usa para personas.	厚 (hòu)
 
