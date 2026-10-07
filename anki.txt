@@ -344,8 +344,6 @@
 
 ##187## Llegar tarde. \n Matiz: No cumplir con el horario establecido.	迟到 (chí dào)
 
-##188## Fumar. \n Matiz: Acción de consumir tabaco.	抽烟 (chōu yān)
-
 ##189## Partir / Salir de viaje. \n Matiz: El momento exacto en que se inicia un trayecto.	出发 (chū fā)
 
 ##190## Ir al extranjero. \n Matiz: Salir del propio país para viajar o vivir fuera.	出国 (chū guó)
@@ -987,8 +985,6 @@ v. Descargar	下载 (xià zài)
 ##539## Audiencia / Espectadores. \n Matiz: El público que asiste físicamente a ver un evento.	观众 (guān zhòng)
 
 ##540## Administrar. \n Matiz: Organizar y controlar recursos, empresas o personas.	管理 (guǎn lǐ)
-
-##541## 1. Como Sustantivo: "Luz" / "Brillo" - Es el significado directo y básico. \n 2. Como Complemento de Resultado: "Agotado" / "Terminado" / "Sin nada" - ¡Este es uno de sus usos más vivos en el chino hablado! Puesto después de un verbo, indica que la acción consumió todo hasta no dejar nada. Equivaldría a decir "acabar con todo", "quedar en cero" o "limpio".	光 (guāng) \n 1. 阳光 - Luz del sol / Radiante. \n 2. 他把钱都花光了。- Él se gastó absolutamente todo el dinero.
 
 ##542## CD / Disco óptico. \n Matiz: Soporte físico de almacenamiento de datos o música.	光盘 (guāng pán)
 
@@ -2688,7 +2684,7 @@ v. Descargar	下载 (xià zài)
 
 ##1430## s./adj. Higiene / salubridad.	卫生 (wèi shēng)
 
-##1431## Baño / Aseo / Cuarto de baño.	卫生间 (wèi shēng jiān)
+##1431## (3) Baño / Aseo / Cuarto de baño.	卫生间 (wèi shēng jiān) \n 洗手间 (xǐ shǒu jiān) \n 	厕所 (cè suǒ)
 
 ##1432## Para / Con el fin de. \n Matiz: Introduce el propósito de una acción.	为了 (wèi le)
 
@@ -2734,8 +2730,6 @@ v. Descargar	下载 (xià zài)
 
 ##1454## Almuerzo / Comida del mediodía (cotidiano).	午饭 (wǔ fàn)
 
-##1455## Siesta / Dormir al mediodía.	午睡 (wǔ shuì)
-
 ##1456## Malentendido / Malentender.	误会 (wù huì)
 
 ##1457## Inhalar / Succionar / Absorber.	吸 (xī)
@@ -2745,8 +2739,6 @@ v. Descargar	下载 (xià zài)
 ##1459## Atraer / Atraer la atención.	吸引 (xī yǐn)
 
 ##1460## Esperar / Esperanza.	希望 (xī wàng)
-
-##1461## Baño (Lavabo).	洗手间 (xǐ shǒu jiān)
 
 ##1462## Lavadora.	洗衣机 (xǐ yī jī)
 
@@ -3699,8 +3691,6 @@ v. Descargar	下载 (xià zài)
 
 ##1955## Restaurante / comedor. \n Matiz: Generalmente se refiere a un restaurante.	餐厅 (cān tīng)
 
-##1956## Baño / aseo. \n Matiz: Lugar donde se va al baño; 卫生间 es una alternativa más cortés.	厕所 (cè suǒ)
-
 ##1957## Revisar / comprobar / consultar. \n Matiz: Mirar algo para obtener información o verificarlo.	查看 (chá kàn)
 
 ##1958## Buscar/Consultar datos e información \n Enfoque: Se trata de una búsqueda metódica o sistemática de información, datos, registros, archivos, archivos digitales, códigos o palabras en un sistema o documento.	查找 (chá zhǎo) \n 在数据库里查找资料。- Buscar información en la base de datos.
@@ -3997,9 +3987,9 @@ v. Descargar	下载 (xià zài)
 
 ##2109## Noche. \n Matiz: Período de oscuridad, especialmente desde el anochecer hasta antes del amanecer.	夜晚 (yè wǎn)
 
-##2110## Usar para. \n Matiz: Indica el propósito para el que se utiliza algo.	用来 (yòng lái)
+##2110## Es usado para + (verbo). \n Matiz: Indica el propósito para el que se utiliza algo.	用来 (yòng lái)
 
-##2111## Utilizarse para / ser usado para. \n Matiz: Indica la función o propósito de algo, con un tono algo más formal que 用来.	用于 (yòng yú)
+##2111## Se aplica en + (sustantivo / ámbito / actividad). \n Matiz: Indica la función o propósito de algo, con un tono algo más formal que 用来.	用于 (yòng yú)
 
 ##2112## Divertirse / visitar / pasear. \n Matiz: Pasar tiempo agradable visitando lugares o realizando actividades recreativas.	游玩 (yóu wán)
 
