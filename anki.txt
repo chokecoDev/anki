@@ -2674,9 +2674,7 @@ v. Descargar	下载 (xià zài)
 
 ##1425## Hacia / Ir a. \n Matiz: Se centra en el movimiento físico y el destino. Siempre va de la mano de un verbo de movimiento (como ir, caminar, volar, conducir) y te indica que te estás desplazando rumbo a un lugar específico.	往 (wǎng)
 
-##1426## Olvidar. (Raíz).	忘 (wàng)
-
-##1427## Olvidar / Olvidarse de. \n Matiz: Verbo estándar para la pérdida de memoria de algo.	忘记 (wàng jì)
+##1427## (2)[raiz/completo] Olvidar / Olvidarse de. \n Matiz: Verbo estándar para la pérdida de memoria de algo.	忘记 (wàng jì) / 忘 (wàng)
 
 ##1428## Peligroso / Peligro.	危险 (wēi xiǎn)
 
@@ -3004,9 +3002,7 @@ v. Descargar	下载 (xià zài)
 
 ##1596## A un lado / Simultáneamente. \n Matiz: Se usa para dos acciones a la vez.	一边 (yī biān)
 
-##1597## Un poquitín / Una pizca. (Más pequeño que 一点儿).	一点点 (yì diǎn diǎn)
-
-##1598## Un poco / Algo. \n Matiz: Indica una cantidad pequeña.	一点儿 (yì diǎn ér)
+##1598## Un poco / Algo. \n Matiz: Indica una cantidad pequeña.	一点儿 (yì diǎn ér) \n Estructuras: Adjetivo + 一点儿 => 大一点儿 - Un poco más grande. \n Verbo + 一点儿 + Sustantivo \n 我想喝一点儿水。- Quiero beber un poco de agua.
 
 ##1599## Ciertamente / Definitivamente / Seguro. \n Matiz: Expresa alta probabilidad o mandato.	一定 (yí dìng)
 
@@ -3124,7 +3120,7 @@ v. Descargar	下载 (xià zài)
 
 ##1657## Tener de sobra / Haber en abundancia / "De eso hay un montón" \n Matiz: Esta expresión se usa a menudo para consolar a alguien, darle tranquilidad o simplemente exagerar que "no hay de qué preocuparse por la cantidad". \n Se coloca luego del sustantivo. 	有的是 (yǒu de shì) \n Estructura más común: [Sustantivo] + 有的是. => Literalmente suena como "De [sustantivo]... hay lo que es/hay de sobra". \n 别着急，时间有的是。- No te preocupes, hay tiempo de sobra.
 
-##1658## Un poco. \n Matiz: Indica una cantidad pequeña, a menudo con matiz negativo. 	有点儿 (yǒu diǎn ér)
+##1658## Un poco. \n Matiz: Indica una cantidad pequeña, a menudo con matiz negativo. 	有点儿 (yǒu diǎn ér) \n Estructura: Sujeto + 有点儿 + Adjetivo \n 今天有点儿冷。- Hoy hace un poco de frío.
 
 ##1659## Tener fuerza / Tener energía. \n Matiz: Estar vigoroso o tener potencia física. 	有劲儿 (yǒu jìn ér)
 
@@ -3139,8 +3135,6 @@ v. Descargar	下载 (xià zài)
 ##1665## Efectivo / Válido. \n Matiz: Que funciona correctamente o tiene vigencia legal. 	有效 (yǒu xiào)
 
 ##1666## Algunos. \n Matiz: Se refiere a una cantidad indeterminada de cosas o personas. 	有些 (yǒu xiē)
-
-##1667## Un poco. \n Matiz: Cantidad mínima, usualmente antes de un adjetivo. 	有一点儿 (yǒu yì diǎn ér)
 
 ##1668## Unos cuantos. \n Matiz: Variante para expresar "algunos" de forma leve. 	有一些 (yǒu yī xiē)
 
@@ -3695,7 +3689,7 @@ v. Descargar	下载 (xià zài)
 
 ##1958## Buscar/Consultar datos e información \n Enfoque: Se trata de una búsqueda metódica o sistemática de información, datos, registros, archivos, archivos digitales, códigos o palabras en un sistema o documento.	查找 (chá zhǎo) \n 在数据库里查找资料。- Buscar información en la base de datos.
 
-##1959## Casi / por poco. \n Eventos negativos o imprevistos ("Por poco me pasa...") \n Matiz: Se usa casi exclusivamente antes de verbos para hablar de eventos (generalmente negativos, indeseados o peligrosos) que estuvieron a punto de pasar, pero NO pasaron.	差点儿 (chà diǎnr) \n 我差点儿摔倒。- Casi me caigo / Por poco me caigo => Al final NO me caí.
+##1959## Casi / por poco. \n Eventos negativos o imprevistos ("Por poco me pasa...") \n Matiz: Se usa casi exclusivamente antes de verbos para hablar de eventos (generalmente negativos, indeseados o peligrosos) que estuvieron a punto de pasar, pero NO pasaron.	差点儿 (chà diǎnr) \n 我差点儿忘了。- Casi me olvido (pero no me olvidé).
 
 ##1960## Velocidad del vehículo. \n Matiz: Velocidad a la que circula un vehículo.	车速 (chē sù)
 
@@ -3807,7 +3801,7 @@ v. Descargar	下载 (xià zài)
 
 ##2017## Pagar la cuenta. \n Matiz: Realizar el pago de una comida, compra o servicio.	结账 (jié zhàng)
 
-##2019## Lugar turístico / atracción turística. \n Matiz: Lugar específico que las personas visitan por interés turístico.	景点 (jǐng diǎn)
+##2019## Lugar turístico / Punto de interés. \n Matiz: Lugar específico que las personas visitan por interés turístico.	景点 (jǐng diǎn)
 
 ##2020## Zona turística. \n Matiz: Área turística que puede incluir varios lugares de interés.	景区 (jǐng qū)
 
@@ -3901,9 +3895,7 @@ v. Descargar	下载 (xià zài)
 
 ##2066## Bosque. \n Matiz: Área extensa cubierta principalmente por árboles.	森林 (sēn lín)
 
-##2067## Un poco / ligeramente. \n Matiz: Indica una pequeña cantidad o grado; suele modificar verbos o adjetivos.	稍 (shāo)
-
-##2068## Un poco / ligeramente. \n Matiz: Expresa un grado pequeño; 稍微 es más común en el habla cotidiana.	稍微 (shāo wēi)
+(2)[corta/completa] "un poco", "un tantito" o "levemente". Se utiliza para suavizar el tono de una petición, reducir la intensidad de una acción, un estado o un adjetivo. \n Rara vez se usa solo; casi siempre actúa en conjunto con palabras como 一点儿 (yìdiǎnr), 一下 (yíxià) o 有点儿 (yǒudiǎnr) para "enmarcar" el adjetivo o verbo.	稍微 (shāo wēi) / 稍 (shāo)
 
 ##2069## Poco común / raro. \n Matiz: Algo que ocurre o se encuentra con poca frecuencia.	少见 (shǎo jiàn)
 
@@ -4042,3 +4034,5 @@ s. libro electrónico, e-book	电子书 (diàn zǐ shū)
 interj. ¡hey!	哎 (āi)
 
 interj. Es una exclamación mucho más expresiva, dramática y cargada de emoción. Equivale directamente en español a decir "¡Ay!", "¡Caramba!", "¡Madre mía!" o "¡Por Dios!".	哎呀 (āi yā)
+
+s. Campeón	冠军 (guàn jūn)
