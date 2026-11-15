@@ -706,7 +706,7 @@
 
 ##395## Descubrir. \n Matiz: Darse cuenta de algo que ya existía pero no se conocía.	发现 (fā xiàn)
 
-##396## Ley. \n Matiz: Conjunto de normas jurídicas que rigen una sociedad.	法律 (fǎ lǜ)
+##396## Ley. \n Matiz: Conjunto de normas jurídicas que rigen una sociedad. \n Ej: Al encontrarte con un problema legal tan complejo, es mejor que contrates a un abogado profesional para que te ayude.	法律 (fǎ lǜ) \n 遇到这么复杂的法律问题，你最好还是请一位专业的律师来帮忙。 (Yùdào zhème fùzá de fǎlǜ wèntí, nǐ zuìhǎo háishi qǐng yī wèi zhuānyè de lǜshī lái bāngmáng)
 
 ##397## Molesto / Agobiado. \n Matiz: Sentirse irritado o cansado por algo repetitivo o complicado.	烦 (fán)
 
@@ -814,7 +814,7 @@ v. Descargar	下载 (xià zài)
 
 ##450## Fotocopiar. \n Matiz: Obtener una copia física de un documento mediante una máquina.	复印 (fù yìn)
 
-##451## Complejo / Complicado. \n Matiz: Algo con muchos elementos o difícil de resolver.	复杂 (fù zá)
+##451## Complejo / Complicado. \n Matiz: Algo con muchos elementos o difícil de resolver. \n Ej: Al encontrarte con un problema legal tan complejo, es mejor que contrates a un abogado profesional para que te ayude.	复杂 (fù zá) \n 遇到这么复杂的法律问题，你最好还是请一位专业的律师来帮忙。 (Yùdào zhème fùzá de fǎlǜ wèntí, nǐ zuìhǎo háishi qǐng yī wèi zhuānyè de lǜshī lái bāngmáng.)
 
 ##452## Marido y mujer. \n Matiz: Forma común y cotidiana de referirse a un matrimonio.	夫妻 (fū qī)
 
@@ -1296,7 +1296,7 @@ v. Descargar	下载 (xià zài)
 
 ##704## Premio / Galardón. \n Matiz: Recompensa recibida por méritos, competencia o suerte.	奖 (jiǎng)
 
-##705## Bono / Premio en dinero. \n Matiz: Dinero extra otorgado por un buen desempeño laboral.	奖金 (jiǎng jīn)
+##705## Bono / Premio en dinero. \n Matiz: Dinero extra otorgado por un buen desempeño laboral. \n Ej: Nuestro jefe es muy estricto con los empleados, pero el bono de fin de año es muy alto.	奖金 (jiǎng jīn) \n 我们的老板对员工很严格，但是年底的奖金非常高。 (Wǒmen de lǎobǎn duì yuángōng hěn yángé, dànshì niándǐ de jiǎngjīn fēicháng gāo)
 
 ##706## Beca. \n Matiz: Ayuda económica concedida a estudiantes por sus méritos académicos.	奖学金 (jiǎng xué jīn)
 
@@ -1888,7 +1888,7 @@ v. Descargar	下载 (xià zài)
 
 ##1016## Año.	年 (nián)
 
-##1017## A finales de año.	年底 (nián dǐ)
+s. fin de año. \n Ej: Nuestro jefe es muy estricto con los empleados, pero el bono de fin de año es muy alto.	年底 (nián dǐ) \n 我们的老板对员工很严格，但是年底的奖金非常高。 (Wǒmen de lǎobǎn duì yuángōng hěn yángé, dànshì niándǐ de jiǎngjīn fēicháng gāo.)
 
 ##1018## Joven.	年轻 (nián qīng)
 
@@ -1965,8 +1965,6 @@ v. Descargar	下载 (xià zài)
 ##1054## adv. normalmente. \n Es una palabra de tiempo. Se refiere a lo que haces habitualmente en contraste con momentos especiales (como fines de semana, vacaciones o emergencias). Se enfoca en la frecuencia y la rutina personal.	平时 (píng shí)
 
 ##1056## Amigo.	朋友 (péng yǒu)
-
-##1057## Tropezar con / Encontrarse con. \n Matiz: Encontrar a alguien o algo por casualidad.	碰到 (pèng dào)
 
 ##1058## Lote / Clasificador / Criticar. \n Matiz: Un grupo de cosas o la acción de revisar/criticar.	批 (pī)
 
@@ -3154,7 +3152,7 @@ v. Descargar	下载 (xià zài)
 
 ##1678## Preparar la lección. \n Matiz: Estudiar el contenido antes de que el profesor lo explique. 	预习 (yù xí)
 
-##1679## (2) Encontrarse con / Toparse. \n Matiz: Suceso imprevisto de hallar a alguien o enfrentar un problema. 	遇到 (yù dào) / 遇见 (yù jiàn)
+##1679## (2) Encontrarse con / Toparse. \n Matiz: Suceso imprevisto de hallar a alguien o enfrentar un problema. \n Ej: Al encontrarte con un problema legal tan complejo, es mejor que contrates a un abogado profesional para que te ayude. 	遇到 (yù dào) / 遇见 (yù jiàn) \n 遇到这么复杂的法律问题，你最好还是请一位专业的律师来帮忙。 (Yùdào zhème fùzá de fǎlǜ wèntí, nǐ zuìhǎo háishi qǐng yī wèi zhuānyè de lǜshī lái bāngmáng)
 
 ##1680## Yuan / Unidad. \n Matiz: Moneda básica de China o clasificador de piezas. 	元 (yuán)
 
@@ -3476,7 +3474,7 @@ v. Descargar	下载 (xià zài)
 
 ##1844## Especialmente. \n Matiz: De forma particular.	专门 (zhuān mén)
 
-##1845## Especialidad (académica) / Carrera universitaria / Profesional (adj.) \n Matiz: Tu área de estudio, especialización o nivel técnico.	专业 (zhuān yè) \n 你在大学学什么专业？ - ¿Qué carrera (especialidad) estudias en la universidad?
+##1845## Especialidad (académica) / Carrera universitaria / Profesional (adj.) \n Matiz: Tu área de estudio, especialización o nivel técnico. \n  Ej: ¿Qué carrera (especialidad) estudias en la universidad?	专业 (zhuān yè) \n 你在大学学什么专业？ (Nǐ zài dàxué xué shénme zhuānyè?)
 
 ##1846## Cambio natural o espontáneo (sin intención). \n No controlas el cambio. \n Raíz simple	变 (biàn)
 
@@ -3525,7 +3523,7 @@ v. Descargar	下载 (xià zài)
 
 ##1868## Más. \n Matiz: Superlativo.	最 (zuì)
 
-##1869## (2) Será mejor que... \n 1. Se usa para dar un consejo directo, una recomendación fuerte o una advertencia. No hay debate; simplemente te estoy diciendo cuál es la acción ideal que debes tomar para evitar problemas o tener un buen resultado. \n 2. Se usa para dar sugerencias, implica que has evaluado diferentes opciones, comparado la situación, o incluso cambiado de opinión. Significa que, dadas las circunstancias, esta es la mejor elección.	最好 (zuì hǎo) - 外面下雨了，你最好带一把伞。\n 还是 - 太晚了，我们还是打车吧。
+##1869## (2, 3~) Será mejor que... \n 1. Se usa para dar un consejo directo, una recomendación fuerte o una advertencia. No hay debate; simplemente te estoy diciendo cuál es la acción ideal que debes tomar para evitar problemas o tener un buen resultado. \n 2. Se usa para dar sugerencias, implica que has evaluado diferentes opciones, comparado la situación, o incluso cambiado de opinión. Significa que, dadas las circunstancias, esta es la mejor elección. Ej: Al encontrarte con un problema legal tan complejo, es mejor que contrates a un abogado profesional para que te ayude.	最好 (zuì hǎo) - 外面下雨了，你最好带一把伞。\n 还是 - 太晚了，我们还是打车吧。\n 遇到这么复杂的法律问题，你最好还是请一位专业的律师来帮忙。 (Yùdào zhème fùzá de fǎlǜ wèntí, nǐ zuìhǎo háishi qǐng yī wèi zhuānyè de lǜshī lái bāngmáng)
 
 ##1870## adv./s. finalmente, final. \n Matiz: Último.	最后 (zuì hòu)
 
@@ -4026,3 +4024,17 @@ v. Descargar	下载 (xià zài)
 s. dormitorio	卧室 (wò shì)
 
 s. libro electrónico, e-book	电子书 (diàn zǐ shū)
+
+s. Ingeniero \n Ej: Ingeniero de Software	工程师 (gōng chéng shī) \n 软件工程师 (ruǎnjiàn gōngchéngshī)
+
+s. Programa (informático), procedimiento \n Ej: Programador.	程序 (chéng xù) \n 程序员 (chéng xù yuán)
+
+Función / Rol activo. Enfatiza la acción de desempeñar un cargo o la aspiración de ejercerlo. Si la oración es corta y directa ("Soy X"), usa 是. Si la oración cuenta dónde, cuánto tiempo o cuándo desempeñas ese cargo, usa * \n Ej: Antes trabajé como ingeniero de software.	当 (dāng) \n 我以前当过软件工程师。(Wǒ yǐqián dāng guo ruǎnjiàn gōngchéngshī)
+
+s. Software \n Ej: Ingeniero de Sofware.	软件 (ruǎnjiàn) \n 软件工程师 (ruǎnjiàn gōngchéngshī)
+
+s. Jefe / Dueño \n Ej: Nuestro jefe es muy estricto con los empleados, pero el bono de fin de año es muy alto.	老板 (lǎo bǎn) \n 我们的老板对员工很严格，但是年底的奖金非常高。 (Wǒmen de lǎobǎn duì yuángōng hěn yángé, dànshì niándǐ de jiǎngjīn fēicháng gāo)
+
+s. Empleado, personal \n Ej: Nuestro jefe es muy estricto con los empleados, pero el bono de fin de año es muy alto	员工 (yuán gōng) \n 我们的老板对员工很严格，但是年底的奖金非常高。 (Wǒmen de lǎobǎn duì yuángōng hěn yángé, dànshì niándǐ de jiǎngjīn fēicháng gāo)
+
+s. Experto	专家 (zhuān jiā)
