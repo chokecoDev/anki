@@ -1046,7 +1046,7 @@ v. Descargar	下载 (xià zài)
 
 ##573## Muchísimos. \n Matiz: Forma coloquial de decir "una gran cantidad de".	好多 (hǎo duō)
 
-##574## Bien / Con esmero. \n Matiz: Hacer algo con dedicación y cuidado (ej. "estudiar bien").	好好 (hǎo hǎo)
+##574## Bien / Con esmero. \n Matiz: Hacer algo con dedicación y cuidado (ej. "estudiar bien").	好好 (hǎo hǎo) \n 好好学习 - Estudiar en serio / aplicarse en los estudios.
 
 ##575## Mucho tiempo. \n Matiz: Indica que ha pasado un periodo largo de tiempo.	好久 (hǎo jiǔ)
 
@@ -2124,7 +2124,7 @@ v. Descargar	下载 (xià zài)
 
 ##1138## Todo el año / Anual.	全年 (quán nián)
 
-##1139## s. el mundo entero; global.	全球 (quán qiú) \n 全球气候变化影响很大。- El cambio climático global tiene un gran impacto.
+##1139## s. el mundo entero; global. \n El cambio climático global tiene un gran impacto.	全球 (quán qiú) \n 全球气候变化影响很大。- El cambio climático global tiene un gran impacto.
 
 ##1140## Todo el cuerpo.	全身 (quán shēn)
 
@@ -2564,8 +2564,6 @@ v. Descargar	下载 (xià zài)
 
 ##1367## Dulce.	甜 (tián)
 
-##1368## Completar los espacios en blanco (ejercicio escolar).	填空 (tián kòng)
-
 ##1369## Condición. \n Matiz: Circunstancias necesarias o términos de un acuerdo.	条件 (tiáo jiàn) \n 我的工作条件很好。
 
 ##1370## Saltar / Brincar. \n Matiz: Acción física general de elevarse del suelo.	跳 (tiào)
@@ -2577,8 +2575,6 @@ v. Descargar	下载 (xià zài)
 ##1373## Comprensión auditiva. \n Matiz: Habilidad de entender lo que se oye (común en exámenes).	听力 (tīng lì)
 
 ##1374## Oír decir / Según dicen. \n Matiz: Reportar algo que se sabe por rumores o terceros.	听说 (tīng shuō)
-
-##1375## Dictado. \n Matiz: Actividad académica de escribir lo que el profesor lee.	听写 (tīng xiě)
 
 ##1376## Audiencia / Oyentes. \n Matiz: Personas que escuchan un discurso, radio o concierto.	听众 (tīng zhòng)
 
@@ -2744,7 +2740,7 @@ v. Descargar	下载 (xià zài)
 
 ##1464## Gustar / Estimar / Ser aficionado a.	喜爱 (xǐ ài)
 
-##1465## Delgado / Fino / Detallado. \n Matiz: Objeto de poco grosor o trabajo minucioso.	细 (xì)
+##1465## (car. raíz) Delgado / Fino / Detallado. \n Matiz: Objeto de poco grosor o trabajo minucioso.	细 (xì)
 
 ##1466## Noroeste.	西北 (xī běi)
 
@@ -2802,7 +2798,7 @@ v. Descargar	下载 (xià zài)
 
 ##1495## Caja / Maleta / Baúl.	箱子 (xiāng zi)
 
-##1496## Sonar / Ruidoso / Alto (volumen).	响 (xiǎng)
+##1496## v./adj. Sonar / Ruidoso.	响 (xiǎng)
 
 ##1497## Idea o pensamiento en la cabeza. \n Más abstracto, lo que alguien tiene en mente.	想法 (xiǎng fǎ)
 
@@ -4021,18 +4017,12 @@ v. Descargar	下载 (xià zài)
 
 ##2131## Cuidadosamente / con atención. \n Matiz: Realizar algo prestando mucha atención para evitar errores.	仔细 (zǐ xì)
 
-##2132## Estudio autónomo. \n Matiz: Estudiar por cuenta propia, especialmente en un período reservado para estudiar.	自习 (zì xí)
+##2132## Estudiar. \n Matiz: Estudiar por tu cuenta (revisar materia o hacer tareas de un curso que ya llevas).	自习 (zì xí)
 
-##2133## Estudiar por cuenta propia. \n Matiz: Aprender de manera independiente sin depender directamente de un profesor.	自学 (zì xué)
+##2133## Estudiar. \n Matiz: Es aprender algo nuevo por tu cuenta sin un profesor.	自学 (zì xué)
 
 ##2135## Respetar. \n Matiz: Mostrar consideración y reconocimiento hacia una persona, opinión, regla o cultura.	尊重 (zūn zhòng)
 
 s. dormitorio	卧室 (wò shì)
 
 s. libro electrónico, e-book	电子书 (diàn zǐ shū)
-
-interj. ¡hey!	哎 (āi)
-
-interj. Es una exclamación mucho más expresiva, dramática y cargada de emoción. Equivale directamente en español a decir "¡Ay!", "¡Caramba!", "¡Madre mía!" o "¡Por Dios!".	哎呀 (āi yā)
-
-s. Campeón	冠军 (guàn jūn)
