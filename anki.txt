@@ -146,7 +146,7 @@
 
 ##80## Por ejemplo. \n Formal y escrito	例如 (lì rú)
 
-##81## Competencia, concurso, partido (especialmente en deportes).	比赛 (bǐ sài)
+##81## Competencia, concurso, partido (especialmente en deportes). \n Ej: Apenas terminó la competencia, muchos periodistas corrieron a entrevistar a ese joven atleta. 	比赛 (bǐ sài) \n 比赛刚一结束，很多记者就跑过去采访那位年轻的运动员。(Bǐsài gāng yī jiéshù, hěn duō jìzhě jiù pǎo guòqù cǎifǎng nà wèi niánqīng de yùndòngyuán)
 
 ##82## Transformarse en / Convertirse en. \n Es el término más común y físico. Indica un cambio de forma, naturaleza o estado, a menudo de manera evidente o drástica.	变成 (biàn chéng) \n \n 水变成了冰。\n Shuǐ biàn chéng le bīng. \n El agua se convirtió en hielo.
 
@@ -526,7 +526,9 @@
 
 ##296## Cuchillo. \n Matiz: Herramienta genérica de corte con filo.	刀 (dāo)
 
-##297## Guía turístico. \n Matiz: Persona que acompaña y explica lugares a viajeros.	导游 (dǎo yóu)
+##297## Guía turístico. \n Matiz: Persona que acompaña y explica lugares a viajeros. \n Ej: Como ella no solo habla bien idiomas extranjeros, sino que también conoce muy bien la historia local, es muy adecuada para trabajar de guía turística	导游 (dǎo yóu) \n 因为她不仅外语说得好，而且非常了解当地的历史，所以很适合当导游。(Yīnwèi tā bùjǐn wàiyǔ shuō de hǎo, érqiě fēicháng liǎojiě dāngdì de lìshǐ, suǒyǐ hěn shìhé dāng dǎoyóu)
+
+s. Zona local. \n Ej: Como ella no solo habla bien idiomas extranjeros, sino que también conoce muy bien la historia local, es muy adecuada para trabajar de guía turística.	当地 (dāng dì) \n 因为她不仅外语说得好，而且非常了解当地的历史，所以很适合当导游。(Yīnwèi tā bùjǐn wàiyǔ shuō de hǎo, érqiě fēicháng liǎojiě dāngdì de lìshǐ, suǒyǐ hěn shìhé dāng dǎoyóu)
 
 ##298## Llegar / Hasta. \n Matiz: Indica el término de un movimiento o un límite temporal/espacial.	到 (dào)
 
@@ -1014,7 +1016,9 @@ v. Descargar	下载 (xià zài)
 
 ##556## Celebrar Año Nuevo. \n Matiz: Generalmente referido al Año Nuevo Lunar (Chino).	过年 (guò nián)
 
-##557## 1. Como sustantivo de Tiempo ("El pasasdo"). \n Este es su uso más frecuente cuando hablamos de la línea del tiempo. Se refiere a cosas que ya sucedieron, a tu historia personal o a épocas anteriores. \n 2. Como Dirección ("Pasar / Ir hacia allá") \n En este caso, la palabra funciona como un complemento de dirección. Indica que una acción o un objeto se desplaza alejándose de ti (el hablante) hacia otro punto.	过去 (guò qù) \n 1. 过去，人们没有智能手机。- En el pasado, la gente no tenía teléfonos inteligentes. \n 2. 我现在过去。- Voy para allá ahora. (Me desplazo hacia donde estás tú).
+##557## 1. Como sustantivo de Tiempo ("El pasasdo"). \n Este es su uso más frecuente cuando hablamos de la línea del tiempo. Se refiere a cosas que ya sucedieron, a tu historia personal o a épocas anteriores.	过去 (guò qù)
+
+Como Dirección ("Pasar / Ir hacia allá") \n En este caso, la palabra funciona como un complemento de dirección. Indica que una acción o un objeto se desplaza alejándose de ti (el hablante) hacia otro punto. \n Ej: Apenas terminó la competencia, muchos periodistas corrieron a entrevistar a ese joven atleta	过去 (guò qù) \n 比赛刚一结束，很多记者就跑过去采访那位年轻的运动员。(Bǐsài gāng yī jiéshù, hěn duō jìzhě jiù pǎo guòqù cǎifǎng nà wèi niánqīng de yùndòngyuán)
 
 ##558## Jajaja. \n Matiz: Onomatopeya estándar para representar la risa.	哈哈 (hā hā)
 
@@ -1068,7 +1072,7 @@ v. Descargar	下载 (xià zài)
 
 ##584## v. llegar a un acuerdo, completar negociaciones. \n Expresa que "ambas partes han hablado o discutido y finalmente han obtenido un resultado satisfactorio para todos". ¡Es por eso que significa "llegar a un acuerdo o consenso"!.	说好 (shuō hǎo)
 
-##585## Adecuado / Apropiado. \n Matiz: Que encaja perfectamente en una situación, talla o uso.	合适 (hé shì)
+##585## Adecuado / Apropiado. \n Ej: Ella encaja bien con este trabajo. \n Ej: Tú usando esta ropa se ve muy apropiado	合适 (hé shì) / 适合 (shì hé) \n 她很适合这份工作。\n 你穿这件衣服很合适。
 
 ##586## (4) Y / Con. \n Matiz: Conjunción para unir sustantivos.	和 (hé) \n 而且 (ér qiě) \n 此外 (cǐ wài) \n 并且 (bìng qiě) \n 他工作很努力，并且很有经验。- Él trabaja muy duro y además tiene mucha experiencia. \n 这个考试需要准备很多材料。此外，还需要大量的练习。- Este examen requiere preparar muchos materiales. Además (asimismo), también necesita una gran cantidad de práctica.
 
@@ -2398,8 +2402,6 @@ s. fin de año. \n Ej: Nuestro jefe es muy estricto con los empleados, pero el b
 
 ##1281## Si / Ya sea que. \n Matiz: Conector formal equivalente al "si o no".	是否 (shì fǒu)
 
-##1282## Adaptarse / Venir bien. \n Matiz: Idoneidad abstracta (ej. este trabajo me va bien).	适合 (shì hé)
-
 ##1283## Su significado principal gira en torno a la idea de "guardar", "recoger", "juntar" o "recibir". \n Cuando usamos *, nos enfocamos en la idea física de concentración: tomar elementos que están expuestos o sueltos y guardarlos, ordenarlos o juntarlos para que no estén dispersos o desordenados. \n Caracter simple.	收 (shōu)
 
 ##1284## Recibir (un mensaje, paquete o regalo) \n Combinas la acción base de recibir (*) con el complemento de resultado 到 (dào), el cual indica que la acción fue un éxito y el objeto ha llegado a tus manos.	收到 (shōu dào)
@@ -3186,7 +3188,7 @@ s. fin de año. \n Ej: Nuestro jefe es muy estricto con los empleados, pero el b
 
 ##1695## Deporte / Ejercicio. \n Matiz: Actividad física reglamentada o movimiento. 	运动 (yùn dòng)
 
-##1696## Deportista / Atleta. \n Matiz: Persona que practica deportes de forma profesional o asidua. 	运动员 (yùn dòng yuán)
+##1696## Deportista / Atleta. \n Matiz: Persona que practica deportes de forma profesional o asidua. Ej: Apenas terminó la competencia, muchos periodistas corrieron a entrevistar a ese joven atleta. 	运动员 (yùn dòng yuán) \n 比赛刚一结束，很多记者就跑过去采访那位年轻的运动员。(Bǐsài gāng yī jiéshù, hěn duō jìzhě jiù pǎo guòqù cǎifǎng nà wèi niánqīng de yùndòngyuán)
 
 ##1697## Revista. \n Matiz: Publicación periódica sobre temas específicos. 	杂志 (zá zhì)
 
@@ -4038,3 +4040,5 @@ s. Jefe / Dueño \n Ej: Nuestro jefe es muy estricto con los empleados, pero el 
 s. Empleado, personal \n Ej: Nuestro jefe es muy estricto con los empleados, pero el bono de fin de año es muy alto	员工 (yuán gōng) \n 我们的老板对员工很严格，但是年底的奖金非常高。 (Wǒmen de lǎobǎn duì yuángōng hěn yángé, dànshì niándǐ de jiǎngjīn fēicháng gāo)
 
 s. Experto	专家 (zhuān jiā)
+
+v. Entrevistar \n Ej: Ej: Apenas terminó la competencia, muchos periodistas corrieron a entrevistar a ese joven atleta	采访 (cǎi fǎng) \n 比赛刚一结束，很多记者就跑过去采访那位年轻的运动员。(Bǐsài gāng yī jiéshù, hěn duō jìzhě jiù pǎo guòqù cǎifǎng nà wèi niánqīng de yùndòngyuán)
